@@ -9,74 +9,115 @@
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
             line-height: 1.6;
             color: #333;
-            max-width: 800px;
+            max-width: 850px;
             margin: 0 auto;
             padding: 2rem;
             background-color: #f4f7f9;
         }
         .container {
             background: white;
-            padding: 2rem;
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            padding: 2.5rem;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
         }
-        h1 { color: #004a99; border-bottom: 2px solid #004a99; padding-bottom: 10px; }
-        h2 { color: #2c3e50; margin-top: 1.5rem; }
+        h1 { color: #004a99; border-bottom: 3px solid #004a99; padding-bottom: 10px; margin-top: 0; }
+        h2 { color: #2c3e50; margin-top: 0; margin-bottom: 10px; }
         .step {
             display: flex;
             align-items: flex-start;
-            margin-bottom: 20px;
-            padding: 15px;
-            background: #fff;
-            border-left: 5px solid #004a99;
+            margin-bottom: 25px;
+            padding: 20px;
+            background: #ffffff;
+            border: 1px solid #e1e8ed;
+            border-left: 6px solid #004a99;
+            border-radius: 4px;
         }
         .step-number {
             background: #004a99;
             color: white;
-            width: 35px;
-            height: 35px;
+            width: 40px;
+            height: 40px;
             border-radius: 50%;
             display: flex;
             align-items: center;
             justify-content: center;
             font-weight: bold;
-            margin-right: 15px;
+            margin-right: 20px;
             flex-shrink: 0;
-            font-size: 1.2rem;
+            font-size: 1.3rem;
         }
         .btn {
             display: inline-block;
             background: #007bff;
             color: white;
-            padding: 12px 24px;
+            padding: 14px 28px;
             text-decoration: none;
-            border-radius: 5px;
+            border-radius: 6px;
             font-weight: bold;
-            margin: 10px 0;
+            margin: 15px 0;
+            font-size: 1.1rem;
         }
         .btn:hover { background: #0056b3; }
+        .shortcut-box {
+            display: flex;
+            gap: 15px;
+            margin-top: 15px;
+        }
+        .shortcut {
+            background: #f8f9fa;
+            border: 1px solid #dee2e6;
+            padding: 10px 15px;
+            border-radius: 6px;
+            flex: 1;
+        }
+        .shortcut strong { color: #004a99; font-size: 1.1rem; }
+        kbd {
+            background-color: #eee;
+            border-radius: 3px;
+            border: 1px solid #b4b4b4;
+            box-shadow: 0 1px 1px rgba(0,0,0,.2),0 2px 0 0 rgba(255,255,255,.7) inset;
+            color: #333;
+            display: inline-block;
+            font-size: .85em;
+            font-weight: 700;
+            line-height: 1;
+            padding: 2px 4px;
+            white-space: nowrap;
+        }
         .tip {
             background: #e7f3ff;
-            padding: 15px;
-            border-radius: 5px;
-            border-left: 5px solid #3a86ff;
-            margin: 20px 0;
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 6px solid #3a86ff;
+            margin: 25px 0;
         }
-        code { background: #eee; padding: 2px 5px; border-radius: 3px; font-weight: bold; }
     </style>
 </head>
 <body>
 
 <div class="container">
-    <h1>HOA Document "Cheat Sheet"</h1>
-    <p>To get the most accurate answers about our community rules, follow these <strong>3 simple steps</strong> to let AI (Gemini) read the <em>entire</em> document for you.</p>
+    <h1>HOA Document AI Helper</h1>
+    <p style="font-size: 1.2rem;">Follow these steps to allow Gemini AI to analyze the <strong>complete</strong> community document for you.</p>
 
     <div class="step">
         <div class="step-number">1</div>
-        <div>
-            <h2>Save the Document</h2>
-            <p>Click the button below to open the full document. Once it opens, <strong>Right-Click</strong> anywhere on the text and choose <strong>"Save As..."</strong> to save it to your computer (Desktop or Downloads folder).</p>
+        <div style="flex-grow: 1;">
+            <h2>Download the Master File</h2>
+            <p>First, click the blue button below to open the document. Once the page of text opens, use the <strong>Quick Keys</strong> for your computer to save it:</p>
+            
             <a href="https://raw.githubusercontent.com/dwbexley/DWBGovDocs/main/Formatted/HOADocs.txt" class="btn" target="_blank">Open HOA Document</a>
+
+            <div class="shortcut-box">
+                <div class="shortcut">
+                    <strong>Windows PCs:</strong><br>
+                    Press <kbd>Ctrl</kbd> + <kbd>S</kbd>
+                </div>
+                <div class="shortcut">
+                    <strong>Apple Macs:</strong><br>
+                    Press <kbd>Command ⌘</kbd> + <kbd>S</kbd>
+                </div>
+            </div>
+            <p><small><em>Save the file as "HOADocs.txt" to your Desktop or Downloads folder.</em></small></p>
         </div>
     </div>
 
@@ -84,35 +125,35 @@
         <div class="step-number">2</div>
         <div>
             <h2>Open Gemini</h2>
-            <p>Go to the Gemini website. You may need to sign in with your Google/Gmail account.</p>
-            <a href="https://gemini.google.com" class="btn" style="background: #6c757d;" target="_blank">Open Gemini AI</a>
+            <p>Click below to open the Google Gemini website. (You may need to log in with your Google or Gmail account).</p>
+            <a href="https://gemini.google.com" class="btn" style="background: #6c757d;" target="_blank">Go to Gemini AI</a>
         </div>
     </div>
 
     <div class="step">
         <div class="step-number">3</div>
         <div>
-            <h2>Upload & Ask</h2>
-            <p>In the Gemini chat box at the bottom:</p>
-            <ul>
-                <li>Look for the <strong>Plus (+)</strong> or <strong>Paperclip</strong> icon.</li>
-                <li>Select the <code>HOADocs.txt</code> file you just saved.</li>
-                <li>Type your question and press Enter!</li>
-            </ul>
+            <h2>Upload and Ask</h2>
+            <p>In the Gemini "Type something here" box at the bottom:</p>
+            <ol>
+                <li>Click the <strong>Plus (+)</strong> or <strong>Paperclip</strong> icon.</li>
+                <li>Choose the <code>HOADocs.txt</code> file you just saved.</li>
+                <li>Ask your question (e.g., "What are the rules for fences?") and press Enter.</li>
+            </ol>
         </div>
     </div>
 
     <div class="tip">
-        <strong>Try asking these questions:</strong>
+        <strong>Helpful Questions to Try:</strong>
         <ul>
-            <li>"Based on this file, what are the rules for pets and golf carts?"</li>
-            <li>"Can you make a table of all the amendments and what they changed?"</li>
-            <li>"I want to install a pool enclosure. What is the process?"</li>
+            <li>"Summarize the 2018 Second Amendment regarding pets."</li>
+            <li>"What is the process for getting a pool enclosure approved?"</li>
+            <li>"Create a list of all amendments and what they changed."</li>
         </ul>
     </div>
 
     <p style="font-size: 0.9rem; color: #666; text-align: center; margin-top: 30px;">
-        <em>Note: This tool is designed to help you find information quickly. Always verify official legal matters with the Board.</em>
+        <em>Disclaimer: This AI tool is for informational convenience. Please consult the official Board for legal verification.</em>
     </p>
 </div>
 
