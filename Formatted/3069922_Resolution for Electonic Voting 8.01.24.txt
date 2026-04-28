@@ -1,0 +1,69 @@
+DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC.
+RESOLUTION OF THE BOARD OF DIRECTORS AUTHORIZING ELECTRONIC VOTING
+
+Upon motion duly made by WILLIAM KRIMMEL, duly seconded by GARY ZIMA, the following Resolution authorizing electronic voting was adopted at a duly-noticed Board meeting on Aug 1, 2024 by at least a majority vote of the Board of Directors.
+
+RECITALS
+
+WHEREAS, Del Webb Bexley Community Association, Inc. (the "Association") is a not for profit corporation duly organized and existing under the laws of the State of Florida; and
+
+WHEREAS, Section 4.8 of the Bylaws of Del Webb Bexley Community Association, Inc. and Section 720.317, Florida Statutes, provide that the Association may conduct elections and other membership votes through an internet-based online voting system if a member consents, electronically or in writing, to online voting and if various requirements are met; and
+
+WHEREAS, the Board of Directors for the Association has determined it to be in the best interests of the Association to enable the use of electronic voting in connection with Membership votes on certain Association matters and to create the requisite authority required by the above-referenced statute;
+
+WHEREAS, the Board of Directors has voted to adopt the Resolution Authorizing Electronic Voting, attached hereto as Exhibit A, at a duly-noticed Board meeting, having provided the requisite notice to all Owners at least fourteen (14) days in advance of the meeting;
+
+NOW, THEREFORE, BE IT RESOLVED that the Board of Directors hereby approves and adopts the following resolution, attached hereto as Exhibit A, which shall govern and supersede any provisions of the Association's policies, rules or regulations which specifically conflict with the provisions hereof:
+
+DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC.
+
+Sign: [Signature]
+Print: GARY RIMA
+Title: PRESIDENT
+
+
+EXHIBIT A
+
+DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC.
+RESOLUTION OF THE BOARD OF DIRECTORS AUTHORIZING ELECTRONIC VOTING
+
+I. Authorization of Electronic Voting and General Regulations
+
+    The Board of Directors hereby authorizes the use of internet-based electronic voting for Voting Member elections and any matters requiring a vote of the Members of the Association as deemed appropriate for online voting as determined by the Board of Directors, in their sole discretion.
+
+    The Board of Directors shall use reasonable business judgment to select and utilize an online voting system that satisfies the requirements set forth in the Florida Statutes, including but not limited to, Section 720.317, Florida Statutes, as may be amended from time to time.
+
+    The Association will notify members of the availability of electronic voting and instructions by which members desiring to vote by electronic means may register.
+
+    All Members desiring to vote by electronic means shall register to vote electronically at least seventy-two (72) hours prior to the meeting at which electronic voting shall be utilized. Members are encouraged to consent to receive the Association's notices electronically while registering to vote electronically.
+
+    Members voting electronically shall be counted as being in attendance at the meeting for purposes of determining a quorum.
+
+    All votes cast electronically are final and may not be revoked online, in person or by proxy.
+
+    Members registered to vote online may still choose to vote in person or by proxy instead of electronically.
+
+    Members who register for online voting may thereafter opt out of online voting by notifying the Association's manager electronically or via certified U.S. mail of the Member's desire to opt out of electronic voting.
+
+    By providing consent to online voting and otherwise choosing to vote electronically as authorized by this Resolution, each Member recognizes that the Association cannot control the practices of third parties regarding internet communications and use of the Member's e-mail address. As such, and as a condition of the Association's agreement to permit electronic voting, each Member who consents to electronic voting releases and waives any and all claims against the Association pertaining to such voting, including but not limited to the transmission or placement of "viruses," "malware," "spyware," "cookies," and the like. Each Member who consents to electronic voting also consents to the Association's publication of their e-mail address, as well as other information (including necessary personal identifying information) to electronic voting service providers or other third parties to the extent and as may be reasonably necessary to enable the use of the electronic voting processes. Such information shall not be considered an official record available for Member inspection unless required by law.
+
+
+II. Members Must be Provided With:
+
+    A method to authenticate the Member's identify to the online/electronic voting system.
+
+    For elections to the Board, a method to transmit an electronic ballot to the online/electronic voting system that ensures the secrecy and integrity of each ballot.
+
+    A method to confirm, at least fourteen (14) days before the voting deadline, that the Member's electronic device can successfully communicate with the online/electronic voting system.
+
+III. The Online Voting System Must:
+
+    Be able to authenticate the Member's identity.
+
+    Be able to authenticate the validity of each electronic vote to ensure that the vote is not altered in transit.
+
+    Be able to transmit a receipt from the online/electronic voting system to each Member who casts an electronic vote.
+
+    For elections to the Board, be able to permanently separate any authentication or identifying information from the electronic election ballot, rendering it impossible to tie an election ballot to a specific owner, if the Association's Bylaws in effect at the time of the vote provide for secret voting.
+
+    Be able to store and keep electronic votes accessible to election officials for recount, inspection, and review.
