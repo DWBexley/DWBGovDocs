@@ -3,159 +3,111 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Del Webb Bexley - HOA Document Helper</title>
+    <title>Del Webb Bexley Community Governance Portal</title>
     <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            max-width: 850px;
-            margin: 0 auto;
-            padding: 2rem;
-            background-color: #f4f7f9;
-        }
-        .container {
-            background: white;
-            padding: 2.5rem;
-            border-radius: 12px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-        }
-        h1 { color: #004a99; border-bottom: 3px solid #004a99; padding-bottom: 10px; margin-top: 0; }
-        h2 { color: #2c3e50; margin-top: 0; margin-bottom: 10px; }
-        .step {
-            display: flex;
-            align-items: flex-start;
-            margin-bottom: 25px;
-            padding: 20px;
-            background: #ffffff;
-            border: 1px solid #e1e8ed;
-            border-left: 6px solid #004a99;
-            border-radius: 4px;
-        }
-        .step-number {
-            background: #004a99;
-            color: white;
-            width: 40px;
-            height: 40px;
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-weight: bold;
-            margin-right: 20px;
-            flex-shrink: 0;
-            font-size: 1.3rem;
-        }
-        .btn {
-            display: inline-block;
-            background: #007bff;
-            color: white;
-            padding: 14px 28px;
-            text-decoration: none;
-            border-radius: 6px;
-            font-weight: bold;
-            margin: 15px 0;
-            font-size: 1.1rem;
-        }
-        .btn:hover { background: #0056b3; }
-        .shortcut-box {
-            display: flex;
-            gap: 15px;
-            margin-top: 15px;
-        }
-        .shortcut {
-            background: #f8f9fa;
-            border: 1px solid #dee2e6;
-            padding: 10px 15px;
-            border-radius: 6px;
-            flex: 1;
-        }
-        .shortcut strong { color: #004a99; font-size: 1.1rem; }
-        kbd {
-            background-color: #eee;
-            border-radius: 3px;
-            border: 1px solid #b4b4b4;
-            box-shadow: 0 1px 1px rgba(0,0,0,.2),0 2px 0 0 rgba(255,255,255,.7) inset;
-            color: #333;
-            display: inline-block;
-            font-size: .85em;
-            font-weight: 700;
-            line-height: 1;
-            padding: 2px 4px;
-            white-space: nowrap;
-        }
-        .tip {
-            background: #e7f3ff;
-            padding: 20px;
-            border-radius: 8px;
-            border-left: 6px solid #3a86ff;
-            margin: 25px 0;
-        }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; color: #333; max-width: 950px; margin: 0 auto; padding: 20px; background-color: #f0f4f8; }
+        .card { background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); margin-bottom: 25px; }
+        h1 { color: #003366; text-align: center; margin-bottom: 30px; border-bottom: 3px solid #003366; padding-bottom: 10px; }
+        h2 { color: #004a99; border-bottom: 1px solid #eee; padding-bottom: 8px; margin-top: 0; }
+        .instruction-step { display: flex; align-items: flex-start; margin-bottom: 20px; }
+        .step-num { background: #004a99; color: white; width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 15px; flex-shrink: 0; font-weight: bold; margin-top: 2px; }
+        .browser-box { background: #fffbe6; border: 1px solid #ffe58f; padding: 15px; border-radius: 6px; margin: 15px 0; font-size: 0.95em; }
+        
+        /* Accordion Styling */
+        details { border: 1px solid #e0e0e0; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; cursor: pointer; transition: all 0.3s ease; }
+        details:hover { background: #f0f7ff; border-color: #004a99; }
+        summary { font-weight: bold; color: #004a99; outline: none; list-style: none; display: flex; align-items: center; }
+        summary::-webkit-details-marker { display: none; }
+        summary::before { content: '▶'; display: inline-block; width: 20px; transition: transform 0.2s; font-size: 0.8em; margin-right: 5px; }
+        details[open] summary::before { transform: rotate(90deg); }
+        
+        .content-area { padding: 15px 0 5px 25px; border-top: 1px solid #eee; margin-top: 10px; }
+        .legal-level { font-size: 0.85em; text-transform: uppercase; letter-spacing: 1px; color: #666; margin-bottom: 5px; display: block; font-weight: bold; }
+        .gemini-ui-desc { background: #f1f8ff; border-left: 4px solid #4285f4; padding: 15px; margin-top: 10px; border-radius: 0 8px 8px 0; }
+        .example-box { background: #fdfdfd; border: 1px dashed #bbb; padding: 10px; margin-top: 10px; border-radius: 4px; color: #555; }
+        
+        footer { text-align: center; font-size: 0.85em; color: #666; margin-top: 40px; }
+        a { color: #0366d6; text-decoration: none; font-weight: 500; }
+        a:hover { text-decoration: underline; }
     </style>
 </head>
 <body>
 
-<div class="container">
-    <h1>HOA Document AI Helper</h1>
-    <p style="font-size: 1.2rem;">Follow these steps to allow Gemini AI to analyze the <strong>complete</strong> community document for you.</p>
+    <h1>Del Webb Bexley: Governing Documents Portal</h1>
 
-    <div class="step">
-        <div class="step-number">1</div>
-        <div style="flex-grow: 1;">
-            <h2>Download the Master File</h2>
-            <p>First, click the blue button below to open the document. Once the page of text opens, use the <strong>Quick Keys</strong> for your computer to save it:</p>
-            
-            <a href="https://raw.githubusercontent.com/dwbexley/DWBGovDocs/main/Formatted/HOADocs.txt" class="btn" target="_blank">Open HOA Document</a>
-
-            <div class="shortcut-box">
-                <div class="shortcut">
-                    <strong>Windows PCs:</strong><br>
-                    Press <kbd>Ctrl</kbd> + <kbd>S</kbd>
-                </div>
-                <div class="shortcut">
-                    <strong>Apple Macs:</strong><br>
-                    Press <kbd>Command ⌘</kbd> + <kbd>S</kbd>
+    <div class="card">
+        <h2>How to Use the Digital Assistant</h2>
+        
+        <div class="instruction-step">
+            <div class="step-num">1</div>
+            <div><strong>Save the Document:</strong> 
+                <p>Click here to open the <a href="Formatted/HOADocs.txt" target="_blank"><b>HOADocs.txt Filing (Opens in New Window)</b></a>. You must save this file to your personal computer to enable the AI features:</p>
+                <div class="browser-box">
+                    <strong>Instructions to Save to Disk:</strong><br>
+                    • <b>Windows:</b> Press <code>Ctrl</code> + <code>S</code> (or right-click and select "Save As").<br>
+                    • <b>Apple/Mac:</b> Press <code>Command (⌘)</code> + <code>S</code> (or right-click and select "Save Page As").<br>
+                    Save the file as <b>HOADocs.txt</b> in a location you can easily find, like your Documents folder.
                 </div>
             </div>
-            <p><small><em>Save the file as "HOADocs.txt" to your Desktop or Downloads folder.</em></small></p>
+        </div>
+
+        <div class="instruction-step">
+            <div class="step-num">2</div>
+            <div><strong>Access the AI Assistant:</strong>
+                <p>Visit <a href="https://gemini.google.com" target="_blank">Gemini.google.com</a> and sign in. Click the <b>plus (+)</b> or <b>paperclip icon</b> in the chat input bar. Select <b>"Upload from computer"</b> and choose the <b>HOADocs.txt</b> file you saved in Step 1.</p>
+                <div class="gemini-ui-desc">
+                    <strong>Ready to Ask:</strong> Once the file is attached, type your question in plain English.
+                    <div class="example-box">
+                        <em>Try asking:</em> "Based on the filing, what are the rules regarding guest parking and golf carts?" or "What is the age requirement for permanent residents?"
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
-    <div class="step">
-        <div class="step-number">2</div>
-        <div>
-            <h2>Open Gemini</h2>
-            <p>Click below to open the Google Gemini website. (You may need to log in with your Google or Gmail account).</p>
-            <a href="https://gemini.google.com" class="btn" style="background: #6c757d;" target="_blank">Go to Gemini AI</a>
-        </div>
+    <div class="card">
+        <h2>Document Authority Hierarchy</h2>
+        <p>This "Order of Precedence" determines which rules take priority. Higher levels override lower levels in the event of a conflict.</p>
+        
+        <details>
+            <summary>Level 1: Federal & State Law (Supreme Authority)</summary>
+            <div class="content-area">
+                <span class="legal-level">National & State Statutes</span>
+                <p>All community rules must comply with the <b>U.S. Constitution</b> and <a href="http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0720/0720ContentsIndex.html" target="_blank">Florida Statute Chapter 720</a>. State law protects rights that an HOA cannot ban, such as flying the American flag or displaying specific religious symbols.</p>
+            </div>
+        </details>
+
+        <details>
+            <summary>Level 2: The Community Declaration (CC&Rs)</summary>
+            <div class="content-area">
+                <span class="legal-level">The Neighborhood "Constitution"</span>
+                <p>The Master Declaration is the primary local document. It establishes property rights, easements, assessment obligations, and permanent restrictions recorded with the county.</p>
+            </div>
+        </details>
+
+        <details>
+            <summary>Level 3: Articles & Bylaws</summary>
+            <div class="content-area">
+                <span class="legal-level">Corporate & Administrative Law</span>
+                <p>The Articles of Incorporation create the legal entity. The Bylaws serve as the "Operations Manual" for Board elections, meeting notices, and voting requirements.</p>
+            </div>
+        </details>
+
+        <details>
+            <summary>Level 4: Rules, Regulations & Design Guidelines</summary>
+            <div class="content-area">
+                <span class="legal-level">Board-Adopted Specifics</span>
+                <p>These provide the most detailed day-to-day rules, including Architectural (ARC) standards for fences and landscaping, as well as amenity usage policies.</p>
+            </div>
+        </details>
     </div>
 
-    <div class="step">
-        <div class="step-number">3</div>
-        <div>
-            <h2>Upload and Ask</h2>
-            <p>In the Gemini "Type something here" box at the bottom:</p>
-            <ol>
-                <li>Click the <strong>Plus (+)</strong> or <strong>Paperclip</strong> icon.</li>
-                <li>Choose the <code>HOADocs.txt</code> file you just saved.</li>
-                <li>Ask your question (e.g., "What are the rules for fences?") and press Enter.</li>
-            </ol>
-        </div>
-    </div>
+    <div class="card">
+        <h2>Common Resident Questions</h2>
+        <p>Click a topic below to see its context. You can ask the AI Assistant for more details on any of these inquiries.</p>
 
-    <div class="tip">
-        <strong>Helpful Questions to Try:</strong>
-        <ul>
-            <li>"Summarize the 2018 Second Amendment regarding pets."</li>
-            <li>"What is the process for getting a pool enclosure approved?"</li>
-            <li>"Create a list of all amendments and what they changed."</li>
-        </ul>
-    </div>
-
-    <p style="font-size: 0.9rem; color: #666; text-align: center; margin-top: 30px;">
-        <em>Disclaimer: This AI tool is for informational convenience. Please consult the official Board for legal verification.</em>
-    </p>
-</div>
-
-</body>
-</html>
+        <details>
+            <summary>🏠 Architectural Changes & Fences</summary>
+            <div class="content-area">
+                <p><strong>Common Question:</strong> "Can I install a fence, and what materials are allowed?"<br>
+                Governing documents specify that wood and chain-link fences are prohibited. Almost all exterior home modifications require prior approval from the Architectural Review
