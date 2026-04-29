@@ -16,41 +16,34 @@ The HOA Legal Hierarchy (Highest to Lowest)
 
         The "Constitution" of your specific neighborhood. This document is recorded with the county and stays with the land.
 
-        In your file: 01_Del_Webb_Bexley_Declaration.txt.
 
     Articles of Incorporation
 
         The document that creates the HOA as a legal non-profit corporation.
 
-        In your file: 02_Articles_of_Incorporation_2017.txt.
-
     Community Bylaws
 
         The "Administrative Manual" for how the Board runs meetings and elections.
 
-        In your file: 04_Bylaws_of_Del_Webb_Bexley.txt.
 
     Rules, Regulations, and Design Guidelines
 
         The most specific rules, usually passed by the Board to clarify the Declaration.
 
-        In your file: 15_Architectural_Design_Guidelines_v1.txt and 18_Rules_and_Regulations_Manual.txt.
 
 ===========================================================================
 MASTER INDEX: DEL WEBB BEXLEY COMMUNITY ASSOCIATION GOVERNING DOCUMENTS
 ===========================================================================
-How to use: Press 'Ctrl + F' and type the #Tag (e.g., #PETS) to jump to a topic.
+How to use: Press 'Ctrl + F' and type the #Tag (e.g., #BYLAWS) to jump to a topic.
 
 SECTION TITLE                          | KEY TOPICS             | SEARCH TAG
 ---------------------------------------|------------------------|----------
 1. Declaration                         | HOA 'Constitution'     | #DECLARATION
 2. Articles of Incorporation           | Legal Setup & Powers   | #LEGAL
-3. Community Bylaws                    | Meetings & Elections   | #VOTING
-4. Design/Architectural Guidelines     | Exterior Changes       | #ARC
-5. Late Fee Courtesy Policy            | Waiver Qualifications  | #FEES
-6. Electronic Voting Policy            | Waiver Qualifications  | #VOTING
-7. COMPLIANCE POLICY	               | Waiver Qualifications  | #COMPLIANCE
-8. CLUB POLICY   	               | Clubs		        | #CLUBS
+3. Community Bylaws                    | Meetings & Elections   | #BYLAWS 
+4. Committees Structure		       | Committees             | #COMMITTEES
+4. Compliance Guidelines	       | Compliance Policy      | #COMPLIANCE
+5. CLUBS		               | CLUBS			| #CLUBS
 ---------------------------------------|------------------------|----------
 
 Source: GitHub Repository for all source documents: https://github.com/DWBexley/DWBGovDocs/tree/main/Formatted
@@ -1585,6 +1578,8 @@ in a manner materially consistent with the previously existing Party Wall) the P
 shall first obtain the written consent of the adjoining Owner, which shall not be 
 unreasonably withheld, delayed or conditioned. 
 
+#DECLARATION-RESTRICTIONS
+
 12. Use Restrictions. The following Use Restrictions shall apply to all Lots within DEL WEBB 
 BEXLEY, except for any Lots owned by the Declarant. Each Owner, Lessee, Immediate Family 
 Member and their guests and invitees must comply with the following: 
@@ -2290,7 +2285,6 @@ Community Completion Date without prior written consent of Declarant.
 
 15.1.6 The right of Declarant and/or Association to modify the Common Areas as 
 set forth in this Declaration. 
-
 
 15.1.7 The perpetual right of Declarant to access and enter the Common Areas at 
 any time, even after the Community Completion Date, for the purposes of inspection and 
