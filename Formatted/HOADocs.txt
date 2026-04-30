@@ -31,6 +31,7 @@ The HOA Legal Hierarchy (Highest to Lowest)
         The most specific rules, usually passed by the Board to clarify the Declaration.
 
 
+
 ===========================================================================
 MASTER INDEX: DEL WEBB BEXLEY COMMUNITY ASSOCIATION GOVERNING DOCUMENTS
 ===========================================================================
@@ -51,8 +52,11 @@ Source: GitHub Repository for all source documents: https://github.com/DWBexley/
 ===========================================================================
 NOTE ON PRECEDENCE:
 If rules conflict, the order of authority is: 
-1. Supplemental Declarations -> 2. Articles -> 3. Bylaws.
+1. Declaration -> 2. Articles of Incorporation -> 3. Bylaws.
+
+When searching, prioritize #DECLARATION for property restrictions and #BYLAWS for meeting/voting procedures.
 ===========================================================================
+
 #DECLARATION
 Source: Declaration 08.17.2018.txt
 PREPARED BY AND RETURN TO: 
@@ -6250,6 +6254,8 @@ Amendments to the Community Declaration for Del Webb Bexley
 12.24.2
 B. No Home may be leased by an Owner unless and until at least one current Owner has owned the Home for a period of at least eighteen (18) months (the "Non-Lease Period"). This subsection ~~B~~ shall not apply to any Owner who ~~holds~~ held title to a Home as of ~~July 3, 2024~~ on the date of the recording of this amendment, any Owner of a Vacation Getaway Home, as that term is defined, or DEL WEBB BEXLEY, regardless of when DEL WEBB BEXLEY obtains title to any Home. Further, the provisions set forth in this section shall not apply to an Owner who obtains title to a Home from a person or entity that was exempt from the Non-Lease Period (e.g., an Owner who obtains title from an Owner who held title as of the date of the recording of this amendment), provided that the new Owner is a member of the prior Owner's immediate family (as defined in the Declaration) or is a trust or other entity established for the benefit of the prior Owner or the prior Owner's immediate family.
 
+#END-DECLARATION
+
 #LEGAL-ARTICLES
 Source: Articles of Incorporation 08.09.2018.txt
 
@@ -6555,6 +6561,8 @@ Principal Corporate Office:
 
 2662 S.Falkenburg Road 
 Riverview,FL 33578 
+
+#END-LEGAL
 
 #BYLAWS
 Source: ByLaws 08.13.2018.txt
@@ -7194,6 +7202,8 @@ III. The Online Voting System Must:
 
     Be able to store and keep electronic votes accessible to election officials for recount, inspection, and review.
 
+#END-BYLAWS
+
 #COMMITTEES
 Source: Committees 02.01.2023.txt
 
@@ -7243,6 +7253,8 @@ DONE by unanimous consent of the Board of Directors this 1st day of February 202
     Ray Aponte (Signed Feb 2, 2023)   
 
     Rich Paolini (Signed Feb 2, 2023)
+
+#END-COMMITTEES
 
 #COMPLIANCE
 Source: One Time Courtesy Waiver for Consistent Timely Payments 11.15.2023.txt
@@ -7516,6 +7528,8 @@ c.	If the owner of the vehicle is a vendor or delivery service, property managem
 5.	If no response is received within 30 days from the deadline for payment as expressed in the demand letter, described in number 2, the property manager will consult with the Board of Directors to determine if the matter should be referred to the Association’s attorney for collection.  The owner/driver of the vehicle will be responsible for all legal fees.
 
 6.	Without the express written permission of the Board of Directors, the strike video shall not be shared.  
+
+#END-COMPLIANCE
 
 #CLUBS
 Source: Club and Interest Groups Guidelines 08.16.2024.txt
@@ -7847,3 +7861,5 @@ AVAILABLE CLUB FORMS:
 1) Club Application
 2) Club Member Roster
 3) General Room Request/Special Event Request and Waiver
+
+#END-CLUBS
