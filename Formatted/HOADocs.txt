@@ -57,8 +57,12 @@ If rules conflict, the order of authority is:
 When searching, prioritize #DECLARATION for property restrictions and #BYLAWS for meeting/voting procedures.
 ===========================================================================
 
-#DECLARATION
-Source: Declaration 08.17.2018.txt
+===========================================================================
+SEARCH TAG: #DECLARATION
+FORMAL TITLE: COMMUNITY DECLARATION FOR DEL WEBB BEXLEY 
+SOURCE FILE: Declaration 08.17.2018.txt
+===========================================================================
+
 PREPARED BY AND RETURN TO: 
 
 James G. Kattelmann, Esq. 
@@ -4747,8 +4751,12 @@ a signed written order is filed with the clerk of the lower tribunal.
 EXHIBIT 5 
 ADDITIONAL PROPERTY 
 
-#DECLARATION-AMENDMENT
-Source: Declaration Amendment 11.07.2018.txt
+
+================================================T===========================
+SEARCH TAG: #DECLARATION-AMENDMENT
+FORMAL TITLE: FIRST AMENDMENT TO COMMUNITY DECLARATION 
+SOURCE FILE: Declaration Amendment 11.07.2018.txt
+===========================================================================
 
 FIRST AMENDMENT TO COMMUNITY DECLARATION
 FOR DEL WEBB BEXLEY 
@@ -5044,9 +5052,11 @@ as of the date and year first above written.
 The foregoing instrument was acknowledged before me this 7th day of November, 2018, by Rob Barber, as Vice President of 
 PULTE HOME COMPANY, LLC, a Michigan limited liability company, on behalf of the company.
 
-#DECLARATION-AMENDMENT
-Source: Declaration Amendment 11.16.2018.txt
-
+================================================T===========================
+SEARCH TAG: #DECLARATION-AMENDMENT
+FORMAL TITLE: SECOND AMENDMENT TO COMMUNITY DECLARATION 
+SOURCE FILE: Declaration Amendment 11.16.2018.txt
+===========================================================================
 
 SECOND AMENDMENT TO COMMUNITY DECLARATION 
 FOR DEL WEBB BEXLEY 
@@ -5150,8 +5160,11 @@ IN WITNESS WHEREOF, Declarant has caused this Second Amendment to be executed
 
 as of the date and year first above written. 
 
-#DECLARATION-AMENDMENT
-Source: Declaration Amendment 02.15.2019.txt
+================================================T===========================
+SEARCH TAG: #DECLARATION-AMENDMENT
+FORMAL TITLE: THIRD AMENDMENT TO COMMUNITY DECLARATION  
+SOURCE FILE: Declaration Amendment 02.15.2019.txt
+===========================================================================
 
 THIRD AMENDMENT TO COMMUNITY DECLARATION 
 FOR DEL WEBB BEXLEY 
@@ -5254,8 +5267,11 @@ personal representatives, successors and assigns.
 IN WITNESS WHEREOF, Declarant has caused this Third Amendment to be executed 
 as of the date and year first above written.
 
-#DECLARATION-AMENDMENT
-Source: Declaration Amendment 06.20.2019.txt
+================================================T===========================
+SEARCH TAG: #DECLARATION-AMENDMENT
+FORMAL TITLE: SUPPLEMENTAL DECLARATION AND FOURTH AMENDMENT  
+SOURCE FILE: Declaration Amendment 06.20.2019.txt
+===========================================================================
 
 SUPPLEMENTAL DECLARATION 
 AND FOURTH AMENDMENT 
@@ -5492,10 +5508,11 @@ EXHIBIT "1"
 
 DEL WEBB BEXLEY PHASE 2 
 
-
-
-#DECLARATION-AMENDMENT
-Source: Declaration Amendment 02.20.2020.txt
+================================================T===========================
+SEARCH TAG: #DECLARATION-AMENDMENT
+FORMAL TITLE: SUPPLEMENTAL DECLARATION AND FIFTH AMENDMENT  
+SOURCE FILE: Declaration Amendment 02.20.2020.txt
+===========================================================================
 
 SUPPLEMENTAL DECLARATION 
 AND FIFTH AMENDMENT 
@@ -5675,9 +5692,13 @@ EXHIBIT 1
 
 (Legal Description of the Phase 3 Property) 
 
-#DECLARATION-AMENDMENT
-Source: Declaration Amendment 02.27.2020.txt
+================================================T===========================
+SEARCH TAG: #DECLARATION-AMENDMENT
+FORMAL TITLE: SUPPLEMENTAL DECLARATION AND SIXTH AMENDMENT  
+SOURCE FILE: Declaration Amendment 02.27.2020.txt
+===========================================================================
 
+ 
 SIXTH AMENDMENT 
 TO 
 COMMUNITY DECLARATION 
@@ -5858,11 +5879,14 @@ their respective heirs, administrators, personal representatives, successors and
 IN WITNESS WHEREOF, Declarant has caused this Sixth Amendment to be executed 
 as Of the date and year first above written. 
 
-#DECLARATION-AMENDMENT
-Source: Declaration Amendment 01.12.2022.txt
+================================================T===========================
+SEARCH TAG: #DECLARATION-AMENDMENT
+FORMAL TITLE: SUPPLEMENTAL DECLARATION AND SEVENTH AMENDMENT  
+SOURCE FILE: Declaration Amendment 01.12.2022.txt
+===========================================================================
 
 SUPPLEMENTAL DECLARATION 
-AND SEVENTHAMENDMENT 
+AND SEVENTH AMENDMENT 
 TO 
 COMMUNITY DECLARATION 
 FOR DEL WEBB BEXLEY
@@ -6055,8 +6079,11 @@ administrators, personal representatives, successors and assigns.
 IN WITNESS WHEREOF, Declarant has caused this Supplemental Declaration to be 
 executed as of the date and year first above written. 
 
-#DECLARATION-AMENDMENT
-Source: Declaration Amendment 02.09.2023.txt
+================================================T===========================
+SEARCH TAG: #DECLARATION-AMENDMENT
+FORMAL TITLE: BOARD VOTE TO ADOPT REVISED GUIDELINES  
+SOURCE FILE: Declaration Amendment 02.09.2023.txt
+===========================================================================
 
 DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC.,
 A FLORIDA CORPORATION NOT FOR PROFIT
@@ -6085,8 +6112,12 @@ Print Name: Richard Paolini
 Signature: [Signature]
 Email: richxtlc@verizon.net
 
-#DECLARATION-AMENDMENT
-Source: Declaration Amendment 10.24.2024.txt
+================================================T===========================
+SEARCH TAG: #DECLARATION-AMENDMENT
+FORMAL TITLE: WALLS/FENCES/SCREENS REVISED POLICIES 
+SOURCE FILE: Declaration Amendment 10.24.2024.txt
+===========================================================================
+
 
 CERTIFICATE OF AMENDMENT TO THE COMMUNITY DECLARATION FOR DEL WEBB BEXLEY
 
@@ -6130,8 +6161,13 @@ Amendments to the Community Declaration for Del Webb Bexley
 
 12.14 Fences/Walls/Screens. After the recording of this Amendment, no ~~No~~ walls or fences shall be erected or installed on any Lot other than Perimeter Walls/Fences ~~and Pool Enclosures~~ installed by the Association or CDD. ~~Declarant in connection with the original construction of the Home or by an Owner with ARC approval.~~ No walls or fences shall be erected or installed by any Owner of a Lot within any Conservation Easement Property, including upland buffer areas, or any Perimeter-Buffer Easement. No chain link or wooden fencing of any kind shall be allowed, and unless otherwise approved by Declarant (or the Association following the Turnover Date). Fences, to the extent permitted by this Section 12.14, shall not be installed flush to the ground so that drainage-will-be blocked in any way. All such fences must be in compliance with the Architectural Guidelines. Due to the CDD's maintenance requirements and responsibilities, the installation of such fences within a drainage easement area is not expected to be approved by the ARC. ~~However, in~~ In the event a fence is installed within a drainage easement area, with or without prior written ARC approval, the Owner is solely responsible for fence repair or replacement if the drainage easement area needs to be accessed for repairs or maintenance. As a condition to ARC approval of any fences in drainage easement areas, the ARC may require the Owner to obtain, at his or her own cost and expense, an agreement in writing executed by the CDD approving such fence, which agreement may be recorded in the Public Records by the Association in its sole and absolute discretion. To the extent any fence or wall installed prior to the recording of this Amendment requires substantial repair (over 50% of the fence or wall) or replacement, such fence or wall must be removed. All screening and screened enclosures shall have the prior written approval of the ARC and shall be in compliance with the Architectural Guidelines. All enclosures of balconies or patios, including addition of vinyl windows, shall be approved by the ARC and all decks shall have the prior written approval of the ARC.
 
-#DECLARATION-AMENDMENT
-Source: Declaration Amendment 08.01.2025.txt
+
+================================================T===========================
+SEARCH TAG: #DECLARATION-AMENDMENT
+FORMAL TITLE: AMENDMENTS TO DECLARATION/HURRICANE SHUTTERS/PARKING 
+SOURCE FILE: Declaration Amendment 08.01.2025.txt
+===========================================================================
+
 
 Prepared by and when recorded return to:
 Jonathan J. Ellis, Esq.
@@ -6202,8 +6238,11 @@ EXHIBIT "A": Amendments to the Bylaws
 
 12.3 Amendments From and After the Turnover. After the Turnover, but subject to the general restrictions on amendments set forth above, these Bylaws may be amended with the approval of (i) a majority of the Board; and (ii) fifty-one percent (51%) of the Voting Interests present who voted (in person, or by proxy, or electronically) at or in advance of, within the time set forth by the Board, if any, a duly called meeting of the members. Nevertheless, no vote shall be valid unless at least ten percent (10%) of the Voting Interests cast a vote (in person, by proxy, or electronically). Notwithstanding the foregoing, these Bylaws may be amended after the Turnover by a majority of the Board acting alone to change the number of directors on the Board and their respective terms. Such change shall not require the approval of the members. Any change in the number of directors shall not take effect until the next Annual Members Meeting.
 
-#DECLARATION-AMENDMENT
-Source: Declaration Amendment 09.15.2025.txt
+================================================T===========================
+SEARCH TAG: #DECLARATION-AMENDMENT
+FORMAL TITLE: REVISED LEASING PROCEDURES 
+SOURCE FILE: Declaration Amendment 09.15.2025.txt
+===========================================================================
 
 Prepared by and when recorded return to:
 Jonathan J. Ellis, Esq.
@@ -6256,8 +6295,11 @@ B. No Home may be leased by an Owner unless and until at least one current Owner
 
 #END-DECLARATION
 
-#LEGAL-ARTICLES
-Source: Articles of Incorporation 08.09.2018.txt
+===========================================================================
+SEARCH TAG: #LEGAL
+FORMAL TITLE: Amended Articles of Incorporation
+SOURCE FILE: Articles of Incorporation 08.09.2018.txt
+===========================================================================
 
 Amended Articles of Incorporation
 
@@ -6564,8 +6606,11 @@ Riverview,FL 33578
 
 #END-LEGAL
 
-#BYLAWS
-Source: ByLaws 08.13.2018.txt
+===========================================================================
+SEARCH TAG: #BYLAWS
+FORMAL TITLE: BYLAWS OF DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC.
+SOURCE FILE: ByLaws 08.13.2018.txt
+===========================================================================
 
 Community Bylaws
 
@@ -7065,8 +7110,12 @@ said Association this 13 day of August, 2018.
 Brady Lefere, President
 (Corporate Seal)
 
-#BYLAWS-AMENDMENT
-Source: ByLaws Amendment 07.03.2024.txt
+===========================================================================
+SEARCH TAG: #BYLAWS-AMENDMENT
+FORMAL TITLE: UPDATED ELECTION PROCEDURES
+SOURCE FILE: ByLaws Amendment 07.03.2024.txt
+===========================================================================
+
 
 Prepared by and when recorded return to:
 Jonathan J. Ellis, Esq.
@@ -7129,8 +7178,11 @@ Amendments to the Bylaws of Del Webb Bexley Community Association, Inc.
 
 4.8 Electronic Voting. The Board of Directors may adopt a resolution providing Owners with the opportunity to vote through an online or electronic voting system.
 
-#BYLAWS-AMENDMENT
-BYLAWS Amendment 08.01.2024.txt
+===========================================================================
+SEARCH TAG: #BYLAWS-AMENDMENT
+FORMAL TITLE: ONLINE VOTING PROCEDURES
+SOURCE FILE: BYLAWS Amendment 08.01.2024.txt
+===========================================================================
 
 DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC.
 RESOLUTION OF THE BOARD OF DIRECTORS AUTHORIZING ELECTRONIC VOTING
@@ -7204,8 +7256,11 @@ III. The Online Voting System Must:
 
 #END-BYLAWS
 
-#COMMITTEES
-Source: Committees 02.01.2023.txt
+==============================================================================
+SEARCH TAG: #COMMITTEES
+FORMAL TITLE: DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC. COMMITTEE GUIDELINES
+SOURCE FILE: Committees 02.01.2023.txt
+==============================================================================
 
 DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC.,
 A FLORIDA CORPORATION NOT FOR PROFIT
@@ -7256,11 +7311,13 @@ DONE by unanimous consent of the Board of Directors this 1st day of February 202
 
 #END-COMMITTEES
 
-#COMPLIANCE
-Source: One Time Courtesy Waiver for Consistent Timely Payments 11.15.2023.txt
+========================================================================================
+SEARCH TAG: #COMPLIANCE
+FORMAL TITLE: COMPLIANCE GUIDELINES PAYMENTS
+SOURCE FILE: One Time Courtesy Waiver for Consistent Timely Payments 11.15.2023.txt
+========================================================================================
 
-Del Webb
-BEXLEY
+Del Webb Bexley
 
 One-Time Courtesy Waiver for Consistent Timely Payments
 
@@ -7274,8 +7331,12 @@ Effective immediately, we are instituting a one-time courtesy waiver for homeown
 
     Approval Process: The approval of the one-time courtesy waiver will be subject to the review and discretion of the community manager. Homeowners meeting the criteria outlined above will need to submit a fee waiver request through portal.rizzetta.com, which will then be evaluated on a case-by-case basis.
 
-#COMPLIANCE
-Source: Compliance Hearing Process Policy 07.10.24.txt
+
+===================================================================================
+SEARCH TAG: #COMPLIANCE
+FORMAL TITLE: COMPLIANCE GUIDELINES HEARING PROCESS
+SOURCE FILE: Compliance Hearing Process Policy 07.10.24.txt
+===================================================================================
 
 DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC.
 RESOLUTION ADOPTING COMPLIANCE COMMITTEE HEARING PROCESS POLICY
@@ -7342,8 +7403,11 @@ EXHIBIT A: COMPLIANCE COMMITTEE HEARING PROCESS
 
     Following the Hearing, the Compliance Committee Lead will forward the Hearing Form to the Board/CAM; within 7 days after the hearing, written notice shall be provided to the Homeowner via CAM/Management Staff, at their designated mailing or email address in the Association's official records, indicating the Committee's decision related to the violation fine or suspension, how the violation may be cured and date by which fine must be paid, or suspension fulfilled. Information regarding at what point attorney fees and costs will start should also be included in the notice to homeowners.
 
-#COMPLIANCE
-Source: Compliance Policy 8.01.2024.txt
+===================================================================================
+SEARCH TAG: #COMPLIANCE
+FORMAL TITLE: RESOLUTION ADOPTING COMPLIANCE POLICY
+SOURCE FILE: Compliance Policy 8.01.2024.txt
+===================================================================================
 
 DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC. RESOLUTION ADOPTING COMPLIANCE POLICY
 
@@ -7420,8 +7484,11 @@ Description: Consequential/Disruptive behavior
 Examples: Safety violations, ARC rules, disruptive behavior at the clubhouse/pool	
 Fines/Actions: $100 per day + possible suspension
 
-#COMPLIANCE
-Source: Golf Cart Policy 05.01.2026.txt
+===========================================================================
+SEARCH TAG: #COMPLIANCE
+FORMAL TITLE: GOLF CART POLICY
+SOURCE FILE: Golf Cart Policy 05.01.2026.txt
+===========================================================================
 
 Del Webb At Bexley
 USE OF GOLF CARTS
@@ -7439,8 +7506,11 @@ E. Street Rules - Carts should remain to the right side of the road where multip
 
 F. Subject to Association Rules - Allowance for golf cart use in Del Webb at Bexley is intended to be a privilege and convenience to Association members, and any actions, which threaten the safety and wellbeing of the membership, or otherwise infringe upon the rights of others, will not be tolerated.
 
-#COMPLIANCE
-Source: Golf Cart Policy 05.15.2026.txt
+===================================================================================
+SEARCH TAG: #COMPLIANCE
+FORMAL TITLE: UPDATED GOLF CART POLICY
+SOURCE FILE: Golf Cart Policy 05.15.2026.txt
+===================================================================================
 
 Del Webb Bexley Community Association Inc.
 Golf Cart Policy
@@ -7489,8 +7559,11 @@ ENFORCEMENT
 2.Any act constituting a violation of this policy will be addressed in accordance with the Associations Compliance and Fining Policy. 
 3. Any threat to safety may result in immediate legal action. 
 
-#COMPLIANCE
-Source: Drone Policy 04.24.2025.txt
+===================================================================================
+SEARCH TAG: #COMPLIANCE
+FORMAL TITLE: DRONE POLICY
+SOURCE FILE: Drone Policy 04.24.2025.txt
+===================================================================================
 
 The Board of Directors of Del Webb Bexley Community Association, Inc. (the “Association”), pursuant Section 12.46 of the Community Declaration for Del Webb Bexley (the Declaration”), hereby adopts this Commercial Drone Policy, effective April 24, 2025 This Policy shall be part of the Association’s Rules and Regulations. In the event of a conflict between the terms of this Policy and the terms of other Association Rules and Regulations, the terms of this Policy shall apply. However, in the event of a conflict between the terms of this Policy and the terms of the Governing Documents, the Governing Documents shall apply.
 In order to operate commercial drones within the Del Webb Community, all operators must hold a valid drone pilot licenses issued by the Federal Aviation, hold insurance in the minimum amount of $1,000,000.00,and adhere to  the following conditions:
@@ -7503,8 +7576,12 @@ Owners seeking to obtain photography and videography of the Common Areas and Ass
 
 The intended Drone Operator must submit this Common Area Permission From and obtain written consent of the Association prior to operating commercial drones over Common Areas. Approval for operation of commercial drones over Common Areas shall be granted at the Board of Directors’ sole discretion.
 
-#COMPLIANCE
-Source: Gate Strike Procedure 02.24.2026.txt
+
+===================================================================================
+SEARCH TAG: #COMPLIANCE
+FORMAL TITLE: GATE STRIKE POLICY
+SOURCE FILE: Gate Strike Procedure 02.24.2026.txt
+===================================================================================
 
 Gate, Barrier Arm and Kiosk
  Strike Policy and Procedure
@@ -7531,8 +7608,11 @@ c.	If the owner of the vehicle is a vendor or delivery service, property managem
 
 #END-COMPLIANCE
 
-#CLUBS
-Source: Club and Interest Groups Guidelines 08.16.2024.txt
+===================================================================================
+SEARCH TAG: #CLUBS
+FORMAL TITLE: CLUB AND INTEREST GROUPS POLICY
+SOURCE FILE: Club and Interest Groups Guidelines 08.16.2024.txt
+===================================================================================
 
 Page 1 of 10
 8/16/24
