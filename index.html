@@ -3,153 +3,61 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Del Webb Bexley Community Governance Portal</title>
+    <title>DWB Community Documents Portal</title>
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; color: #333; max-width: 950px; margin: 0 auto; padding: 20px; background-color: #f0f4f8; }
-        .card { background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); margin-bottom: 25px; }
-        h1 { color: #003366; text-align: center; margin-bottom: 30px; border-bottom: 3px solid #003366; padding-bottom: 10px; }
-        h2 { color: #004a99; border-bottom: 1px solid #eee; padding-bottom: 8px; margin-top: 0; }
-        .instruction-step { display: flex; align-items: flex-start; margin-bottom: 20px; }
-        .step-num { background: #004a99; color: white; width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 15px; flex-shrink: 0; font-weight: bold; margin-top: 2px; }
-        .browser-box { background: #fffbe6; border: 1px solid #ffe58f; padding: 15px; border-radius: 6px; margin: 15px 0; font-size: 0.95em; }
-        
-        /* Accordion Styling */
-        details { border: 1px solid #e0e0e0; border-radius: 8px; padding: 12px; margin-bottom: 12px; background: #fafafa; cursor: pointer; transition: all 0.3s ease; }
-        details:hover { background: #f0f7ff; border-color: #004a99; }
-        summary { font-weight: bold; color: #004a99; outline: none; list-style: none; display: flex; align-items: center; }
-        summary::-webkit-details-marker { display: none; }
-        summary::before { content: '▶'; display: inline-block; width: 20px; transition: transform 0.2s; font-size: 0.8em; margin-right: 5px; }
-        details[open] summary::before { transform: rotate(90deg); }
-        
-        .content-area { padding: 15px 0 5px 25px; border-top: 1px solid #eee; margin-top: 10px; }
-        .legal-level { font-size: 0.85em; text-transform: uppercase; letter-spacing: 1px; color: #666; margin-bottom: 5px; display: block; font-weight: bold; }
-        .gemini-ui-desc { background: #f1f8ff; border-left: 4px solid #4285f4; padding: 15px; margin-top: 10px; border-radius: 0 8px 8px 0; }
-        .example-box { background: #fdfdfd; border: 1px dashed #bbb; padding: 10px; margin-top: 10px; border-radius: 4px; color: #555; }
-        
-        footer { text-align: center; font-size: 0.85em; color: #666; margin-top: 40px; }
-        a { color: #0366d6; text-decoration: none; font-weight: 500; }
-        a:hover { text-decoration: underline; }
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 20px auto; padding: 0 10px; }
+        .instruction-box { background: #f4f4f4; padding: 15px; border-radius: 8px; border-left: 5px solid #2c3e50; margin-bottom: 20px; }
+        .step-image { max-width: 100%; height: auto; display: block; margin: 10px 0; border: 1px solid #ddd; border-radius: 4px; }
+        details { background: #fff; border: 1px solid #aaa; border-radius: 4px; padding: .5em .5em 0; margin-bottom: 10px; }
+        summary { font-weight: bold; padding: .5em; cursor: pointer; }
+        details[open] { padding: .5em; }
+        details[open] summary { border-bottom: 1px solid #aaa; margin-bottom: .5em; }
     </style>
 </head>
 <body>
-
-    <h1>Del Webb Bexley: Governing Documents Portal</h1>
-
-    <div class="card">
-        <h2>How to Use the Digital Assistant</h2>
-        
-        <div class="instruction-step">
-            <div class="step-num">1</div>
-            <div><strong>Save the Document:</strong> 
-                <p>Click here to open the <a href="Formatted/HOADocs.txt" target="_blank"><b>HOADocs.txt Filing (Opens in New Window)</b></a>. You must save this file to your personal computer to enable the AI features:</p>
-                <div class="browser-box">
-                    <strong>Instructions to Save to Disk:</strong><br>
-                    • <b>Windows:</b> Press <b>Ctrl</b> + <b>S</b> (or <b>right-click</b> and select <b>"Save As"</b>).<br>
-                    • <b>Apple/Mac:</b> Press <b>Command (⌘)</b> + <b>S</b> (or <b>Control</b> + <b>Click</b> and select <b>"Save Page As"</b>).<br>
-                    Save the file as <b>HOADocs.txt</b> in a location you can easily find, like your Documents folder.
-                </div>
-            </div><code>
-        </div>
-
-        <div class="instruction-step">
-            <div class="step-num">2</div>
-            <div><strong>Access the AI Assistant:</strong>
-                <p>Launch <a href="https://gemini.google.com" target="_blank">Gemini.google.com</a> in a new window and sign in. Click the <b>plus (+)</b> or <b>paperclip icon</b> in the Chat input bar. Select <b>"Upload from computer"</b> and choose the <b>HOADocs.txt</b> file you saved in Step 1.</p>
-                <div class="gemini-ui-desc">
-                    <strong>Ready to Ask:</strong> Once the file is attached, type your question in plain English.
-                    <div class="example-box">
-                        <em>Try asking:</em> "Based on the filing, what are the rules regarding guest parking and golf carts?" or "What is the age requirement for permanent residents?"
-                    </div>
-                </div>
-            </div>
-        </div>
+    <h1>DWB Community Documents Portal</h1>
+    
+    <div class="instruction-box">
+        <h2>Step 1: Save the Governing Documents</h2>
+        <p>Click the link below to open the merged document, then save it to your computer.</p>
+        <p><strong><a href="Formatted/HOADocs.txt" target="_blank">Open HOADocs.txt</a></strong></p>
+        <ul>
+            <li><strong>Windows:</strong> Press <code>Ctrl + S</code> (or right-click and select "Save As").</li>
+            <li><strong>Apple/Mac:</strong> Press <code>Command (⌘) + S</code> (or <code>Control + Click</code> and select "Save Page As").</li>
+        </ul>
     </div>
 
-    <div class="card">
-        <h2>Document Authority Hierarchy</h2>
-        <p>This "Order of Precedence" determines which rules take priority. Higher levels override lower levels in the event of a conflict.</p>
-        
-        <details>
-            <summary>Level 1: Federal & State Law (Supreme Authority)</summary>
-            <div class="content-area">
-                <span class="legal-level">National & State Statutes</span>
-                <p>All community rules must comply with the <b>U.S. Constitution</b> and <a href="http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0720/0720ContentsIndex.html" target="_blank">Florida Statute Chapter 720</a>. State law protects rights that an HOA cannot ban, such as flying the American flag or displaying specific religious symbols.</p>
-            </div>
-        </details>
-
-        <details>
-            <summary>Level 2: The Community Declaration (CC&Rs)</summary>
-            <div class="content-area">
-                <span class="legal-level">The Neighborhood "Constitution"</span>
-                <p>The Master Declaration is the primary local document. It establishes property rights, easements, assessment obligations, and permanent restrictions recorded with the county.</p>
-            </div>
-        </details>
-
-        <details>
-            <summary>Level 3: Articles & Bylaws</summary>
-            <div class="content-area">
-                <span class="legal-level">Corporate & Administrative Law</span>
-                <p>The Articles of Incorporation create the legal entity. The Bylaws serve as the "Operations Manual" for Board elections, meeting notices, and voting requirements.</p>
-            </div>
-        </details>
-
-        <details>
-            <summary>Level 4: Rules, Regulations & Design Guidelines</summary>
-            <div class="content-area">
-                <span class="legal-level">Board-Adopted Specifics</span>
-                <p>These provide the most detailed day-to-day rules, including Architectural (ARC) standards for fences and landscaping, as well as amenity usage policies.</p>
-            </div>
-        </details>
+    <div class="instruction-box">
+        <h2>Step 2: Analyze with AI</h2>
+        <p>Open your preferred AI tool. Click the <strong>"+"</strong> icon in the chat window and choose the <strong>HOADocs.txt</strong> file you saved in Step 1.</p>
+        <img height =600, width = 350 src="GeminiUpload.png" alt="Demonstration of clicking the plus sign to upload a file" class="step-image">
+        <p>Once uploaded, you can ask questions like "What is the quorum requirement for a meeting?" or "What are the rules regarding fences?"</p>
     </div>
 
-    <div class="card">
-        <h2>Common Resident Questions</h2>
-        <p>Click a topic below to see its context. You can ask the AI Assistant for more details on any of these inquiries.</p>
+    <h2>Governing Documents Hierarchy</h2>
+    <p>These documents are listed in order of legal authority:</p>
+    <ol>
+        <li>State of Florida Laws (FS 720)</li>
+        <li>Recorded Plat</li>
+        <li>Declaration of Covenants, Conditions, and Restrictions</li>
+        <li>Articles of Incorporation</li>
+        <li>Bylaws</li>
+        <li>Rules and Regulations</li>
+    </ol>
 
-        <details>
-            <summary>🏠 Architectural Changes & Fences</summary>
-            <div class="content-area">
-                <p><strong>Common Question:</strong> "Can I install a fence, and what materials are allowed?"<br>
-                Governing documents specify that wood and chain-link fences are prohibited. Almost all exterior home modifications require prior approval from the Architectural Review Committee (ARC).</p>
-            </div>
-        </details>
-
-        <details>
-            <summary>🐾 Pets & Local Wildlife</summary>
-            <div class="content-area">
-                <p><strong>Common Question:</strong> "Are there restrictions on the number of pets or feeding wildlife?"<br>
-                The documents limit the number of household pets and prohibit commercial breeding. To maintain community safety, feeding wild animals (such as alligators) is strictly prohibited.</p>
-            </div>
-        </details>
-
-        <details>
-            <summary>🚗 Golf Carts & Parking</summary>
-            <div class="content-area">
-                <p><strong>Common Question:</strong> "Where are my guests allowed to park?"<br>
-                Street parking is restricted to specific timeframes. Golf carts must meet safety standards (mirrors/lights) to be operated on community paths and roads.</p>
-            </div>
-        </details>
-
-        <details>
-            <summary>🎂 Age Restrictions (55+ Community)</summary>
-            <div class="content-area">
-                <p><strong>Common Question:</strong> "What is the minimum age for residents?"<br>
-                As an age-qualified community, at least 80% of occupied homes must have one resident aged 55 or older. Permanent residents must be at least 22 years of age.</p>
-            </div>
-        </details>
-
-        <details>
-            <summary>🗳️ Meetings, Voting & Quorums</summary>
-            <div class="content-area">
-                <p><strong>Common Question:</strong> "How many people need to vote for an election to count?"<br>
-                The Bylaws define the 'Quorum' requirement—the minimum number of voting members who must participate for an election or vote to be legally valid.</p>
-            </div>
-        </details>
-    </div>
-
-    <footer>
-        Del Webb Bexley Community Association Governance Portal. Verified Current as of April 2026.
-    </footer>
+    <h2>Frequently Asked Questions</h2>
+    <details>
+        <summary>Architectural Changes</summary>
+        <p>All exterior changes require approval from the Architectural Review Board (ARB). This includes paint colors, roofing, and landscaping modifications.</p>
+    </details>
+    <details>
+        <summary>Pet Regulations</summary>
+        <p>Pets must be leashed at all times when in common areas. Owners are responsible for immediate waste removal.</p>
+    </details>
+    <details>
+        <summary>Voting & Quorum</summary>
+        <p>A quorum is required for official business. Please refer to the Bylaws in the HOADocs.txt file for specific percentage requirements.</p>
+    </details>
 
 </body>
 </html>
