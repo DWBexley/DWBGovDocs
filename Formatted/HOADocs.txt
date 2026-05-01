@@ -1,21 +1,28 @@
-The HOA Legal Hierarchy (Highest to Lowest)
+===================================================================================================================
+SOURCE: GITHUB REPOSITORY FOR ALL AI-ENABLED DOCUMENTS: https://github.com/DWBexley/DWBGovDocs/tree/main/Formatted
+COMMENT: THIS DOCUMENT IS A MERGER OF INDIVIDUA HOA DOCUMENTS WITH VALUE-ADDED METADATA TO ASSIST AI ANALYSIS
+===================================================================================================================
+
+The legal hierarchy (highest to lowest) for a Home Owners Association (HOA) established in the U.S. State of Florida:
 
     U.S. Constitution and Federal Laws
 
         The supreme law of the land. No HOA rule can violate federal rights.
 
-        Examples: The Fair Housing Act (FHA) prevents HOAs from discriminating based on race or religion; the OTARD rule prevents HOAs from banning small satellite dishes.
+        Examples: The Fair Housing Act (FHA) prevents HOAs from discriminating based on race or religion; 
+		the OTARD rule prevents HOAs from banning small satellite dishes.
 
     Florida Constitution and State Statutes
 
-        Florida Statutes Chapter 720 (HOA Act): This is the primary law governing your community. If a Del Webb Bexley Bylaw conflicts with Chapter 720, the Florida Statute wins.
+        Florida Statutes Chapter 720 (HOA Act): This is the primary law governing your community. 
+		If a Del Webb Bexley Bylaw conflicts with Chapter 720, the Florida Statute wins.
 
-        Examples: Florida law protects your right to fly the U.S. flag or display certain "Right to Farm" plants, even if the HOA Declaration says otherwise.
+        Examples: Florida law protects your right to fly the U.S. flag or display certain "Right to Farm" plants, 
+		even if the HOA Declaration says otherwise.
 
     The Community Declaration (CC&Rs)
 
-        The "Constitution" of your specific neighborhood. This document is recorded with the county and stays with the land.
-
+        The 'Constitution' of your specific neighborhood. This document is recorded with the county and stays with the land.
 
     Articles of Incorporation
 
@@ -23,39 +30,34 @@ The HOA Legal Hierarchy (Highest to Lowest)
 
     Community Bylaws
 
-        The "Administrative Manual" for how the Board runs meetings and elections.
-
+        The 'Administrative Manual' for how the Board runs meetings and elections.
 
     Rules, Regulations, and Design Guidelines
 
         The most specific rules, usually passed by the Board to clarify the Declaration.
 
-
-
-===========================================================================
-MASTER INDEX: DEL WEBB BEXLEY COMMUNITY ASSOCIATION GOVERNING DOCUMENTS
-===========================================================================
-How to use: Press 'Ctrl + F' and type the #Tag (e.g., #BYLAWS) to jump to a topic.
-
-SECTION TITLE                          | KEY TOPICS             | SEARCH TAG
----------------------------------------|------------------------|----------
-1. Declaration                         | HOA 'Constitution'     | #DECLARATION
-2. Articles of Incorporation           | Legal Setup & Powers   | #LEGAL
-3. Community Bylaws                    | Meetings & Elections   | #BYLAWS 
-4. Committees Structure		       | Committees             | #COMMITTEES
-4. Compliance Guidelines	       | Compliance Policy      | #COMPLIANCE
-5. CLUBS		               | CLUBS			| #CLUBS
----------------------------------------|------------------------|----------
-
-Source: GitHub Repository for all source documents: https://github.com/DWBexley/DWBGovDocs/tree/main/Formatted
-
-===========================================================================
+=============================================================================================================
 NOTE ON PRECEDENCE:
 If rules conflict, the order of authority is: 
 1. Declaration -> 2. Articles of Incorporation -> 3. Bylaws.
 
 When searching, prioritize #DECLARATION for property restrictions and #BYLAWS for meeting/voting procedures.
-===========================================================================
+==============================================================================================================
+
+==================================================================================
+MASTER INDEX: DEL WEBB BEXLEY COMMUNITY ASSOCIATION GOVERNING DOCUMENTS
+==================================================================================
+How to use: Press 'Ctrl + F' and type the #Tag (e.g., #BYLAWS) to jump to a topic.
+
+SECTION TITLE                          | KEY TOPICS             | SEARCH TAG
+---------------------------------------|------------------------|-----------------
+1. Declaration                         | HOA 'Constitution'     | #DECLARATION
+2. Articles of Incorporation           | Legal Setup & Powers   | #LEGAL
+3. Community Bylaws                    | Meetings & Elections   | #BYLAWS 
+4. Committees Structure		           | Committees             | #COMMITTEES
+4. Compliance Guidelines	           | Compliance Policy      | #COMPLIANCE
+5. CLUBS		                       | CLUBS			        | #CLUBS
+---------------------------------------|------------------------|-----------------
 
 ===========================================================================
 SEARCH TAG: #DECLARATION
