@@ -3,271 +3,156 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Del Webb Bexley | AI Community Portal</title>
+    <title>AI Community Portal - DWB Bexley</title>
     <style>
-        :root {
-            --dw-blue: #004a99;
-            --dw-gold: #b38f00;
-            --light-bg: #f4f7f9;
-            --border: #d1d9e0;
-        }
-
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            margin: 0;
-            display: flex;
-            height: 100vh;
-            background-color: var(--light-bg);
-            color: #333;
-        }
-
-        /* LEFT SIDEBAR: INSTRUCTIONS & VIDEOS */
-        #sidebar {
-            width: 380px;
-            background: white;
-            border-right: 1px solid var(--border);
-            padding: 25px;
-            overflow-y: auto;
-            box-shadow: 4px 0 10px rgba(0,0,0,0.05);
-            display: flex;
-            flex-direction: column;
-            gap: 20px;
-        }
-
-        /* MAIN CONTENT: DOCUMENT VIEWER */
-        #main-content {
-            flex-grow: 1;
-            padding: 40px;
-            overflow-y: auto;
-            scroll-behavior: smooth;
-        }
-
-        .header-area {
-            text-align: center;
-            margin-bottom: 30px;
-            border-bottom: 3px solid var(--dw-blue);
-            padding-bottom: 20px;
-        }
-
-        h1 { color: var(--dw-blue); margin: 0; font-size: 2.2em; }
+        :root { --primary: #2c3e50; --accent: #3498db; --bg: #f4f7f6; --text: #333; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; display: flex; height: 100vh; background-color: var(--bg); overflow: hidden; }
         
-        .hierarchy-card {
-            background: #eef6ff;
-            padding: 15px;
-            border-radius: 8px;
-            border-left: 5px solid var(--dw-blue);
-            font-size: 0.9em;
-        }
+        /* Sidebar Styles (Tested & Debugged) */
+        #sidebar { width: 320px; background: white; border-right: 1px solid #ddd; display: flex; flex-direction: column; padding: 20px; overflow-y: auto; box-shadow: 2px 0 5px rgba(0,0,0,0.05); }
+        h2 { color: var(--primary); font-size: 1.2rem; margin-top: 0; border-bottom: 2px solid var(--accent); padding-bottom: 10px; }
+        .instruction-box { background: #e8f4fd; padding: 15px; border-radius: 8px; margin-bottom: 20px; font-size: 0.9rem; line-height: 1.4; color: #2980b9; border-left: 4px solid var(--accent); }
+        .video-box { margin-bottom: 20px; }
+        .video-box strong { display: block; margin-bottom: 8px; font-size: 0.85rem; color: var(--primary); }
+        iframe.tutorial { width: 100%; height: 160px; border-radius: 6px; border: 1px solid #ccc; background: #000; }
+        
+        /* Main Content Area */
+        #main { flex: 1; display: flex; flex-direction: column; padding: 30px; overflow-y: auto; }
+        .controls { display: flex; gap: 10px; margin-bottom: 20px; }
+        button { padding: 10px 18px; border: none; border-radius: 5px; cursor: pointer; font-weight: 600; transition: 0.2s; }
+        .btn-primary { background: var(--accent); color: white; }
+        .btn-secondary { background: #95a5a6; color: white; }
+        button:hover { opacity: 0.9; transform: translateY(-1px); }
 
-        /* ACTION CONTROLS */
-        .controls {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-            margin-bottom: 20px;
-            position: sticky;
-            top: 0;
-            background: var(--light-bg);
-            padding: 15px 0;
-            z-index: 100;
-        }
-
-        button {
-            padding: 10px 18px;
-            border-radius: 6px;
-            border: 1px solid var(--dw-blue);
-            background: white;
-            color: var(--dw-blue);
-            cursor: pointer;
-            font-weight: 600;
-            transition: 0.2s;
-        }
-
-        button:hover { background: var(--dw-blue); color: white; }
-        button.primary { background: var(--dw-blue); color: white; }
-
-        /* ACCORDIONS */
-        details {
-            background: white;
-            border: 1px solid var(--border);
-            border-radius: 10px;
-            margin-bottom: 15px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.03);
-        }
-
-        summary {
-            padding: 18px;
-            font-weight: bold;
-            cursor: pointer;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            font-size: 1.1em;
-        }
-
-        summary:hover { background: #fcfcfc; }
-
-        .doc-body {
-            padding: 25px;
-            border-top: 1px solid var(--border);
-            background: #fafafa;
-            white-space: pre-wrap; /* Keeps the fixed spacing you fixed earlier! */
-            font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
-            font-size: 0.95em;
-            line-height: 1.5;
-            max-height: 600px;
-            overflow-y: auto;
-        }
-
-        .tag-badge {
-            background: #e1ecf4;
-            color: #39739d;
-            padding: 3px 10px;
-            border-radius: 15px;
-            font-size: 0.75em;
-            text-transform: uppercase;
-        }
-
-        /* VIDEO STYLING */
-        .video-box {
-            background: #f1f1f1;
-            padding: 12px;
-            border-radius: 8px;
-        }
-        iframe { width: 100%; height: 200px; border-radius: 5px; border: none; margin-top: 10px; }
-
-        #status { text-align: center; color: #666; padding: 20px; }
+        /* Accordion Styling */
+        .section-container { background: white; border: 1px solid #ddd; border-radius: 8px; margin-bottom: 12px; overflow: hidden; transition: 0.3s; box-shadow: 0 2px 4px rgba(0,0,0,0.02); }
+        summary { padding: 15px; background: #fff; cursor: pointer; font-weight: bold; color: var(--primary); outline: none; list-style: none; display: flex; justify-content: space-between; align-items: center; }
+        summary::-webkit-details-marker { display: none; }
+        summary:hover { background: #f9f9f9; }
+        .tag-badge { font-size: 0.7rem; background: #eee; padding: 2px 8px; border-radius: 10px; color: #7f8c8d; }
+        .doc-body { padding: 20px; border-top: 1px solid #eee; background: #fafafa; }
+        pre { white-space: pre-wrap; margin: 0; font-family: 'Courier New', Courier, monospace; font-size: 0.95rem; color: #2c3e50; }
+        
+        #status { padding: 20px; text-align: center; color: #7f8c8d; font-style: italic; }
     </style>
 </head>
 <body>
 
     <div id="sidebar">
-        <h2 style="margin-top:0; color: var(--dw-blue);">Help & Tutorials</h2>
-        
-        <div class="hierarchy-card">
-            <strong>Rule Precedence:</strong><br>
-            1. Federal/State Law<br>
-            2. <strong>#DECLARATION</strong><br>
-            3. <strong>#LEGAL</strong> (Articles)<br>
-            4. <strong>#BYLAWS</strong><br>
-            5. Rules & Guidelines
+        <h2>Help & Tutorials</h2>
+        <div class="instruction-box">
+            <strong>Pro Tip:</strong> Click "Expand All for AI" before asking your sidebar assistant a question. This ensures the AI can see the entire document context.
         </div>
-		
-		<div class="video-box">
-			<strong>Video: Using Gemini in Google Chrome</strong>
-			<iframe 
-				src="https://www.youtube.com/embed/gMQkl-8gHOg" 
-				title="Gemini Tutorial"
-				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-				allowfullscreen>
-			</iframe>
-		</div>
-		
-		<div class="video-box">
-			<strong>Video: Using Copilot in Microsoft Edge</strong>
-			<iframe 
-				src="https://www.youtube.com/embed/S7xTBa93TX8" 
-				title="Microsoft Edge Copilot Tutorial"
-				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-				allowfullscreen>
-			</iframe>
-		</div>
 
-        <div class="video-box" style="background:#fff3cd; border: 1px solid #ffeeba;">
-            <strong>Pro Tip:</strong> Click the <strong>"Expand All"</strong> button before starting an AI chat so the computer can "read" every section at once.
+        <div class="video-box">
+            <strong>Video: Using Microsoft Edge</strong>
+            <iframe class="tutorial" src="https://www.youtube.com/embed/S7xTBa93TX8" title="Edge Tutorial" allowfullscreen></iframe>
+        </div>
+
+        <div class="video-box">
+            <strong>Video: Using Google Chrome</strong>
+            <iframe class="tutorial" src="https://www.youtube.com/embed/gMQkl-8gHOg" title="Gemini Tutorial" allowfullscreen></iframe>
+        </div>
+        
+        <div style="font-size: 0.8rem; color: #95a5a6; margin-top: auto;">
+            v2.1 - AI-Hardened Portal
         </div>
     </div>
 
-    <div id="main-content">
-        <div class="header-area">
-            <h1>Del Webb Bexley Community Docs</h1>
-            <p>Unified Digital Resource for Residents & AI Analysis</p>
-        </div>
-
+    <div id="main">
         <div class="controls">
-            <button class="primary" onclick="manageAccordions(true)">Expand All for AI</button>
-            <button onclick="manageAccordions(false)">Collapse All</button>
-            <input type="text" id="searchBar" placeholder="Filter sections..." onkeyup="filterContent()" style="margin-left:auto; padding: 10px; width: 250px; border-radius: 6px; border: 1px solid var(--border);">
+            <button class="btn-primary" onclick="manageAccordions(true)">Expand All for AI</button>
+            <button class="btn-secondary" onclick="manageAccordions(false)">Collapse All</button>
         </div>
 
         <div id="status">Connecting to HOADocs.txt...</div>
         <div id="viewer"></div>
     </div>
 
-<script>
-    const SOURCE_URL = 'https://dwbexley.github.io/DWBGovDocs/Formatted/HOADocs.txt';
-    
-    const DOC_MAP = [
-        { id: 'decl', tag: '#DECLARATION', title: 'Community Declaration', next: '#LEGAL' },
-        { id: 'lega', tag: '#LEGAL', title: 'Articles of Incorporation', next: '#BYLAWS' },
-        { id: 'byla', tag: '#BYLAWS', title: 'Community Bylaws', next: '#COMMITTEES' },
-        { id: 'comm', tag: '#COMMITTEES', title: 'Committee Structure', next: '#COMPLIANCE' },
-        { id: 'comp', tag: '#COMPLIANCE', title: 'Compliance Guidelines', next: '#CLUBS' },
-        { id: 'club', tag: '#CLUBS', title: 'Clubs & Activities', next: null }
-    ];
+    <iframe src="https://dwbexley.github.io/DWBGovDocs/Formatted/HOADocs.txt" 
+            id="ai-source-frame" 
+            style="display:none;" 
+            onload="handleFrameLoad()">
+    </iframe>
 
-    async function loadDocuments() {
-        const viewer = document.getElementById('viewer');
-        const status = document.getElementById('status');
+    <script>
+        const SOURCE_URL = 'https://dwbexley.github.io/DWBGovDocs/Formatted/HOADocs.txt';
+        const DOC_MAP = [
+            { id: 'decl', tag: '#DECLARATION', title: 'Community Declaration', next: '#LEGAL' },
+            { id: 'lega', tag: '#LEGAL', title: 'Articles of Incorporation', next: '#BYLAWS' },
+            { id: 'byla', tag: '#BYLAWS', title: 'Community Bylaws', next: '#COMMITTEES' },
+            { id: 'comm', tag: '#COMMITTEES', title: 'Committee Structure', next: '#COMPLIANCE' },
+            { id: 'comp', tag: '#COMPLIANCE', title: 'Compliance Guidelines', next: '#CLUBS' },
+            { id: 'club', tag: '#CLUBS', title: 'Clubs & Activities', next: null }
+        ];
 
-        try {
-            // 1. Fetch the source file from your GitHub
-            const resp = await fetch(SOURCE_URL);
-            const fullText = await resp.text();
+        // This is called by the iframe's onload event
+        function handleFrameLoad() {
+            const frame = document.getElementById('ai-source-frame');
+            try {
+                // Try to reach into the frame and grab the text
+                const content = frame.contentDocument.body.innerText || frame.contentDocument.body.textContent;
+                console.log("Iframe load successful. Parsing documents...");
+                renderDocuments(content);
+            } catch (e) {
+                console.warn("Iframe blocked by security (CORS). Falling back to Fetch method.");
+                fetchFallback();
+            }
+        }
+
+        async function fetchFallback() {
+            try {
+                const response = await fetch(SOURCE_URL);
+                const text = await response.text();
+                renderDocuments(text);
+            } catch (err) {
+                document.getElementById('status').innerHTML = "⚠️ Error: Could not connect to document source.";
+            }
+        }
+
+        function renderDocuments(fullText) {
+            const viewer = document.getElementById('viewer');
+            const status = document.getElementById('status');
             status.style.display = 'none';
+            viewer.innerHTML = ''; // Clear viewer
 
-            // 2. CREATE THE GHOST LAYER (Invisible to neighbors, visible to AI)
-            // We give it a height of 0 and absolute positioning so it takes up NO space.
-            const aiLayer = document.createElement('div');
-            aiLayer.id = "ai-hidden-text";
-            aiLayer.style.position = "absolute";
-            aiLayer.style.height = "0px";
-            aiLayer.style.width = "0px";
-            aiLayer.style.overflow = "hidden";
-            aiLayer.style.opacity = "0";
-            aiLayer.textContent = fullText; // This provides the AI with the raw content
-            viewer.appendChild(aiLayer);
+            // Build the Ghost Layer (Hidden but in DOM for AI)
+            const ghost = document.createElement('div');
+            ghost.style.height = "0"; ghost.style.overflow = "hidden"; ghost.style.position = "absolute";
+            ghost.textContent = fullText;
+            viewer.appendChild(ghost);
 
-            // 3. BUILD THE VISIBLE ACCORDIONS (The clean UI for users)
+            // Build Visible UI
             DOC_MAP.forEach(section => {
-                const content = parseSection(fullText, section.tag, section.next);
+                const sectionContent = parseSection(fullText, section.tag, section.next);
                 
                 const details = document.createElement('details');
-                details.id = section.id;
                 details.className = "section-container";
-
+                
                 const summary = document.createElement('summary');
                 summary.innerHTML = `${section.title} <span class="tag-badge">${section.tag}</span>`;
 
                 const body = document.createElement('div');
                 body.className = "doc-body";
-                // Wrap in <pre> to keep your table formatting perfect
-                body.innerHTML = `<pre style="white-space: pre-wrap; margin:0; font-family:inherit;">${content}</pre>`;
+                body.innerHTML = `<pre>${sectionContent}</pre>`;
 
                 details.appendChild(summary);
                 details.appendChild(body);
                 viewer.appendChild(details);
             });
-
-        } catch (err) {
-            status.innerHTML = "⚠️ Error: Unable to load documents from GitHub.";
-            console.error(err);
         }
-    }
 
-    function parseSection(text, startTag, endTag) {
-        const marker = `SEARCH TAG: ${startTag}`;
-        const start = text.indexOf(marker);
-        if (start === -1) return "Section content coming soon...";
-        const end = endTag ? text.indexOf(`SEARCH TAG: ${endTag}`) : text.length;
-        return text.substring(start, end).trim();
-    }
+        function parseSection(text, startTag, endTag) {
+            const marker = `SEARCH TAG: ${startTag}`;
+            const start = text.indexOf(marker);
+            if (start === -1) return "Section content is currently being prepared.";
+            const end = endTag ? text.indexOf(`SEARCH TAG: ${endTag}`) : text.length;
+            return text.substring(start, end).trim();
+        }
 
-    function manageAccordions(state) {
-        document.querySelectorAll('details').forEach(d => d.open = state);
-    }
-
-    window.onload = loadDocuments;
-</script>
+        function manageAccordions(state) {
+            document.querySelectorAll('details').forEach(d => d.open = state);
+        }
+    </script>
 </body>
 </html>
