@@ -211,46 +211,46 @@
         const status = document.getElementById('status');
 
         try {
+            // 1. Fetch the source file from your GitHub
             const resp = await fetch(SOURCE_URL);
             const fullText = await resp.text();
             status.style.display = 'none';
 
-            // 1. INJECT HIDDEN MASTER TEXT (For Copilot/Gemini to read directly)
-            const aiBackdrop = document.createElement('div');
-            aiBackdrop.id = "ai-search-layer";
-            aiBackdrop.style.display = "block"; 
-            aiBackdrop.style.visibility = "hidden";
-            aiBackdrop.style.height = "1px";
-            aiBackdrop.style.overflow = "hidden";
-            aiBackdrop.textContent = fullText; // The AI sees this immediately
-            document.body.appendChild(aiBackdrop);
+            // 2. CREATE THE GHOST LAYER (Invisible to neighbors, visible to AI)
+            // We give it a height of 0 and absolute positioning so it takes up NO space.
+            const aiLayer = document.createElement('div');
+            aiLayer.id = "ai-hidden-text";
+            aiLayer.style.position = "absolute";
+            aiLayer.style.height = "0px";
+            aiLayer.style.width = "0px";
+            aiLayer.style.overflow = "hidden";
+            aiLayer.style.opacity = "0";
+            aiLayer.textContent = fullText; // This provides the AI with the raw content
+            viewer.appendChild(aiLayer);
 
-            // 2. BUILD HUMAN-FRIENDLY ACCORDIONS
+            // 3. BUILD THE VISIBLE ACCORDIONS (The clean UI for users)
             DOC_MAP.forEach(section => {
                 const content = parseSection(fullText, section.tag, section.next);
                 
                 const details = document.createElement('details');
                 details.id = section.id;
                 details.className = "section-container";
-                details.open = true; // FORCE OPEN BY DEFAULT FOR AI INITIAL SCAN
 
                 const summary = document.createElement('summary');
                 summary.innerHTML = `${section.title} <span class="tag-badge">${section.tag}</span>`;
 
                 const body = document.createElement('div');
                 body.className = "doc-body";
-                body.innerHTML = `<pre style="white-space: pre-wrap; margin:0;">${content}</pre>`;
+                // Wrap in <pre> to keep your table formatting perfect
+                body.innerHTML = `<pre style="white-space: pre-wrap; margin:0; font-family:inherit;">${content}</pre>`;
 
                 details.appendChild(summary);
                 details.appendChild(body);
                 viewer.appendChild(details);
             });
 
-            // Brief delay then collapse for humans (AI has already scanned by now)
-            setTimeout(() => { manageAccordions(false); }, 1000);
-
         } catch (err) {
-            status.innerHTML = "⚠️ Error: Unable to load the governing documents.";
+            status.innerHTML = "⚠️ Error: Unable to load documents from GitHub.";
             console.error(err);
         }
     }
@@ -258,7 +258,7 @@
     function parseSection(text, startTag, endTag) {
         const marker = `SEARCH TAG: ${startTag}`;
         const start = text.indexOf(marker);
-        if (start === -1) return "Section not found.";
+        if (start === -1) return "Section content coming soon...";
         const end = endTag ? text.indexOf(`SEARCH TAG: ${endTag}`) : text.length;
         return text.substring(start, end).trim();
     }
