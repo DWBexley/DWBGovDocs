@@ -54,9 +54,9 @@ SECTION TITLE                          | KEY TOPICS             | SEARCH TAG
 1. Declaration                         | HOA 'Constitution'     | #DECLARATION
 2. Articles of Incorporation           | Legal Setup & Powers   | #LEGAL
 3. Community Bylaws                    | Meetings & Elections   | #BYLAWS 
-4. Committees Structure		           | Committees             | #COMMITTEES
-4. Compliance Guidelines	           | Compliance Policy      | #COMPLIANCE
-5. CLUBS		                       | CLUBS			        | #CLUBS
+4. Committees Structure                | Committees             | #COMMITTEES
+4. Compliance Guidelines               | Compliance Policy      | #COMPLIANCE
+5. CLUBS                               | CLUBS                  | #CLUBS
 ---------------------------------------|------------------------|-----------------
 
 ===========================================================================
