@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Del Webb Bexley | AI Community Portal</title>
+    <style>
+        :root {
+            --dw-blue: #004a99;
+            --dw-gold: #b38f00;
+            --light-bg: #f4f7f9;
+            --border: #d1d9e0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            display: flex;
+            height: 100vh;
+            background-color: var(--light-bg);
+            color: #333;
+        }
+
+        /* LEFT SIDEBAR: INSTRUCTIONS & VIDEOS */
+        #sidebar {
+            width: 380px;
+            background: white;
+            border-right: 1px solid var(--border);
+            padding: 25px;
+            overflow-y: auto;
+            box-shadow: 4px 0 10px rgba(0,0,0,0.05);
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        /* MAIN CONTENT: DOCUMENT VIEWER */
+        #main-content {
+            flex-grow: 1;
+            padding: 40px;
+            overflow-y: auto;
+            scroll-behavior: smooth;
+        }
+
+        .header-area {
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 3px solid var(--dw-blue);
+            padding-bottom: 20px;
+        }
+
+        h1 { color: var(--dw-blue); margin: 0; font-size: 2.2em; }
+        
+        .hierarchy-card {
+            background: #eef6ff;
+            padding: 15px;
+            border-radius: 8px;
+            border-left: 5px solid var(--dw-blue);
+            font-size: 0.9em;
+        }
+
+        /* ACTION CONTROLS */
+        .controls {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 20px;
+            position: sticky;
+            top: 0;
+            background: var(--light-bg);
+            padding: 15px 0;
+            z-index: 100;
+        }
+
+        button {
+            padding: 10px 18px;
+            border-radius: 6px;
+            border: 1px solid var(--dw-blue);
+            background: white;
+            color: var(--dw-blue);
+            cursor: pointer;
+            font-weight: 600;
+            transition: 0.2s;
+        }
+
+        button:hover { background: var(--dw-blue); color: white; }
+        button.primary { background: var(--dw-blue); color: white; }
+
+        /* ACCORDIONS */
+        details {
+            background: white;
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.03);
+        }
+
+        summary {
+            padding: 18px;
+            font-weight: bold;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 1.1em;
+        }
+
+        summary:hover { background: #fcfcfc; }
+
+        .doc-body {
+            padding: 25px;
+            border-top: 1px solid var(--border);
+            background: #fafafa;
+            white-space: pre-wrap; /* Keeps the fixed spacing you fixed earlier! */
+            font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+            font-size: 0.95em;
+            line-height: 1.5;
+            max-height: 600px;
+            overflow-y: auto;
+        }
+
+        .tag-badge {
+            background: #e1ecf4;
+            color: #39739d;
+            padding: 3px 10px;
+            border-radius: 15px;
+            font-size: 0.75em;
+            text-transform: uppercase;
+        }
+
+        /* VIDEO STYLING */
+        .video-box {
+            background: #f1f1f1;
+            padding: 12px;
+            border-radius: 8px;
+        }
+        iframe { width: 100%; height: 200px; border-radius: 5px; border: none; margin-top: 10px; }
+
+        #status { text-align: center; color: #666; padding: 20px; }
+    </style>
+</head>
+<body>
+
+    <div id="sidebar">
+        <h2 style="margin-top:0; color: var(--dw-blue);">Help & Tutorials</h2>
+        
+        <div class="hierarchy-card">
+            <strong>Rule Precedence:</strong><br>
+            1. Federal/State Law<br>
+            2. <strong>#DECLARATION</strong><br>
+            3. <strong>#LEGAL</strong> (Articles)<br>
+            4. <strong>#BYLAWS</strong><br>
+            5. Rules & Guidelines
+        </div>
+		
+		<div class="video-box">
+			<strong>Video: Using Gemini in Google Chrome</strong>
+			<iframe 
+				src="https://www.youtube.com/embed/gMQkl-8gHOg" 
+				title="Gemini Tutorial"
+				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+				allowfullscreen>
+			</iframe>
+		</div>
+		
+		<div class="video-box">
+			<strong>Video: Using Copilot in Microsoft Edge</strong>
+			<iframe 
+				src="https://www.youtube.com/embed/S7xTBa93TX8" 
+				title="Microsoft Edge Copilot Tutorial"
+				allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+				allowfullscreen>
+			</iframe>
+		</div>
+
+        <div class="video-box" style="background:#fff3cd; border: 1px solid #ffeeba;">
+            <strong>Pro Tip:</strong> Click the <strong>"Expand All"</strong> button before starting an AI chat so the computer can "read" every section at once.
+        </div>
+    </div>
+
+    <div id="main-content">
+        <div class="header-area">
+            <h1>Del Webb Bexley Community Docs</h1>
+            <p>Unified Digital Resource for Residents & AI Analysis</p>
+        </div>
+
+        <div class="controls">
+            <button class="primary" onclick="manageAccordions(true)">Expand All for AI</button>
+            <button onclick="manageAccordions(false)">Collapse All</button>
+            <input type="text" id="searchBar" placeholder="Filter sections..." onkeyup="filterContent()" style="margin-left:auto; padding: 10px; width: 250px; border-radius: 6px; border: 1px solid var(--border);">
+        </div>
+
+        <div id="status">Connecting to HOADocs.txt...</div>
+        <div id="viewer"></div>
+    </div>
+
+<script>
+    const SOURCE_URL = 'https://dwbexley.github.io/DWBGovDocs/Formatted/HOADocs.txt';
+    
+    const DOC_MAP = [
+        { id: 'decl', tag: '#DECLARATION', title: 'Community Declaration', next: '#LEGAL' },
+        { id: 'lega', tag: '#LEGAL', title: 'Articles of Incorporation', next: '#BYLAWS' },
+        { id: 'byla', tag: '#BYLAWS', title: 'Community Bylaws', next: '#COMMITTEES' },
+        { id: 'comm', tag: '#COMMITTEES', title: 'Committee Structure', next: '#COMPLIANCE' },
+        { id: 'comp', tag: '#COMPLIANCE', title: 'Compliance Guidelines', next: '#CLUBS' },
+        { id: 'club', tag: '#CLUBS', title: 'Clubs & Activities', next: null }
+    ];
+
+    async function loadDocuments() {
+        const viewer = document.getElementById('viewer');
+        const status = document.getElementById('status');
+
+        try {
+            const resp = await fetch(SOURCE_URL);
+            const fullText = await resp.text();
+            status.style.display = 'none';
+
+            // 1. INJECT HIDDEN MASTER TEXT (For Copilot/Gemini to read directly)
+            const aiBackdrop = document.createElement('div');
+            aiBackdrop.id = "ai-search-layer";
+            aiBackdrop.style.display = "block"; 
+            aiBackdrop.style.visibility = "hidden";
+            aiBackdrop.style.height = "1px";
+            aiBackdrop.style.overflow = "hidden";
+            aiBackdrop.textContent = fullText; // The AI sees this immediately
+            document.body.appendChild(aiBackdrop);
+
+            // 2. BUILD HUMAN-FRIENDLY ACCORDIONS
+            DOC_MAP.forEach(section => {
+                const content = parseSection(fullText, section.tag, section.next);
+                
+                const details = document.createElement('details');
+                details.id = section.id;
+                details.className = "section-container";
+                details.open = true; // FORCE OPEN BY DEFAULT FOR AI INITIAL SCAN
+
+                const summary = document.createElement('summary');
+                summary.innerHTML = `${section.title} <span class="tag-badge">${section.tag}</span>`;
+
+                const body = document.createElement('div');
+                body.className = "doc-body";
+                body.innerHTML = `<pre style="white-space: pre-wrap; margin:0;">${content}</pre>`;
+
+                details.appendChild(summary);
+                details.appendChild(body);
+                viewer.appendChild(details);
+            });
+
+            // Brief delay then collapse for humans (AI has already scanned by now)
+            setTimeout(() => { manageAccordions(false); }, 1000);
+
+        } catch (err) {
+            status.innerHTML = "⚠️ Error: Unable to load the governing documents.";
+            console.error(err);
+        }
+    }
+
+    function parseSection(text, startTag, endTag) {
+        const marker = `SEARCH TAG: ${startTag}`;
+        const start = text.indexOf(marker);
+        if (start === -1) return "Section not found.";
+        const end = endTag ? text.indexOf(`SEARCH TAG: ${endTag}`) : text.length;
+        return text.substring(start, end).trim();
+    }
+
+    function manageAccordions(state) {
+        document.querySelectorAll('details').forEach(d => d.open = state);
+    }
+
+    window.onload = loadDocuments;
+</script>
+</body>
+</html>
