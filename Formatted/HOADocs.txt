@@ -4707,14 +4707,22 @@ INDIVIDUAL CONSTRUCTION MAJOR MODIFICATION
 PERMIT NO. 43013740.017 
 EXPIRATION DATE: January 10, 2023  PERMIT ISSUE DATE: January 10, 2018
  
-This permit is issued under the provisions of Chapter 373, Florida Statutes, (F.S.), and the Rules contained in 
-Chapter 62-330, Florida Administrative Code, (F.A.C.). The permit authorizes the Permittee to proceed with the 
-construction of a surface water management system in accordance with the information outlined herein and 
-shown by the application, approved drawings, plans, specifications, and other documents, attached hereto and 
-kept on file at the Southwest Florida Water Management District (District). Unless otherwise stated by permit 
-specific condition, permit issuance constitutes certification of compliance with state water quality standards 
-under Section 401 of the Clean Water Act, 33 U.S.C. 1341. All construction, operation and maintenance of the 
-surface water management system authorized by this permit shall occur in compliance with Florida Statutes and 
+This permit is issued under the provisions of Chapter 373, Florida Statutes, 
+(F.S.), and the Rules contained in 
+Chapter 62-330, Florida Administrative Code, (F.A.C.). The permit authorizes 
+the Permittee to proceed with the 
+construction of a surface water management system in accordance with the 
+information outlined herein and 
+shown by the application, approved drawings, plans, specifications, and 
+other documents, attached hereto and 
+kept on file at the Southwest Florida Water Management District (District). 
+Unless otherwise stated by permit 
+specific condition, permit issuance constitutes certification of compliance 
+with state water quality standards 
+under Section 401 of the Clean Water Act, 33 U.S.C. 1341. All construction, 
+operation and maintenance of the 
+surface water management system authorized by this permit shall occur in 
+compliance with Florida Statutes and 
 Administrative Code and the conditions of this permit. 
 PROJECT NAME: Bexley North Parcel 5 Phase 1 
 GRANTED TO: 
@@ -4725,18 +4733,30 @@ Tampa, FL 33578
 
 OTHER PERMITTEES:  N/A
 
-ABSTRACT: This permit modification authorizes construction of single-family residential lots, roadways and associated 
-infrastructure for Parcel 5, Phase 1 of the Bexley Ranch development. This permit modifies the stormwater management 
-systems previously approved under Permit Nos. 43013740.015 and 43013740.016, entitled Sunlake Boulevard Extension 
-North of Tower Road and Bexley North Parcel 5 Mass Grading Plan, respectively. The perpetual operation, maintenance 
-and reinspection requirements for ponds 120 and 133 (Permit No. 43013740.015) and 133A, B, D, E and F (Permit No. 
-43013740.016) will be tracked under this permit modification No. 43013740.017, upon transfer of this permit to the operation 
-phase. The stormwater management system has been designed to limit the peak post-development 25-year, 24-hour 
-discharge rate to the peak pre-development 25-year, 24-hour discharge rate. The Engineer-of-Record has provided 
-calculations that demonstrate the proposed construction will not cause any adverse impacts offsite or onsite for the 
-25-year, 24-hour and 100-yeart 24-hour storm events. The site is located 2.5 miles north of State Road 54 approximately 3 
-miles east of the Suncoast Parkway, in Pasco County. Information regarding the stormwater management system, 
-1 CO-year floodplain, wetlands and/or surface waters is stated below and on the permitted construction drawings for the 
+ABSTRACT: This permit modification authorizes construction of single-family residential lots, 
+roadways and associated 
+infrastructure for Parcel 5, Phase 1 of the Bexley Ranch development. This permit modifies the 
+stormwater management 
+systems previously approved under Permit Nos. 43013740.015 and 43013740.016, entitled 
+Sunlake Boulevard Extension 
+North of Tower Road and Bexley North Parcel 5 Mass Grading Plan, respectively. 
+The perpetual operation, maintenance 
+and reinspection requirements for ponds 120 and 133 (Permit No. 43013740.015) 
+and 133A, B, D, E and F (Permit No. 
+43013740.016) will be tracked under this permit modification No. 43013740.017, 
+upon transfer of this permit to the operation 
+phase. The stormwater management system has been designed to limit the peak 
+post-development 25-year, 24-hour 
+discharge rate to the peak pre-development 25-year, 24-hour discharge rate. 
+The Engineer-of-Record has provided 
+calculations that demonstrate the proposed construction will not cause any 
+adverse impacts offsite or onsite for the 
+25-year, 24-hour and 100-yeart 24-hour storm events. The site is located 
+2.5 miles north of State Road 54 approximately 3 
+miles east of the Suncoast Parkway, in Pasco County. Information regarding 
+the stormwater management system, 
+1 CO-year floodplain, wetlands and/or surface waters is stated below and on 
+the permitted construction drawings for the 
 proposed project. 
 
 JUDICIAL REVIEW 
@@ -6092,9 +6112,11 @@ A FLORIDA CORPORATION NOT FOR PROFIT
 
 WRITTEN ACTION BY THE BOARD OF DIRECTORS
 
-The Board of Directors of DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC. (the "Association"), a Florida corporation not for profit, by unanimous written action adopts the following resolution:
+The Board of Directors of DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC. (the "Association"), a 
+Florida corporation not for profit, by unanimous written action adopts the following resolution:
 
-BE IT RESOLVED, that the Board of Directors approves the revised Del Webb Bexley Design Guidelines, dated 2-09-2023.
+BE IT RESOLVED, that the Board of Directors approves the revised Del Webb Bexley Design Guidelines, 
+dated 2-09-2023.
 
 [Signatures to Follow]
 
@@ -7129,56 +7151,96 @@ Phone: (813) 229-7600
 
 CERTIFICATE OF AMENDMENT TO BYLAWS OF DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC.
 
-This Certificate of Amendment to the Bylaws of Del Webb Bexley Community Association, Inc. (the "Association").
+This Certificate of Amendment to the Bylaws of Del Webb Bexley Community Association, 
+Inc. (the "Association").
 
-WHEREAS, the Association is subject to the Community Declaration for Del Webb Bexley, as recorded in Official Records Book 9774, Page 2623, et seq., of the public records of Pasco County, Florida, as amended from time to time (the "Declaration");
+WHEREAS, the Association is subject to the Community Declaration for Del Webb Bexley, 
+as recorded in Official Records Book 9774, 
+Page 2623, et seq., of the public records of Pasco County, Florida, as amended from 
+time to time (the "Declaration");
 
-WHEREAS, the Association is also subject to the Bylaws of Del Webb Bexley Community Association, Inc., as recorded in Official Records Book 9774, Page 2734, et seq., of the public records of Pasco County, Florida, as amended from time to time (the "Bylaws");
+WHEREAS, the Association is also subject to the Bylaws of Del Webb Bexley Community Association, 
+Inc., as recorded in Official Records Book 9774, Page 2734, et seq., of the public records 
+of Pasco County, Florida, as amended from time to time (the "Bylaws");
 
-WHEREAS, Section 12.3 of the Bylaws provides that a proposed amendment shall be adopted by approval of: (a) a majority of all of the Board of Directors; and (b) fifty-one percent (51%) of the Voting Interests present at a duly called meeting of the members entitled to vote at which there was a quorum;
+WHEREAS, Section 12.3 of the Bylaws provides that a proposed amendment shall be adopted by 
+approval of: (a) a majority of all of the Board of Directors; and (b) fifty-one percent 
+(51%) of the Voting Interests present at a duly called meeting of the members entitled to 
+vote at which there was a quorum;
 
-WHEREAS, at a duly noticed meeting of the Board of Directors, held in the manner required by the Association's Governing Documents, the Board of Directors voted to approve the Amendments to the Bylaws attached to this Certificate as EXHIBIT A; and
+WHEREAS, at a duly noticed meeting of the Board of Directors, held in the manner required 
+by the Association's Governing Documents, the Board of Directors voted to approve the Amendments 
+to the Bylaws attached to this Certificate as EXHIBIT A; and
 
-WHEREAS, at a duly noticed meeting of the Members of the Association, held in the manner required by the Association's Governing Documents, the requisite number of Members voted to approve the Amendments to the Bylaws attached to this Certificate as EXHIBIT A;
+WHEREAS, at a duly noticed meeting of the Members of the Association, held in the manner 
+required by the Association's Governing Documents, the requisite number of Members voted to 
+approve the Amendments to the Bylaws attached to this Certificate as EXHIBIT A;
 
 NOW, THEREFORE, the Association hereby declares and certifies as follows:
 
     The foregoing recitals are true and correct.
 
-    All initially capitalized terms not defined herein or in the Amendments shall have the meaning set forth in the Declaration or Bylaws.
+    All initially capitalized terms not defined herein or in the Amendments shall have the 
+	meaning set forth in the Declaration or Bylaws.
 
-    With respect to the Amendments, text to be deleted is indicated by strikethrough (~~strikethrough~~) and text to be added is indicated by an underline (underline).
+    With respect to the Amendments, text to be deleted is indicated by strikethrough (~~strikethrough~~) 
+	and text to be added is indicated by an underline (underline).
 
     Ellipses (...) indicate that the language omitted by the ellipsis shall remain unchanged.
 
-    In the event that there is a conflict between the Amendments and the previously existing Bylaws, the Amendments shall control.
+    In the event that there is a conflict between the Amendments and the previously 
+	existing Bylaws, the Amendments shall control.
 
-    All provisions of the Declaration, Bylaws and Articles are hereby ratified and shall be of full force and affect, except as specifically modified and amended by the Amendments.
+    All provisions of the Declaration, Bylaws and Articles are hereby ratified and 
+	shall be of full force and affect, except as specifically modified and amended by the Amendments.
 
 IN WITNESS WHEREOF, the undersigned has hereunto set its hand and seal.
 EXHIBIT "A"
 
 Amendments to the Bylaws of Del Webb Bexley Community Association, Inc.
 
-4.7 Election. Election to the Board shall be by ~~written~~ ballot, ~~either~~ in person or by proxy, at a duly noticed meeting or by electronic voting. ~~each Voting Member shall be entitled to cast a vote for each vacancy to be filled. There shall be no cumulative voting.~~ All Board elections shall be determined by a plurality of the votes cast by eligible voters. The Board elections shall be conducted as follows:
+4.7 Election. Election to the Board shall be by ~~written~~ ballot, ~~either~~ in person or 
+by proxy, at a duly noticed meeting or by electronic voting. ~~each Voting Member shall be 
+entitled to cast a vote for each vacancy to be filled. There shall be no cumulative voting.
+~~ All Board elections shall be determined by a plurality of the votes cast by eligible voters. 
+The Board elections shall be conducted as follows:
 
-4.7.1 The Association shall mail, deliver, or electronically transmit to each member entitled to a vote, a first notice of the date of the election at least sixty (60) days before the scheduled election.
+4.7.1 The Association shall mail, deliver, or electronically transmit to each member 
+entitled to a vote, a first notice of the date of the election at least sixty (60) days 
+before the scheduled election.
 
-4.7.2 Any member or other eligible person desiring to be a candidate for the Board must give written notice of his or her intent to be a candidate to the Association at least forty (40) days before a scheduled election.
+4.7.2 Any member or other eligible person desiring to be a candidate for the Board must give 
+written notice of his or her intent to be a candidate to the Association at least forty (40) 
+days before a scheduled election.
 
-4.7.3 Together with the written notice and agenda as set forth in Section 4.5 of the Bylaws, the Association shall mail, deliver, or electronically transmit a second notice of the election to all members entitled to vote, together with a ballot that lists all candidates not less than fourteen (14) days or more than thirty-four (34) days before the date of the election.
+4.7.3 Together with the written notice and agenda as set forth in Section 4.5 of the Bylaws, 
+the Association shall mail, deliver, or electronically transmit a second notice of the election 
+to all members entitled to vote, together with a ballot that lists all candidates not less than 
+fourteen (14) days or more than thirty-four (34) days before the date of the election.
 
-4.7.4 Upon request of a candidate, an information sheet, no larger than 8 1/2 inches by 11 inches, which must be furnished by the candidate at least thirty-five (35) days before the election, must be included with the mailing, delivery, or electronic transmission of the ballot, with any costs of copying and mailing, delivery, or electronic transmission to be borne by the Association.
+4.7.4 Upon request of a candidate, an information sheet, no larger than 8 1/2 inches by 11 inches, 
+which must be furnished by the candidate at least thirty-five (35) days before the election, 
+must be included with the mailing, delivery, or electronic transmission of the ballot, 
+with any costs of copying and mailing, delivery, or electronic transmission to be borne by 
+the Association.
 
-4.7.5 For election by mail, the Association shall provide to the members a second notice of the election, a ballot, an inner envelope and an outer envelope.
+4.7.5 For election by mail, the Association shall provide to the members a second notice of 
+the election, a ballot, an inner envelope and an outer envelope.
 
-4.7.6 The ballot shall be placed in an inner envelope, which shall then be placed in an outer envelope. The exterior of the outer envelope shall indicate the name of the voter, and the property identification for which the vote is being cast, and shall contain a signature space for the voter.
+4.7.6 The ballot shall be placed in an inner envelope, which shall then be placed in an outer 
+envelope. The exterior of the outer envelope shall indicate the name of the voter, and the 
+property identification for which the vote is being cast, and shall contain a signature 
+space for the voter.
 
-4.7.7 Once the exterior of the outer envelope is verified, the inner envelope shall be removed and placed in a receptacle for the purpose of counting.
+4.7.7 Once the exterior of the outer envelope is verified, the inner envelope shall be 
+removed and placed in a receptacle for the purpose of counting.
 
-4.7.8 During the election, the ballots shall be removed from the inner envelopes and counted in the presence of any owners in attendance. Any inner envelope containing more than one ballot shall be marked "Disregarded" and shall not be counted.
+4.7.8 During the election, the ballots shall be removed from the inner envelopes and 
+counted in the presence of any owners in attendance. Any inner envelope containing 
+more than one ballot shall be marked "Disregarded" and shall not be counted.
 
-4.8 Electronic Voting. The Board of Directors may adopt a resolution providing Owners with the opportunity to vote through an online or electronic voting system.
+4.8 Electronic Voting. The Board of Directors may adopt a resolution providing Owners 
+with the opportunity to vote through an online or electronic voting system.
 
 ===========================================================================
 SEARCH TAG: #BYLAWS-AMENDMENT
@@ -7189,19 +7251,33 @@ SOURCE FILE: BYLAWS Amendment 08.01.2024.txt
 DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC.
 RESOLUTION OF THE BOARD OF DIRECTORS AUTHORIZING ELECTRONIC VOTING
 
-Upon motion duly made by WILLIAM KRIMMEL, duly seconded by GARY ZIMA, the following Resolution authorizing electronic voting was adopted at a duly-noticed Board meeting on Aug 1, 2024 by at least a majority vote of the Board of Directors.
+Upon motion duly made by WILLIAM KRIMMEL, duly seconded by GARY ZIMA, the following 
+Resolution authorizing electronic voting was adopted at a duly-noticed Board meeting 
+on Aug 1, 2024 by at least a majority vote of the Board of Directors.
 
 RECITALS
 
-WHEREAS, Del Webb Bexley Community Association, Inc. (the "Association") is a not for profit corporation duly organized and existing under the laws of the State of Florida; and
+WHEREAS, Del Webb Bexley Community Association, Inc. (the "Association") is a not for 
+profit corporation duly organized and existing under the laws of the State of Florida; and
 
-WHEREAS, Section 4.8 of the Bylaws of Del Webb Bexley Community Association, Inc. and Section 720.317, Florida Statutes, provide that the Association may conduct elections and other membership votes through an internet-based online voting system if a member consents, electronically or in writing, to online voting and if various requirements are met; and
+WHEREAS, Section 4.8 of the Bylaws of Del Webb Bexley Community Association, Inc. and 
+Section 720.317, Florida Statutes, provide that the Association may conduct elections 
+and other membership votes through an internet-based online voting system if a member 
+consents, electronically or in writing, to online voting and if various requirements are met; and
 
-WHEREAS, the Board of Directors for the Association has determined it to be in the best interests of the Association to enable the use of electronic voting in connection with Membership votes on certain Association matters and to create the requisite authority required by the above-referenced statute;
+WHEREAS, the Board of Directors for the Association has determined it to be in the 
+best interests of the Association to enable the use of electronic voting in connection 
+with Membership votes on certain Association matters and to create the requisite authority 
+required by the above-referenced statute;
 
-WHEREAS, the Board of Directors has voted to adopt the Resolution Authorizing Electronic Voting, attached hereto as Exhibit A, at a duly-noticed Board meeting, having provided the requisite notice to all Owners at least fourteen (14) days in advance of the meeting;
+WHEREAS, the Board of Directors has voted to adopt the Resolution Authorizing Electronic 
+Voting, attached hereto as Exhibit A, at a duly-noticed Board meeting, having provided 
+the requisite notice to all Owners at least fourteen (14) days in advance of the meeting;
 
-NOW, THEREFORE, BE IT RESOLVED that the Board of Directors hereby approves and adopts the following resolution, attached hereto as Exhibit A, which shall govern and supersede any provisions of the Association's policies, rules or regulations which specifically conflict with the provisions hereof:
+NOW, THEREFORE, BE IT RESOLVED that the Board of Directors hereby approves and adopts 
+the following resolution, attached hereto as Exhibit A, which shall govern and supersede 
+any provisions of the Association's policies, rules or regulations which specifically 
+conflict with the provisions hereof:
 
 DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC.
 
@@ -7217,44 +7293,81 @@ RESOLUTION OF THE BOARD OF DIRECTORS AUTHORIZING ELECTRONIC VOTING
 
 I. Authorization of Electronic Voting and General Regulations
 
-    The Board of Directors hereby authorizes the use of internet-based electronic voting for Voting Member elections and any matters requiring a vote of the Members of the Association as deemed appropriate for online voting as determined by the Board of Directors, in their sole discretion.
+    The Board of Directors hereby authorizes the use of internet-based electronic 
+	voting for Voting Member elections and any matters requiring a vote of the Members 
+	of the Association as deemed appropriate for online voting as determined by the 
+	Board of Directors, in their sole discretion.
 
-    The Board of Directors shall use reasonable business judgment to select and utilize an online voting system that satisfies the requirements set forth in the Florida Statutes, including but not limited to, Section 720.317, Florida Statutes, as may be amended from time to time.
+    The Board of Directors shall use reasonable business judgment to select and utilize 
+	an online voting system that satisfies the requirements set forth in the Florida 
+	Statutes, including but not limited to, Section 720.317, Florida Statutes, as may 
+	be amended from time to time.
 
-    The Association will notify members of the availability of electronic voting and instructions by which members desiring to vote by electronic means may register.
+    The Association will notify members of the availability of electronic voting and 
+	instructions by which members desiring to vote by electronic means may register.
 
-    All Members desiring to vote by electronic means shall register to vote electronically at least seventy-two (72) hours prior to the meeting at which electronic voting shall be utilized. Members are encouraged to consent to receive the Association's notices electronically while registering to vote electronically.
+    All Members desiring to vote by electronic means shall register to vote electronically 
+	at least seventy-two (72) hours prior to the meeting at which electronic voting shall 
+	be utilized. Members are encouraged to consent to receive the Association's notices 
+	electronically while registering to vote electronically.
 
-    Members voting electronically shall be counted as being in attendance at the meeting for purposes of determining a quorum.
+    Members voting electronically shall be counted as being in attendance at the meeting 
+	for purposes of determining a quorum.
 
     All votes cast electronically are final and may not be revoked online, in person or by proxy.
 
-    Members registered to vote online may still choose to vote in person or by proxy instead of electronically.
+    Members registered to vote online may still choose to vote in person or by proxy 
+	instead of electronically.
 
-    Members who register for online voting may thereafter opt out of online voting by notifying the Association's manager electronically or via certified U.S. mail of the Member's desire to opt out of electronic voting.
+    Members who register for online voting may thereafter opt out of online voting by 
+	notifying the Association's manager electronically or via certified U.S. mail of 
+	the Member's desire to opt out of electronic voting.
 
-    By providing consent to online voting and otherwise choosing to vote electronically as authorized by this Resolution, each Member recognizes that the Association cannot control the practices of third parties regarding internet communications and use of the Member's e-mail address. As such, and as a condition of the Association's agreement to permit electronic voting, each Member who consents to electronic voting releases and waives any and all claims against the Association pertaining to such voting, including but not limited to the transmission or placement of "viruses," "malware," "spyware," "cookies," and the like. Each Member who consents to electronic voting also consents to the Association's publication of their e-mail address, as well as other information (including necessary personal identifying information) to electronic voting service providers or other third parties to the extent and as may be reasonably necessary to enable the use of the electronic voting processes. Such information shall not be considered an official record available for Member inspection unless required by law.
+    By providing consent to online voting and otherwise choosing to vote electronically
+	as authorized by this Resolution, each Member recognizes that the Association 
+	cannot control the practices of third parties regarding internet communications 
+	and use of the Member's e-mail address. As such, and as a condition of the 
+	Association's agreement to permit electronic voting, each Member who consents to 
+	electronic voting releases and waives any and all claims against the Association 
+	pertaining to such voting, including but not limited to the transmission or 
+	placement of "viruses," "malware," "spyware," "cookies," and the like. Each Member 
+	who consents to electronic voting also consents to the Association's publication 
+	of their e-mail address, as well as other information (including necessary 
+	personal identifying information) to electronic voting service providers or other 
+	third parties to the extent and as may be reasonably necessary to enable the use 
+	of the electronic voting processes. Such information shall not be considered an 
+	official record available for Member inspection unless required by law.
 
 
 II. Members Must be Provided With:
 
     A method to authenticate the Member's identify to the online/electronic voting system.
 
-    For elections to the Board, a method to transmit an electronic ballot to the online/electronic voting system that ensures the secrecy and integrity of each ballot.
+    For elections to the Board, a method to transmit an electronic ballot to the 
+	
+online/electronic voting system that ensures the secrecy and integrity of each ballot.
 
-    A method to confirm, at least fourteen (14) days before the voting deadline, that the Member's electronic device can successfully communicate with the online/electronic voting system.
+    A method to confirm, at least fourteen (14) days before the voting deadline, 
+	that the Member's electronic device can successfully communicate with the 
+	online/electronic voting system.
 
 III. The Online Voting System Must:
 
     Be able to authenticate the Member's identity.
 
-    Be able to authenticate the validity of each electronic vote to ensure that the vote is not altered in transit.
+    Be able to authenticate the validity of each electronic vote to ensure 
+	that the vote is not altered in transit.
 
-    Be able to transmit a receipt from the online/electronic voting system to each Member who casts an electronic vote.
+    Be able to transmit a receipt from the online/electronic voting system 
+	to each Member who casts an electronic vote.
 
-    For elections to the Board, be able to permanently separate any authentication or identifying information from the electronic election ballot, rendering it impossible to tie an election ballot to a specific owner, if the Association's Bylaws in effect at the time of the vote provide for secret voting.
+    For elections to the Board, be able to permanently separate any authentication 
+	or identifying information from the electronic election ballot, rendering it 
+	impossible to tie an election ballot to a specific owner, if the Association's Bylaws 
+	in effect at the time of the vote provide for secret voting.
 
-    Be able to store and keep electronic votes accessible to election officials for recount, inspection, and review.
+    Be able to store and keep electronic votes accessible to election 
+	officials for recount, inspection, and review.
 
 #END-BYLAWS
 
@@ -7268,16 +7381,22 @@ DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC.,
 A FLORIDA CORPORATION NOT FOR PROFIT
 WRITTEN ACTION BY THE BOARD OF DIRECTORS
 
-The Board of Directors of DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC. (the "Association"), a Florida corporation not for profit, by unanimous written action adopts the following resolution:  
+The Board of Directors of DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC. (the "Association"), 
+a Florida corporation not for profit, 
+by unanimous written action adopts the following resolution:  
 
-BE IT RESOLVED that the Board of Directors approves the removal of committee members with this written action as stated below on this 1st day of February 2023.  
+BE IT RESOLVED that the Board of Directors approves the removal of committee members with 
+this written action as stated below on this 1st day of February 2023.  
 A. Removal Based on Absenteeism
 
-Active participation by members of committees is essential to the effectiveness of the committee operations. While the Board understands that personal or professional obligations may occasionally take precedence, members who cannot regularly participate should resign to allow the Board to fill the vacancy.  
+Active participation by members of committees is essential to the effectiveness of the committee 
+operations. While the Board understands that personal or professional obligations may occasionally 
+take precedence, members who cannot regularly participate should resign to allow the Board to fill the vacancy.  
 
 To maintain a standard of commitment, members shall be subject to removal under the following circumstances:  
 
-Automatic Removal: Any member with two (2) consecutive unexcused absences or four (4) unexcused absences out of the last six (6) meetings shall be automatically removed.  
+Automatic Removal: Any member with two (2) consecutive unexcused absences or four (4) unexcused absences 
+out of the last six (6) meetings shall be automatically removed.  
 
     Excused Absences include:
 
@@ -7293,13 +7412,15 @@ Automatic Removal: Any member with two (2) consecutive unexcused absences or fou
 
         Other events considered by the Board of Directors.  
 
-    Ineligibility: Members removed for absenteeism are ineligible for reappointment to a committee for two (2) years following their removal.  
+    Ineligibility: Members removed for absenteeism are ineligible for reappointment to a 
+	committee for two (2) years following their removal.  
 
 B. Removal for Reasons Other Than Absenteeism
 
     At Pleasure Service: All committee members serve at the pleasure of the Board of Directors.  
 
-    Removal Without Cause: Members may be removed without cause by a majority vote of the Board, unless otherwise restricted by Governing Documents or Florida Statutes.  
+    Removal Without Cause: Members may be removed without cause by a majority vote of the Board, 
+	unless otherwise restricted by Governing Documents or Florida Statutes.  
 
 SIGNATURES
 
@@ -7325,13 +7446,21 @@ One-Time Courtesy Waiver for Consistent Timely Payments
 
 To acknowledge the commitment to timely payments, we have created an important update to our policies.
 
-Effective immediately, we are instituting a one-time courtesy waiver for homeowners who have consistently made payments on time. This waiver will serve as a gesture of appreciation for homeowners' reliability and dedication to making payments for their monthly assessments on time.
+Effective immediately, we are instituting a one-time courtesy waiver for homeowners 
+who have consistently made payments on time. This waiver will serve as a gesture of appreciation 
+for homeowners' reliability and dedication to making payments for their monthly assessments on time.
 
-    Criteria: Homeowners who have maintained a consistent record of on-time payments will be eligible for a one-time courtesy waiver.
+    Criteria: Homeowners who have maintained a consistent record of on-time payments will be eligible 
+	for a one-time courtesy waiver.
 
-    Scope of Waiver: The waiver will apply to late fees, late interest, and collection fees. This waiver is intended to recognize our homeowners for their reliability in providing their monthly payments for their assessments on time.
+    Scope of Waiver: The waiver will apply to late fees, late interest, and collection fees. 
+	This waiver is intended to recognize our homeowners for their reliability in providing their monthly 
+	payments for their assessments on time.
 
-    Approval Process: The approval of the one-time courtesy waiver will be subject to the review and discretion of the community manager. Homeowners meeting the criteria outlined above will need to submit a fee waiver request through portal.rizzetta.com, which will then be evaluated on a case-by-case basis.
+    Approval Process: The approval of the one-time courtesy waiver will be subject to the review 
+	and discretion of the community manager. Homeowners meeting the criteria outlined above 
+	will need to submit a fee waiver request through portal.rizzetta.com, which will then 
+	be evaluated on a case-by-case basis.
 
 
 ===================================================================================
@@ -7343,23 +7472,43 @@ SOURCE FILE: Compliance Hearing Process Policy 07.10.24.txt
 DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC.
 RESOLUTION ADOPTING COMPLIANCE COMMITTEE HEARING PROCESS POLICY
 
-WHEREAS, Del Webb Bexley Community Association, Inc. (the "Association") is a not for profit corporation duly organized and existing under the laws of the State of Florida; and
+WHEREAS, Del Webb Bexley Community Association, Inc. (the "Association") is a not for profit corporation 
+duly organized and existing under the laws of the State of Florida; and
 
-WHEREAS, the Association is a homeowners association governed by Chapter 720, Florida Statutes, the Articles of Incorporation of Del Webb Bexley Community Association, as recorded at OR Book 9774, page 2725 et seq., of the public records of Pasco County Florida, as amended from time to time (the "Articles of Incorporation"), the Bylaws of Del Webb Bexley Community Association, Inc., as recorded in Official Records Book 9774, Page 2734, et seq., of the public records of Pasco County, Florida, as amended from time to time (the "Bylaws"), and the Community Declaration for Del Webb Bexley, as recorded in Official Records Book 9774, Page 2623, et seq., of the public records of Pasco County, Florida, as amended from time to time (the "Declaration") in addition to other governing documents;
+WHEREAS, the Association is a homeowners association governed by Chapter 720, Florida Statutes, 
+the Articles of Incorporation of Del Webb Bexley Community Association, as recorded at 
+OR Book 9774, page 2725 et seq., of the public records of Pasco County Florida, as amended 
+from time to time (the "Articles of Incorporation"), the Bylaws of Del Webb Bexley 
+Community Association, Inc., as recorded in Official Records Book 9774, Page 2734, et seq., 
+of the public records of Pasco County, Florida, as amended from time to time (the "Bylaws"), 
+and the Community Declaration for Del Webb Bexley, as recorded in Official Records Book 9774, 
+Page 2623, et seq., of the public records of Pasco County, Florida, as amended from 
+time to time (the "Declaration") in addition to other governing documents;
 
-WHEREAS, § 720.305, Florida Statutes, authorizes the Association to levy fines and suspend common element use rights for violations of the Association's governing documents;
+WHEREAS, § 720.305, Florida Statutes, authorizes the Association to levy fines and 
+suspend common element use rights for violations of the Association's governing documents;
 
-WHEREAS, Article 7 § (9) of the Articles of Incorporation also authorizes the Association to make and enforce rules and regulations governing the Association, the Common Areas, Lots, and Parcels and Homes;
+WHEREAS, Article 7 § (9) of the Articles of Incorporation also authorizes the Association 
+to make and enforce rules and regulations governing the Association, the Common Areas, 
+Lots, and Parcels and Homes;
 
-WHEREAS, Section 9.16.5.2 and Section 20.6 of the Declaration authorizes the Association to suspend an Owner's or occupant's right to use the Common Areas for nonpayment of assessments or other violations of the Governing Documents; and
+WHEREAS, Section 9.16.5.2 and Section 20.6 of the Declaration authorizes the Association 
+to suspend an Owner's or occupant's right to use the Common Areas for nonpayment of 
+assessments or other violations of the Governing Documents; and
 
-WHEREAS, Section 20.6 of the Declaration authorizes the Association to levy fines against an Owner or Occupant for any violation of the Governing Documents.
+WHEREAS, Section 20.6 of the Declaration authorizes the Association to levy 
+fines against an Owner or Occupant for any violation of the Governing Documents.
 
 NOW, THEREFORE, BE IT
 RESOLVED, that the foregoing recitals are true and correct; and
-RESOLVED, that the Board of Directors of the Association hereby approves and adopts the Compliance Committee Hearing Process Policy attached to this Resolution as Exhibit A.
+RESOLVED, that the Board of Directors of the Association hereby approves and 
+adopts the Compliance Committee Hearing Process Policy attached to this Resolution as Exhibit A.
 
-IN WITNESS WHEREOF, the Board of Directors of the Association, at a duly noticed meeting of the Board of Directors at which a quorum was present, held on the 10 day of JULY, 2024, in the manner required by the Association's Governing Documents, has adopted the Compliance Committee Hearing Process Policy attached as Exhibit A.
+IN WITNESS WHEREOF, the Board of Directors of the Association, at a duly noticed 
+meeting of the Board of Directors at which a quorum was present, held on t
+he 10 day of JULY, 2024, in the manner required by the Association's Governing 
+Documents, has adopted the Compliance Committee Hearing Process Policy attached 
+as Exhibit A.
 
 DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC.
 Sign: [Signature]
@@ -7369,41 +7518,76 @@ EXHIBIT A: COMPLIANCE COMMITTEE HEARING PROCESS
 
 1. PREPARING FOR THE HEARING
 
-    Notification from Community Association Manager (CAM) sent to Compliance Committee Lead/CoLead of Violations with Board-Levied Fines and Suspensions and Hearing Notices sent to Homeowners.
+    Notification from Community Association Manager (CAM) sent to Compliance Committee 
+	Lead/CoLead of Violations with Board-Levied Fines and Suspensions and Hearing 
+	Notices sent to Homeowners.
 
-    Hearings scheduled no less than fourteen (14) days and no more than ninety (90) days after the notice of the fine or suspension is provided to an Owner, in increments of time necessary to conduct these hearings, with Electronic Means for Property Owners' availability.
+    Hearings scheduled no less than fourteen (14) days and no more than ninety (90) days 
+	after the notice of the fine or suspension is provided to an Owner, in increments of 
+	time necessary to conduct these hearings, with Electronic Means for Property Owners' 
+	availability.
 
-    Seating/Guest Sign-In Sheets and Property Owners Sign-In Sheet for requested block of time will be prepared.
+    Seating/Guest Sign-In Sheets and Property Owners Sign-In Sheet for requested block 
+	of time will be prepared.
 
-    Notice that the Board has levied a fine and/or suspension against the Owner or Occupant and the imposition of the fine and/or suspension will be considered by the Compliance Committee at hearing is provided to the Owner. The Notice will be sent by regular U.S. Mail to the address on record with the Association and/or the portal email address on record. The Notice of Fine and/or Suspension will include a description of the alleged violation, the specific action required to cure such violation, if applicable, the date and location of the hearing, and access information if the hearing is held by telephone or other electronic means.
+    Notice that the Board has levied a fine and/or suspension against the Owner or 
+	Occupant and the imposition of the fine and/or suspension will be considered by 
+	the Compliance Committee at hearing is provided to the Owner. The Notice will be 
+	sent by regular U.S. Mail to the address on record with the Association and/or the 
+	portal email address on record. The Notice of Fine and/or Suspension will include 
+	a description of the alleged violation, the specific action required to cure such 
+	violation, if applicable, the date and location of the hearing, and access 
+	information if the hearing is held by telephone or other electronic means.
 
-    Lead/CoLead identify 3 members from Compliance Committee and Alternate(s) for each Hearing. When possible, a 4th member may be picked as alternate, if needed due to unforeseen circumstances.
+    Lead/CoLead identify 3 members from Compliance Committee and Alternate(s) for each 
+	Hearing. When possible, a 4th member may be picked as alternate, if needed due 
+	to unforeseen circumstances.
 
-    Duly noticed hearings will proceed with or without the Property Owner in attendance. Hearings may take place via telephone or other electronic means, with the Owner having been provided access information. If the meeting takes place in person, the Owner has the right to attend by telephone or other electronic means.
+    Duly noticed hearings will proceed with or without the Property Owner in attendance. 
+	Hearings may take place via telephone or other electronic means, with the Owner 
+	having been provided access information. If the meeting takes place in person, 
+	the Owner has the right to attend by telephone or other electronic means.
 
-    If the violation is cured by the time of the hearing, the committee shall note the same and shall not confirm the fine, but will note in the minutes that the violation has been cured.
+    If the violation is cured by the time of the hearing, the committee shall note 
+	the same and shall not confirm the fine, but will note in the minutes that 
+	the violation has been cured.
 
 2. PROCEDURES DURING THE HEARING
 
-    Designated Seating/Sign in Sheets for Guest Attendees and a Separate Sign-In Sheet for Property Owners attending Hearing available.
+    Designated Seating/Sign in Sheets for Guest Attendees and a Separate 
+	Sign-In Sheet for Property Owners attending Hearing available.
 
     Hearing Called to Order by Compliance Committee Convener.
 
-    Presentation of Violation and Board-Levied Fine/Suspension with Documentation/Evidence Prepared by CAM/Management Staff.
+    Presentation of Violation and Board-Levied Fine/Suspension with 
+	Documentation/Evidence Prepared by CAM/Management Staff.
 
     Presentation/Response by Homeowner and/or Attorney/Witnesses.
 
     Questions from Compliance Committee Members.
 
-    Committee Deliberation/Decision by majority vote of (3) Committee Members to Confirm or Reject Fine and/or Suspension. The role of the committee is limited to determining whether to confirm or reject the fine or suspension levied by the board only.
+    Committee Deliberation/Decision by majority vote of (3) Committee 
+	Members to Confirm or Reject Fine and/or Suspension. The role of the 
+	committee is limited to determining whether to confirm or reject the 
+	fine or suspension levied by the board only.
 
-    If a violation has been cured before the hearing before the Compliance Committee or in the manner specified in the written notice of the hearing, the fine or suspension may not be imposed.
+    If a violation has been cured before the hearing before the Compliance 
+	Committee or in the manner specified in the written notice of the 
+	hearing, the fine or suspension may not be imposed.
 
     Adjournment of Hearing.
 
 3. POST-HEARING
 
-    Following the Hearing, the Compliance Committee Lead will forward the Hearing Form to the Board/CAM; within 7 days after the hearing, written notice shall be provided to the Homeowner via CAM/Management Staff, at their designated mailing or email address in the Association's official records, indicating the Committee's decision related to the violation fine or suspension, how the violation may be cured and date by which fine must be paid, or suspension fulfilled. Information regarding at what point attorney fees and costs will start should also be included in the notice to homeowners.
+    Following the Hearing, the Compliance Committee Lead will forward the 
+	Hearing Form to the Board/CAM; within 7 days after the hearing, written 
+	notice shall be provided to the Homeowner via CAM/Management Staff, at 
+	their designated mailing or email address in the Association's official 
+	records, indicating the Committee's decision related to the violation 
+	fine or suspension, how the violation may be cured and date by which 
+	fine must be paid, or suspension fulfilled. Information regarding at 
+	what point attorney fees and costs will start should also be 
+	included in the notice to homeowners.
 
 ===================================================================================
 SEARCH TAG: #COMPLIANCE
@@ -7413,15 +7597,22 @@ SOURCE FILE: Compliance Policy 8.01.2024.txt
 
 DEL WEBB BEXLEY COMMUNITY ASSOCIATION, INC. RESOLUTION ADOPTING COMPLIANCE POLICY
 
-WHEREAS, Del Webb Bexley Community Association, Inc. (the "Association") is a Florida not-for-profit corporation; and  
+WHEREAS, Del Webb Bexley Community Association, Inc. (the "Association") 
+is a Florida not-for-profit corporation; and  
 
-WHEREAS, the Association is a homeowners association governed by Chapter 720, Florida Statutes, and its governing documents, including the Articles of Incorporation, Bylaws, and the Community Declaration; and  
+WHEREAS, the Association is a homeowners association governed by Chapter 720, 
+Florida Statutes, and its governing documents, including the Articles of 
+Incorporation, Bylaws, and the Community Declaration; and  
 
-WHEREAS, Florida Statutes and the Association's governing documents authorize the Board of Directors to levy fines and suspend use rights for violations of the governing documents; and  
+WHEREAS, Florida Statutes and the Association's governing documents authorize 
+the Board of Directors to levy fines and suspend use rights for violations 
+of the governing documents; and  
 
-WHEREAS, the Board has the authority to make and enforce rules and regulations governing the community.  
+WHEREAS, the Board has the authority to make and enforce rules and regulations 
+governing the community.  
 
-NOW, THEREFORE, BE IT RESOLVED, that the Board of Directors hereby approves and adopts the Compliance Policy attached as Exhibit A.  
+NOW, THEREFORE, BE IT RESOLVED, that the Board of Directors hereby approves 
+and adopts the Compliance Policy attached as Exhibit A.  
 
 This resolution was adopted by the Board of Directors on August 15, 2024.  
 
@@ -7433,39 +7624,50 @@ I. Association Remedies for Non-Compliance
 
     Fines and Suspensions: Fines may be levied up to $100.00 per day, per violation.  
 
-    Approval Process: Fines will not be imposed until approved by the Compliance Committee following a noticed hearing.  
+    Approval Process: Fines will not be imposed until approved by the Compliance 
+	Committee following a noticed hearing.  
 
-    No Cap: Pursuant to the Declaration, aggregate fines for continuing violations are not capped.  
+    No Cap: Pursuant to the Declaration, aggregate fines for continuing 
+	violations are not capped.  
 
-    Common Area Suspension: The Association may suspend the use of common areas and facilities for violations.  
+    Common Area Suspension: The Association may suspend the use of common 
+	areas and facilities for violations.  
 
     Payment Terms: Fines must be paid within thirty (30) days of the notice.  
 
-    Legal Remedies: The Association reserves the right to pursue other remedies, including litigation or mediation, regardless of fines imposed.  
+    Legal Remedies: The Association reserves the right to pursue other remedies, 
+	including litigation or mediation, regardless of fines imposed.  
 
 II. Procedures for Notifications and Cure
 
     1st Notice to Owner: Sent via US Mail and community portal email.  
 
-        Includes a description of the violation and a request for correction within a specified time (not less than 7 days).  
+        Includes a description of the violation and a request for correction 
+		within a specified time (not less than 7 days).  
 
         Owners may request an extension in writing before the deadline.  
 
     Fine/Suspension Notice: Issued if the violation is not corrected.  
 
-        Provides notice of a Compliance Committee hearing scheduled between 14 and 90 days after the notice.  
+        Provides notice of a Compliance Committee hearing scheduled between 
+		14 and 90 days after the notice.  
 
-        If the violation is cured before the hearing, the fine or suspension may not be imposed.  
+        If the violation is cured before the hearing, the fine or suspension 
+		may not be imposed.  
 
-    Notice of Decision: Sent within 7 days of the hearing, detailing the committee's findings and any approved fines or suspensions.  
+    Notice of Decision: Sent within 7 days of the hearing, detailing the 
+	committee's findings and any approved fines or suspensions.  
 
 III. Inspections and Responses
 
-    Owner Responsibility: Owners must provide accurate contact information and notify the Association in writing of address changes.  
+    Owner Responsibility: Owners must provide accurate contact information and 
+	notify the Association in writing of address changes.  
 
-    Reporting Cure: Owners must notify the Property Manager via the portal when a violation is corrected; the manager will سپس conduct a validation inspection.  
+    Reporting Cure: Owners must notify the Property Manager via the portal when a 
+	violation is corrected; the manager will سپس conduct a validation inspection.  
 
-    Assistance: Homeowners needing help with the portal must schedule an appointment with the property manager.  
+    Assistance: Homeowners needing help with the portal must schedule an 
+	appointment with the property manager.  
 
 IV. Categories of Violations and Fines
 
@@ -7473,7 +7675,8 @@ The policy defines three categories of violations:
 
 Category: C1	
 Description: Incident-related (should not be repeated)
-Examples: Trash cans visible, blocking sidewalk, overnight street parking, unleashed dogs, pet waste	
+Examples: Trash cans visible, blocking sidewalk, overnight street parking, 
+unleashed dogs, pet waste	
 Fines/Actions: $100 per day for 1st, 2nd, and 3rd violations
 
 Category: C2	
@@ -7494,19 +7697,53 @@ SOURCE FILE: Golf Cart Policy 05.01.2026.txt
 
 Del Webb At Bexley
 USE OF GOLF CARTS
-Use of Golf Carts on Private Roads and Multipurpose Paths: The community of Del Webb at Bexley authorizes privately owned golf cart travel on roads and multipurpose paths within the Community. It is expected that golf carts will travel on multipurpose paths unless the roads must be utilized to access a path. All golf carts will be required to meet minimum safety standards. Golf cart travel is permitted only within the boundaries of the Community and is not authorized on state, federal or county roads.
+Use of Golf Carts on Private Roads and Multipurpose Paths: The community of 
+Del Webb at Bexley authorizes privately owned golf cart travel on roads and 
+multipurpose paths within the Community. It is expected that golf carts will 
+travel on multipurpose paths unless the roads must be utilized to access a path. 
+All golf carts will be required to meet minimum safety standards. Golf cart travel 
+is permitted only within the boundaries of the Community and is not authorized 
+on state, federal or county roads.
 
-A. Registration/Operation - Registration and operation of a golf cart on designated streets shall be in compliance with the provisions of the Florida Rules of the Road and the Florida Vehicle Code.
+A. Registration/Operation - Registration and operation of a golf cart on 
+designated streets shall be in compliance with the provisions of the Florida 
+Rules of the Road and the Florida Vehicle Code.
 
-B. Safe Working Condition - Carts must be in sound and safe working condition. No golf cart may be operated on a road or multipurpose path unless, at a minimum, it has the following: brakes, a steering apparatus, tires, a rearview mirror, red reflectorized warning devices in the front and rear, a slow moving emblem on the rear of the cart, a headlight that emits a white light visible from a distance of 500 feet to the front, a tail lamp that emits a red light visible from at least 100 feet from the rear, brake lights, and turn signals. When operated on a road or multipurpose path, a golf cart shall have its headlight and tail lamps lighted. A person who drives or is in actual physical control of a golf cart on a road or multipurpose path is subject to all motor vehicle regulations including, but not limited to, DUI provisions. Storage of carts must be in compliance with the HOA Declaration.
+B. Safe Working Condition - Carts must be in sound and safe working condition. 
+No golf cart may be operated on a road or multipurpose path unless, at a minimum, 
+it has the following: brakes, a steering apparatus, tires, a rearview mirror, 
+red reflectorized warning devices in the front and rear, a slow moving emblem 
+on the rear of the cart, a headlight that emits a white light visible from a 
+distance of 500 feet to the front, a tail lamp that emits a red light visible 
+from at least 100 feet from the rear, brake lights, and turn signals. 
+When operated on a road or multipurpose path, a golf cart shall have its 
+headlight and tail lamps lighted. A person who drives or is in actual physical 
+control of a golf cart on a road or multipurpose path is subject to all motor 
+vehicle regulations including, but not limited to, DUI provisions. Storage of 
+carts must be in compliance with the HOA Declaration.
 
-C. Insurance - Liability insurance must be maintained on all golf carts, with the amount of coverage determined by the owner in consultation with the owner's insurance agent. Owners will be personally responsible for the conduct of anyone operating their cart, and for any damage caused by its operation on community property. Children under the age of 16 will not be permitted to drive a golf cart on community roads and multipurpose paths.
+C. Insurance - Liability insurance must be maintained on all golf carts, with 
+the amount of coverage determined by the owner in consultation with the owner's 
+insurance agent. Owners will be personally responsible for the conduct of anyone 
+operating their cart, and for any damage caused by its operation on community property. 
+Children under the age of 16 will not be permitted to drive a golf cart on 
+community roads and multipurpose paths.
 
-D. Carts shall not be operated on community sidewalks, or on landscaped common areas at any time.
+D. Carts shall not be operated on community sidewalks, or on landscaped 
+common areas at any time.
 
-E. Street Rules - Carts should remain to the right side of the road where multipurpose paths are not provided, allowing regular vehicles to pass without obstruction. In so doing, operators must remain aware of and away from bikers and pedestrians. Bikers and pedestrians shall be given due consideration and a reasonable right of way at all times. Skaters, bikers, pedestrians, and golf carts will all share multipurpose paths running in conjunction with the major roads in the community.
+E. Street Rules - Carts should remain to the right side of the road where 
+multipurpose paths are not provided, allowing regular vehicles to pass without 
+obstruction. In so doing, operators must remain aware of and away from bikers 
+and pedestrians. Bikers and pedestrians shall be given due consideration and a 
+reasonable right of way at all times. Skaters, bikers, pedestrians, and golf carts 
+will all share multipurpose paths running in conjunction with the major roads in 
+the community.
 
-F. Subject to Association Rules - Allowance for golf cart use in Del Webb at Bexley is intended to be a privilege and convenience to Association members, and any actions, which threaten the safety and wellbeing of the membership, or otherwise infringe upon the rights of others, will not be tolerated.
+F. Subject to Association Rules - Allowance for golf cart use in Del Webb at Bexley 
+is intended to be a privilege and convenience to Association members, and any actions, 
+which threaten the safety and wellbeing of the membership, or otherwise infringe upon 
+the rights of others, will not be tolerated.
 
 ===================================================================================
 SEARCH TAG: #COMPLIANCE
@@ -7519,46 +7756,102 @@ Golf Cart Policy
 	(Revised May 15th 2025)
 
 
-The Board of Directors of the Del Webb Community Association Inc. pursuant to its rulemaking authority under Section 6.1.1.2 of the Association’s Bylaws, hereby adopts this Golf Cart Policy, to be effective on ________________. This Policy shall be part of the Association’s Rules and Regulations. 
+The Board of Directors of the Del Webb Community Association Inc. pursuant to its rulemaking 
+authority under Section 6.1.1.2 of the Association’s Bylaws, hereby adopts this 
+Golf Cart Policy, to be effective on ________________. This Policy shall be part of 
+the Association’s Rules and Regulations. 
 
 POLICY STATEMENT
-To allow the use of golf carts within Del Webb Bexley while attempting to promote safety within the community, the following policy pertains to all owners/lessee(s) and guests who operate golf carts within the Association’s community. While the Association does not advocate or endorse the operation of golf carts on its streets, it will, however, permit the use of golf carts on the private streets owned by the Association in accordance with this Policy. Compliance with this policy does not guarantee compliance with local, state, or federal law and Owners should investigate all other applicable laws or regulations. 
+To allow the use of golf carts within Del Webb Bexley while attempting to promote safety 
+within the community, the following policy pertains to all owners/lessee(s) and guests 
+who operate golf carts within the Association’s community. While the Association does not 
+advocate or endorse the operation of golf carts on its streets, it will, however, permit t
+he use of golf carts on the private streets owned by the Association in accordance with 
+this Policy. Compliance with this policy does not guarantee compliance with local, state, 
+or federal law and Owners should investigate all other applicable laws or regulations. 
 
-To assist in providing safety for everyone in the community the following registration requirements and rules are being established.  Everyone operating a golf cart must be observant of, and adhere to speed limits, parking signage, street and stop signs, approaching and adhering to road intersection rules, yielding to pedestrians, cyclists and vehicles upon entering or approaching intersections or pedestrian crosswalks as well as responsible for operating this vehicle in the designated golf cart lanes.  The registered owner(s)/lessee(s) is/are responsible for the safety of themselves and others including their passengers, other motorists, bicyclists, and pedestrians. Everyone who operates or rides in golf carts on the streets within Del Webb of Bexley does so at their own risk. The neighborhood assumes no liability for permitting golf carts to be operated on the streets of Del Webb Bexley.
+To assist in providing safety for everyone in the community the following registration 
+requirements and rules are being established.  Everyone operating a golf cart must be 
+observant of, and adhere to speed limits, parking signage, street and stop signs, 
+approaching and adhering to road intersection rules, yielding to pedestrians, cyclists 
+and vehicles upon entering or approaching intersections or pedestrian crosswalks as well 
+as responsible for operating this vehicle in the designated golf cart lanes.  
+The registered owner(s)/lessee(s) is/are responsible for the safety of themselves and 
+others including their passengers, other motorists, bicyclists, and pedestrians. Everyone 
+who operates or rides in golf carts on the streets within Del Webb of Bexley does so at 
+their own risk. The neighborhood assumes no liability for permitting golf carts to be 
+operated on the streets of Del Webb Bexley.
 
 REGISTRATION
-1.	A registration form and a release of liability and indemnification agreement (the “Registration Form”) must be completed by each owner(s)/lessee(s) who intends to use a golf cart on the private streets within the Association’s community. Only owner(s)/lessee(s) of record of property within the Association’s community shall be entitled to register golf carts in accordance with this Policy. The applying owner(s)/lessee(s) shall become the “Registered Owner(s).”
-2.	Upon receipt of the completed Registration Form and compliance with the requirements of this Policy, each registered cart will be issued one reflective numbered sticker which must be permanently affixed to thebottom passenger side of the windshield of the cart. This sticker must be displayed at all times. 
-3.	The Registered Owner(s) must pay a one-time $5 Registration Fee to cover sticker costs, and any ongoing registration and administrative costs. Any additional future administrative costs encountered and determined by the Association’s Board to be relative to authorized golf cart operation will the responsibility equally by all registered golf cart owners. 
-4.	Registration and inspection will be monitored and/or managed by the Association on dates, times and locations to be determined by the Board.  All registrations and inspections shall be coordinated and scheduled through the Association’s Property Manager (CAM).
-5.	The Registered Owner(s) shall be responsible for all loss, damage, injury, claims, or other liability resulting from the use of the golf cart within the Association’s community, regardless of who may be operating the golf cart at the time that damage, loss or injury occurs.
+1.	A registration form and a release of liability and indemnification agreement 
+(the “Registration Form”) must be completed by each owner(s)/lessee(s) who intends 
+to use a golf cart on the private streets within the Association’s community. 
+Only owner(s)/lessee(s) of record of property within the Association’s community 
+shall be entitled to register golf carts in accordance with this Policy. 
+The applying owner(s)/lessee(s) shall become the “Registered Owner(s).”
+2.	Upon receipt of the completed Registration Form and compliance with the requirements 
+of this Policy, each registered cart will be issued one reflective numbered sticker w
+hich must be permanently affixed to thebottom passenger side of the windshield of the cart. 
+This sticker must be displayed at all times. 
+3.	The Registered Owner(s) must pay a one-time $5 Registration Fee to cover sticker costs, 
+and any ongoing registration and administrative costs. Any additional future administrative 
+costs encountered and determined by the Association’s Board to be relative to authorized 
+golf cart operation will the responsibility equally by all registered golf cart owners. 
+4.	Registration and inspection will be monitored and/or managed by the Association on 
+dates, times and locations to be determined by the Board.  All registrations and 
+inspections shall be coordinated and scheduled through the Association’s Property Manager (CAM).
+5.	The Registered Owner(s) shall be responsible for all loss, damage, injury, claims, 
+or other liability resulting from the use of the golf cart within the Association’s 
+community, regardless of who may be operating the golf cart at the time that damage, 
+loss or injury occurs.
 6.	The golf cart registration forms will be maintained by the Association’s Property Manager (CAM).
 
 RULES
 
-     1. Existing golf carts must be registered within 30 days of the date of this Policy.   All other golf carts must 
+     1. Existing golf carts must be registered within 30 days of the date of this Policy.   
+	 All other golf carts must 
 be registered within 30 days of obtaining the cart. 
 
-2.Liability insurance with policy number and effective date is required.  It must be provided at the time of registration.
+2.Liability insurance with policy number and effective date is required.  It must be provided 
+at the time of registration.
 3.Golf Carts must be in sound, safe working condition.
-4. Drivers who are under 18 years of age must possess a valid driver's license or driver’s learner’s license.  Drivers who are 18 years of age or older must possess a valid form of government-issued photographic identification. 
-5. Golf carts will adhere to the same driving and parking rules and laws on Association roads as automobiles. 
-6. Parking on sidewalks or grassy areas is prohibited, unless an exception is specifically granted by the Board or their designated representative.
-7.Driving on sidewalks is prohibited. Driving on multi-purpose pathways (wide sidewalks) is permitted. Golf carts must yield to the right of way to pedestrians.
-8. Golf carts must be equipped with efficient brakes, reliable steering apparatus, safe tires, a rearview mirror, and red reflectorized warning devices in both the front and rear.
-9. Golf carts may only be driven between sunrise and sunset unless equipped with headlights, brake lights, turn signals, horn and a windshield. 
+4. Drivers who are under 18 years of age must possess a valid driver's license or driver’s 
+learner’s license.  Drivers who are 18 years of age or older must possess a valid form of 
+government-issued photographic identification. 
+5. Golf carts will adhere to the same driving and parking rules and laws on Association 
+roads as automobiles. 
+6. Parking on sidewalks or grassy areas is prohibited, unless an exception is specifically 
+granted by the Board or their designated representative.
+7.Driving on sidewalks is prohibited. Driving on multi-purpose pathways (wide sidewalks) 
+is permitted. Golf carts must yield to the right of way to pedestrians.
+8. Golf carts must be equipped with efficient brakes, reliable steering apparatus, 
+safe tires, a rearview mirror, and red reflectorized warning devices in both the front and rear.
+9. Golf carts may only be driven between sunrise and sunset unless equipped with headlights, 
+brake lights, turn signals, horn and a windshield. 
 
 10. Drivers must pull over and yield to passing vehicles.  
 
-11. All passengers must be properly seated while cart is in motion and may not be transported in a negligent manner(animals/pets, children are not permitted to be seated on the drivers lap while the golf cart is in operation, children and persons are not allowed to stand on any part of the golf cart while in operation), cell phones are not to be used during operation to avoid distractions, or in a manner inconsistent with the cart manufacturer’s recommendations. The number of passengers shall not exceed the seating capacity of the cart, including the driver. 
+11. All passengers must be properly seated while cart is in motion and may not be 
+transported in a negligent manner(animals/pets, children are not permitted to be 
+seated on the drivers lap while the golf cart is in operation, children and persons 
+are not allowed to stand on any part of the golf cart while in operation), cell phones 
+are not to be used during operation to avoid distractions, or in a manner inconsistent 
+with the cart manufacturer’s recommendations. The number of passengers shall not exceed 
+the seating capacity of the cart, including the driver. 
 
-12.	At no time shall an owner or driver of a golf cart pull a skater, skateboarder, or any other type of device.
+12.	At no time shall an owner or driver of a golf cart pull a skater, skateboarder, or 
+any other type of device.
 13.	Storage of a golf cart must be incompliance with our Governing Documents.
 
 ENFORCEMENT
 
-1.Any violation of this Policy must be reported to the Association’s Property Manager (CAM). Any resident may report a violation to the Property Manager (CAM). in writing. The complaint should have as much identifying information as is possible, including, but not limited to the identity of the party violating the Policy, the cart registration number, the date, time, and approximate location and a detailed description of the alleged violation. 
-2.Any act constituting a violation of this policy will be addressed in accordance with the Associations Compliance and Fining Policy. 
+1.Any violation of this Policy must be reported to the Association’s Property Manager (CAM). 
+Any resident may report a violation to the Property Manager (CAM). in writing. 
+The complaint should have as much identifying information as is possible, including, 
+but not limited to the identity of the party violating the Policy, the cart registration 
+number, the date, time, and approximate location and a detailed description of the alleged violation. 
+2.Any act constituting a violation of this policy will be addressed in accordance 
+with the Associations Compliance and Fining Policy. 
 3. Any threat to safety may result in immediate legal action. 
 
 ===================================================================================
@@ -7567,16 +7860,45 @@ FORMAL TITLE: DRONE POLICY
 SOURCE FILE: Drone Policy 04.24.2025.txt
 ===================================================================================
 
-The Board of Directors of Del Webb Bexley Community Association, Inc. (the “Association”), pursuant Section 12.46 of the Community Declaration for Del Webb Bexley (the Declaration”), hereby adopts this Commercial Drone Policy, effective April 24, 2025 This Policy shall be part of the Association’s Rules and Regulations. In the event of a conflict between the terms of this Policy and the terms of other Association Rules and Regulations, the terms of this Policy shall apply. However, in the event of a conflict between the terms of this Policy and the terms of the Governing Documents, the Governing Documents shall apply.
-In order to operate commercial drones within the Del Webb Community, all operators must hold a valid drone pilot licenses issued by the Federal Aviation, hold insurance in the minimum amount of $1,000,000.00,and adhere to  the following conditions:
+The Board of Directors of Del Webb Bexley Community Association, Inc. (the “Association”), 
+pursuant Section 12.46 of the Community Declaration for Del Webb Bexley (the Declaration”), 
+hereby adopts this Commercial Drone Policy, effective April 24, 2025 This Policy shall be 
+part of the Association’s Rules and Regulations. In the event of a conflict between the 
+terms of this Policy and the terms of other Association Rules and Regulations, the terms 
+of this Policy shall apply. However, in the event of a conflict between the terms of this 
+Policy and the terms of the Governing Documents, the Governing Documents shall apply.
+In order to operate commercial drones within the Del Webb Community, all operators must 
+hold a valid drone pilot licenses issued by the Federal Aviation, hold insurance in the 
+minimum amount of $1,000,000.00,and adhere to  the following conditions:
 
-The drone operator must submit a completed Commercial Drone Notification Form, a copy of which is attached hereto, to Association’s Property Manager, via email at DWBManager@qualifiedproperty.com,prior to operating the Drone within the Association.   unless this requirement is waived by the Association’s president. Subject to approval by the Association, commercial drone usage is authorized on Association property for the purpose of inspection, analysis, aerial surveillance, photography to determine repair, maintenance or other as deemed necessary and for the purpose of assessment and evaluation, under (or after) emergency conditions to prevent, abate, or mitigate injury to property or persons within Del Webb Bexley Community. Commercial drone usage on property owned by any person or entity other than the Association, without the Association’s permission in writing,  will require written consent of the Owner of the property.   
+The drone operator must submit a completed Commercial Drone Notification Form, a copy of 
+which is attached hereto, to Association’s Property Manager, via email at 
+DWBManager@qualifiedproperty.com,
+prior to operating the Drone within the Association.   unless this requirement is waived by 
+the Association’s president. Subject to approval by the Association, commercial drone usage 
+is authorized on Association property for the purpose of inspection, analysis, aerial surveillance, 
+photography to determine repair, maintenance or other as deemed necessary and for the 
+purpose of assessment and evaluation, under (or after) emergency conditions to prevent, 
+abate, or mitigate injury to property or persons within Del Webb Bexley Community. 
+Commercial drone usage on property owned by any person or entity other than the Association, 
+without the Association’s permission in writing,  will require written consent of the 
+Owner of the property.   
 
-Subject to approval by the Association, commercial drone usage is authorized by or on behalf of an individual Lot Owner is limited to roof inspections and real estate aerial photography and videography. Roof inspections and real estate photography shall be conducted only within the confines of the Lot, except as set forth below.  Owners are responsible for ensuring any person or entity retained on his/her/its behalf complies fully with this Policy. 
+Subject to approval by the Association, commercial drone usage is authorized by or on 
+behalf of an individual Lot Owner is limited to roof inspections and real estate aerial 
+photography and videography. Roof inspections and real estate photography shall be 
+conducted only within the confines of the Lot, except as set forth below.  
+Owners are responsible for ensuring any person or entity retained on his/her/its 
+behalf complies fully with this Policy. 
 
-Owners seeking to obtain photography and videography of the Common Areas and Association amenities via commercial drones must submit a completed Common Area Permission Form, a copy of which is attached hereto, and obtain by prior written approval from the Association.
+Owners seeking to obtain photography and videography of the Common Areas and Association 
+amenities via commercial drones must submit a completed Common Area Permission Form, 
+a copy of which is attached hereto, and obtain by prior written approval from the Association.
 
-The intended Drone Operator must submit this Common Area Permission From and obtain written consent of the Association prior to operating commercial drones over Common Areas. Approval for operation of commercial drones over Common Areas shall be granted at the Board of Directors’ sole discretion.
+The intended Drone Operator must submit this Common Area Permission From and obtain 
+written consent of the Association prior to operating commercial drones over Common Areas. 
+Approval for operation of commercial drones over Common Areas shall be 
+granted at the Board of Directors’ sole discretion.
 
 
 ===================================================================================
@@ -7588,23 +7910,40 @@ SOURCE FILE: Gate Strike Procedure 02.24.2026.txt
 Gate, Barrier Arm and Kiosk
  Strike Policy and Procedure
 
-This policy and procedure shall be followed upon notification to our property manager or Board of Directors of a gate, barrier arm and/or kiosk strike.
+This policy and procedure shall be followed upon notification to our property manager 
+or Board of Directors of a gate, barrier arm and/or kiosk strike.
 1.	Barrier arm and kiosk strike
-a. Envera will send an email notification advising of a strike which will have a ticket number.  Contact Envera to request emergency service.  Provide the ticket number.
-b. Envera will automatically send the strike video to a predetermined list. If, however, Envera fails to send the strike video, Property Manager will send an email request of the video to videorequest@enverasystems.com.
+a. Envera will send an email notification advising of a strike which will have a ticket number.  
+Contact Envera to request emergency service.  Provide the ticket number.
+b. Envera will automatically send the strike video to a predetermined list. 
+If, however, Envera fails to send the strike video, Property Manager will send an 
+email request of the video to videorequest@enverasystems.com.
 
 2.	Gate strike
 a.	Contact Rosco Gate Service to request emergency service.
 b.	Same procedure as b above.
 
-3.	The property manager will review the video to determine ownership of the vehicle that struck a gate, barrier arm or kiosk.  Once the owner of the vehicle has been identified, the Property Manager is to send via Certified Mail a demand letter to the owner asking for reimbursement of damages (emergency call fee plus any parts and labor).  Form letters for this purpose have been drafted by the Association’s attorney.
+3.	The property manager will review the video to determine ownership of the vehicle 
+that struck a gate, barrier arm or kiosk.  Once the owner of the vehicle has been 
+identified, the Property Manager is to send via Certified Mail a demand letter to 
+the owner asking for reimbursement of damages (emergency call fee plus any parts and labor).  
+Form letters for this purpose have been drafted by the Association’s attorney.
 a.	If the owner of the vehicle is a resident, property management will contact the owner.
-b.	If the owner is a car or truck rental company, contact that company and ask for the name, address and phone number of the person or company that rented the vehicle on that day.  Property management will then contact the rented vehicle driver.
-c.	If the owner of the vehicle is a vendor or delivery service, property management will contact that company.
+b.	If the owner is a car or truck rental company, contact that company and ask for the name, 
+address and phone number of the person or company that rented the vehicle on that day.  
+Property management will then contact the rented vehicle driver.
+c.	If the owner of the vehicle is a vendor or delivery service, property management 
+will contact that company.
 
-4.	If upon examination, it appears that the gate, barrier arm and/or kiosk strike was intentional, the property manager should consult with the Board of Directors as to whether a report should be filed with Pasco County Sheriff’s office.
+4.	If upon examination, it appears that the gate, barrier arm and/or kiosk strike was 
+intentional, the property manager should consult with the Board of Directors as to 
+whether a report should be filed with Pasco County Sheriff’s office.
 
-5.	If no response is received within 30 days from the deadline for payment as expressed in the demand letter, described in number 2, the property manager will consult with the Board of Directors to determine if the matter should be referred to the Association’s attorney for collection.  The owner/driver of the vehicle will be responsible for all legal fees.
+5.	If no response is received within 30 days from the deadline for payment as 
+expressed in the demand letter, described in number 2, the property manager will 
+consult with the Board of Directors to determine if the matter should be referred 
+to the Association’s attorney for collection.  The owner/driver of the vehicle 
+will be responsible for all legal fees.
 
 6.	Without the express written permission of the Board of Directors, the strike video shall not be shared.  
 
@@ -7619,67 +7958,109 @@ SOURCE FILE: Club and Interest Groups Guidelines 08.16.2024.txt
 Page 1 of 10
 8/16/24
 Sanctioned Club & Interest Group Guidelines
-Thank you for your interest in starting a Sanctioned Club or Interest Group within our community. Please review these
-guidelines designed to help us develop a wide array of successful sanctioned Clubs and Interest Groups.
+Thank you for your interest in starting a Sanctioned Club or Interest Group 
+within our community. Please review these
+guidelines designed to help us develop a wide array of successful sanctioned 
+Clubs and Interest Groups.
 STEPS TO STARTING A CLUB OR INTEREST GROUP:
 1. Review these guidelines and ask us any questions that you may have.
 2. Complete and submit a Sanctioned Club or Interest Group Application.
-3. Complete and submit a Club/Interest Group Event Request Form & Waiver to request meeting time and
+3. Complete and submit a Club/Interest Group Event Request Form & Waiver to 
+request meeting time and
 space.
-4. Complete and submit a Sanctioned Club or Interest Group Roster which needs to include the leader and
+4. Complete and submit a Sanctioned Club or Interest Group Roster which needs 
+to include the leader and
 nine initial members.
-5. Applications are reviewed by the Lifestyle Office and submitted to the HOA board for approval. Once
-reviewed and approved, a meeting will be established with the Club or Interest Group Leader and the
+5. Applications are reviewed by the Lifestyle Office and submitted to the 
+HOA board for approval. Once
+reviewed and approved, a meeting will be established with the Club or Interest 
+Group Leader and the
 Lifestyle Director to discuss the application and/or begin the development process.
 GUIDELINES
-All policies and guidelines are subject to change. Should a situation or issue arise that is not covered by the Club and
+All policies and guidelines are subject to change. Should a situation or issue 
+arise that is not covered by the Club and
 Interest Group Guidelines, the Lifestyle Office and HOA will handle as they see fit.
 Club & Interest Group Purpose
- The purpose of a Sanctioned Club/Interest Group is to bring together residents with a common interest or
-talent in an organized manner to enhance the lifestyle opportunities available to residents of the
+ The purpose of a Sanctioned Club/Interest Group is to bring together residents 
+with a common interest or talent in an organized manner to enhance the lifestyle 
+opportunities available to residents of the
 community.
- Clubs/Interest Groups shall operate to enhance the lifestyle experience of Del Webb Bexley by avoiding
-unnecessary conflict and divisiveness in their operations and goals.
+ Clubs/Interest Groups shall operate to enhance the lifestyle experience of 
+Del Webb Bexley by avoiding unnecessary conflict and divisiveness in their 
+operations and goals.
  Clubs can be recreational, educational, cultural and/or charitable in nature.
- Clubs are not permitted to be conditioned on race, religion, national heritage, color, or ethnic culture.
- Interest Groups may be political or religious in nature, but they require approval by the HOA.
+ Clubs are not permitted to be conditioned on race, religion, national heritage, 
+color, or ethnic culture.
+ Interest Groups may be political or religious in nature, but they require 
+approval by the HOA.
 Page 2 of 10
 8/16/24
- All Del Webb Bexley Clubs & Interest Groups shall be open to any resident who wishes to attend the
-general meetings and events or become a member of the Club. However, this should not preclude the
-formation of gender-specific Clubs such as a women’s Club or men’s discussion group or their opposite
+ All Del Webb Bexley Clubs & Interest Groups shall be open to any resident 
+who wishes to attend the
+general meetings and events or become a member of the Club. However, this 
+should not preclude the
+formation of gender-specific Clubs such as a women’s Club or men’s discussion 
+group or their opposite
 gender counterparts.
- Rules applying to the formation of clubs and groups may be modified at the discretion of the Lifestyle
-Director (LD), Community Manager (CM), and/or board of Directors (BOD). Notification of any changes
+ Rules applying to the formation of clubs and groups may be modified at 
+the discretion of the Lifestyle
+Director (LD), Community Manager (CM), and/or board of Directors (BOD). 
+Notification of any changes
 will be provided within 15 days to club/group leader or President.
- All incidents or accidents occurring on Association property (whether requiring medical attention or not)
+ All incidents or accidents occurring on Association property 
+(whether requiring medical attention or not)
 will be immediately reported to the LD or CM.
 DEFINITIONS
-• SANCTIONED CLUB: Any group of Association members who are interested in pursuing a specific hobby,
-recreational, social, or cultural interest, subject to the policies and procedures outlined within the Del Webb
-Sanctioned Club Operating Manual or as otherwise approved by the HOA Board. Sanctioned clubs are not
-granted to groups that require, as a precondition for club membership, subsequent membership in affiliated
-national, state, or regional organizations. Any affiliation must be optional on the part of the individual member.
-Additionally, sanctioned clubs will not be approved for any group that sets a restrictive precondition for
-membership. Membership must be open to all bona fide members of the Association without discrimination as to
-race, religion, color, ethnic culture, or national heritage. Segregated activities for male and female members may
-be established if desired by both genders, and each gender has the same opportunity to pursue common interests,
-e.g., men's and ladies’ social clubs, men's and ladies golf clubs. Sanctioned Clubs should be complimentary to the
-Association's programs. Proper coordination between the Association and prospective clubs is necessary to
-ensure that the intent for club has been satisfied, and that Association space is both adequate and available to
-support the intended club function. Benefits of Sanctioned club include reserved facility space for club activities,
-insurance coverage and administrative support through the HOA. As a component of the Club application
-process, and to protect the interests of the community at large, groups are required to demonstrate that
-appropriate cash controls, safety procedures and methods to fairly administer group activities are in place.
-INTEREST GROUPS & COMMUNITY SERVICE ORGANIZATIONS: Any group of Association members who
-are interested in pursuing activities that benefit various religious, community service or political interests but do
-not satisfy the intent for a sanctioned club. In these instances, the Association will attempt to provide requested
-facility space to assist in start-up activities. Space may be provided on a first come, first-serve basis, but it will not
-be allocated to preempt or disrupt an Association sponsored activity. When space is dedicated for use by an
-Interest Group or Community Service Organization, a predetermined rental fee is typically charged. To assist the
-group in their start-up effort, however, fees are initially waived for a period of 6 months and discounted over any
-regular rental rates subsequent to that time. In all cases, the Association reserves the right to disapprove requests
-for community service and interest group space, or curtail a previous authorization, if the needs of the general
+• SANCTIONED CLUB: Any group of Association members who are interested 
+in pursuing a specific hobby,
+recreational, social, or cultural interest, subject to the policies and 
+procedures outlined within the Del Webb
+Sanctioned Club Operating Manual or as otherwise approved by the HOA Board. 
+Sanctioned clubs are not
+granted to groups that require, as a precondition for club membership, 
+subsequent membership in affiliated
+national, state, or regional organizations. Any affiliation must be optional 
+on the part of the individual member.
+Additionally, sanctioned clubs will not be approved for any group that 
+sets a restrictive precondition for
+membership. Membership must be open to all bona fide members of the Association 
+without discrimination as to
+race, religion, color, ethnic culture, or national heritage. Segregated 
+activities for male and female members may
+be established if desired by both genders, and each gender has the same 
+opportunity to pursue common interests,
+e.g., men's and ladies’ social clubs, men's and ladies golf clubs. 
+Sanctioned Clubs should be complimentary to the
+Association's programs. Proper coordination between the Association 
+and prospective clubs is necessary to
+ensure that the intent for club has been satisfied, and that Association 
+space is both adequate and available to
+support the intended club function. Benefits of Sanctioned club include 
+reserved facility space for club activities,
+insurance coverage and administrative support through the HOA. As a component 
+of the Club application
+process, and to protect the interests of the community at large, groups are 
+required to demonstrate that
+appropriate cash controls, safety procedures and methods to fairly administer 
+group activities are in place.
+INTEREST GROUPS & COMMUNITY SERVICE ORGANIZATIONS: Any group of Association 
+members who
+are interested in pursuing activities that benefit various religious, 
+community service or political interests but do
+not satisfy the intent for a sanctioned club. In these instances, 
+the Association will attempt to provide requested
+facility space to assist in start-up activities. Space may be provided 
+on a first come, first-serve basis, but it will not
+be allocated to preempt or disrupt an Association sponsored activity. 
+When space is dedicated for use by an
+Interest Group or Community Service Organization, a predetermined rental 
+fee is typically charged. To assist the
+group in their start-up effort, however, fees are initially waived for 
+a period of 6 months and discounted over any
+regular rental rates subsequent to that time. In all cases, the Association 
+reserves the right to disapprove requests
+for community service and interest group space, or curtail a previous 
+authorization, if the needs of the general
 membership warrant.
 Page 3 of 10
 8/16/24
@@ -7728,79 +8109,123 @@ Recognized but not sponsored by the Association:
 policy
 - Limited HOA administrative support
 Club & Interest Group Qualifications
- All Interest Groups receive limited Sanctioned Club benefits for the first 6 months to help them get
+ All Interest Groups receive limited Sanctioned Club benefits for the 
+first 6 months to help them get
 started.
- If an Interest Group meets any two of following qualifications, then they must become a sanction club:
+ If an Interest Group meets any two of following qualifications, then 
+they must become a sanction club:
 o Meeting on a regular basis
 o Collection of monies and or dues
 o Have more than 20 active members
- Sanctioned clubs and interest groups will not be approved for any group that sets a restrictive
-precondition for membership. Membership must be open to all Del Webb Bexley residents without
-discrimination as to race, religion, color, entice culture, national heritage, or physical capabilities.
-Note: Segregated activities for male and female members may be established if desired by both genders,
+ Sanctioned clubs and interest groups will not be approved for any 
+group that sets a restrictive
+precondition for membership. Membership must be open to all Del Webb 
+Bexley residents without
+discrimination as to race, religion, color, entice culture, national 
+heritage, or physical capabilities.
+Note: Segregated activities for male and female members may be established 
+if desired by both genders,
 and each gender has the same opportunity to pursue common interests.
 Page 4 of 10
 8/16/24
- To allow for leadership and operational stability, sanctioned clubs will elect an executive BOD comprised
-of (at a minimum) three leaders per sanctioned club, i.e., President, Vice-President, and Secretary or two
-Co-chairs and a Treasurer. If the club anticipates dues or other financial considerations, a Treasurer must
-be appointed (Note: If desired, clubs may combine the position of Secretary and Treasurer). As new
-officers are elected annually, clubs will complete a new “Club Officers" form and email it to the Lifestyle
+ To allow for leadership and operational stability, sanctioned clubs 
+will elect an executive BOD comprised
+of (at a minimum) three leaders per sanctioned club, i.e., President, 
+Vice-President, and Secretary or two
+Co-chairs and a Treasurer. If the club anticipates dues or other 
+financial considerations, a Treasurer must
+be appointed (Note: If desired, clubs may combine the position of 
+Secretary and Treasurer). As new
+officers are elected annually, clubs will complete a new “Club Officers" 
+form and email it to the Lifestyle
 Director within 30 days following the annual election.
- Individuals wishing to start a Club/Interest Group must complete an application, which must be
+ Individuals wishing to start a Club/Interest Group must complete an 
+application, which must be
 approved by the Lifestyle Office, prior to starting the Club or Interest Group.
- All Del Webb Bexley Clubs/Interest Groups must have a Mission Statement & Purpose, which is to be
-submitted to the Lifestyle Director or Assistant Lifestyle Director along with application to form/maintain
-a new Club or Interest Group. Mission Statements must be on file in the Office of the Lifestyle Director.
+ All Del Webb Bexley Clubs/Interest Groups must have a Mission 
+Statement & Purpose, which is to be
+submitted to the Lifestyle Director or Assistant Lifestyle Director 
+along with application to form/maintain
+a new Club or Interest Group. Mission Statements must be on file in the 
+Office of the Lifestyle Director.
 This statement will be used in the community newsletter.
- Clubs and Interest Groups must have a designated leader. Leaders must provide a phone number and
+ Clubs and Interest Groups must have a designated leader. 
+Leaders must provide a phone number and
 email address that can be published in the newsletter and in other publications.
- Clubs and Interest Groups must have at least ten members. All clubs must update their club roster with
+ Clubs and Interest Groups must have at least ten members. 
+All clubs must update their club roster with
 the Lifestyle Director in January, May, and September.
- If an Interest Group meets any two of following qualifications, then they must become a sanction club.
+ If an Interest Group meets any two of following qualifications, 
+then they must become a sanction club.
 o Meeting on a regular basis
 o Collection of monies and or dues
 o Have more than 20 active members
- Clubs and Interest Groups may not limit the number of residents permitted to join.
- Clubs and Interest Groups must adhere to all rules and regulations of the HOA and to the facility rules
+ Clubs and Interest Groups may not limit the number of residents 
+permitted to join.
+ Clubs and Interest Groups must adhere to all rules and regulations 
+of the HOA and to the facility rules
 and regulations, hours of operation and policies.
- Clubs and Interest Groups cannot be duplicated in title, function, or interest unless approved by the
+ Clubs and Interest Groups cannot be duplicated in title, function, 
+or interest unless approved by the
 Community Association Board of Directors and Lifestyle Director.
- Clubs and Interest Groups must communicate on a timely basis with the Lifestyle Office on updates,
+ Clubs and Interest Groups must communicate on a timely basis 
+with the Lifestyle Office on updates,
 activities, events, and room reservations.
- Clubs and Interest Groups are responsible for managing their own member communications and may
-create their own email distribution list for residents that have indicated they wish to receive emails from
-the Club or Interest Group. The Lifestyle Office will not provide resident information to Clubs or Interest
+ Clubs and Interest Groups are responsible for managing their 
+own member communications and may
+create their own email distribution list for residents that have 
+indicated they wish to receive emails from
+the Club or Interest Group. The Lifestyle Office will not provide 
+resident information to Clubs or Interest
 Groups for their own communications.
- The facility, staff and HOA assume no responsibility for accidents, injuries or incidents resulting from
-participation in the Club or Interest Group. All participants will be required to have a signed facility
+ The facility, staff and HOA assume no responsibility for accidents, 
+injuries or incidents resulting from
+participation in the Club or Interest Group. All participants 
+will be required to have a signed facility
 usage waiver on file prior to participating in the Club or Interest Group.
 Page 5 of 10
 8/16/24
 Miscellaneous Rules for Clubs and Interest Groups
- All individual Club and Interest Group events shall be held during the regular hours of operation for the
+ All individual Club and Interest Group events shall be held during 
+the regular hours of operation for the
 Clubhouse facility.
- Clubs and Interest Groups are not required to have by-laws and elected officials; however, if they choose
-to do so, they must provide an updated copy of by-laws and a list of officers to the Lifestyle Office, which
-must be approved by the HOA. Amendments to bylaws or changes in elected officers or boards must be
-submitted to the Lifestyle Office within 30 days of the change and approved by the HOA.
- All non-residents are subject to the same criteria for admittance as guests of an individual resident, and it
-is the responsibility of the individual Club/Interest Group to communicate those requirements to those
-attending an event, prior to their arrival at the gate. Failure to comply will result in denial of access to the
+ Clubs and Interest Groups are not required to have by-laws and 
+elected officials; however, if they choose
+to do so, they must provide an updated copy of by-laws and a list of 
+officers to the Lifestyle Office, which
+must be approved by the HOA. Amendments to bylaws or changes in elected 
+officers or boards must be
+submitted to the Lifestyle Office within 30 days of the change and 
+approved by the HOA.
+ All non-residents are subject to the same criteria for admittance 
+as guests of an individual resident, and it
+is the responsibility of the individual Club/Interest Group to 
+communicate those requirements to those
+attending an event, prior to their arrival at the gate. Failure to 
+comply will result in denial of access to the
 community. There are no exceptions to this policy.
- It is the responsibility of the individual Club or Interest Group to inform all outside guests of the current
-security policies and procedures for property and clubhouse access. This includes, but is not limited to:
-a. Providing a valid photo driver’s license as identification for all drivers entering the property.
+ It is the responsibility of the individual Club or Interest Group 
+to inform all outside guests of the current
+security policies and procedures for property and clubhouse access. 
+This includes, but is not limited to:
+a. Providing a valid photo driver’s license as identification for 
+all drivers entering the property.
 b. Instructions for parking.
 c. Instructions for entering the facilities for the event.
-d. Arrival of guests before regular business hours (when the doors are locked, and key fobs are
-inactive) requires prior approval of the Lifestyle Director and an activity representative to
-greet all attendees at the main entry of their reserved facility to provide access.
+d. Arrival of guests before regular business hours (when the doors 
+are locked, and key fobs are
+inactive) requires prior approval of the Lifestyle Director and an 
+activity representative to
+greet all attendees at the main entry of their reserved facility to 
+provide access.
 Club & Interest Group Marketing at the Clubhouse
- All Clubs and Interest Groups are required to create and print their own flyers pertaining to club
-events. When creating the flyer, make sure to provide all significant information, club name, event,
+ All Clubs and Interest Groups are required to create and print 
+their own flyers pertaining to club
+events. When creating the flyer, make sure to provide all significant 
+information, club name, event,
 time, date, cost, location and contact information.
- All flyers must be pre-approved by the Lifestyles Director before being sent out via email. All flyers must
+ All flyers must be pre-approved by the Lifestyles Director before 
+being sent out via email. All flyers must
 be saved in a JPEG or PDF format to be emailed.
  Do not place flyers on doors, walls, or tables in the Clubhouse.
 Page 6 of 10
@@ -7808,136 +8233,214 @@ Page 6 of 10
 • Fundraising, Dues & Financial Management
  Collecting dues is the sole discretion of each Club or Interest Group.
  Clubs and Interest Groups are responsible for their own fiscal management.
- All Clubs and Interest Groups must be either “non-profit” or “not for profit” and each Club and Interest
-Group will be individually responsible for maintaining documentation as applicable for the same.
- The facility, staff and HOA assume no responsibility for the fiscal management of the recognized Clubs
+ All Clubs and Interest Groups must be either “non-profit” or 
+“not for profit” and each Club and Interest
+Group will be individually responsible for maintaining documentation 
+as applicable for the same.
+ The facility, staff and HOA assume no responsibility for the fiscal 
+management of the recognized Clubs
 and Interest Groups.
- Reasonable fees can be charged for events and activities to offset the cost of the event or for fundraising
+ Reasonable fees can be charged for events and activities to offset 
+the cost of the event or for fundraising
 purposes to benefit the Club or Interest Group.
- There will be no soliciting of funds in any Del Webb Bexley facility by any Club/Interest Group except to
-pay for a specific event, or for a designated charity to which proceeds for an event will be donated. All
-ticket sales and donation requests must be approved by the Lifestyle Director.
- Charitable organizations may conduct fund-raising on premises if all monies collected go to the charity
-and to pay for the event. All other regular rules for Clubs and Interest Groups are applicable.
+ There will be no soliciting of funds in any Del Webb Bexley facility 
+by any Club/Interest Group except to
+pay for a specific event, or for a designated charity to which proceeds 
+for an event will be donated. All
+ticket sales and donation requests must be approved by the 
+Lifestyle Director.
+ Charitable organizations may conduct fund-raising on premises if all 
+monies collected go to the charity
+and to pay for the event. All other regular rules for Clubs and Interest 
+Groups are applicable.
 Trips Off- Premises Originating from Del Webb Bexley Property
- Rules for insurance and liability are applicable to all vendors who enter the property during business,
+ Rules for insurance and liability are applicable to all vendors who 
+enter the property during business,
 including charter buses and guided tour services.
- All group trips/events originating from Del Webb Bexley require approval from the Lifestyle Director, to
-review insurance/liability compliance as necessary and verify that proper parking procedures are being
+ All group trips/events originating from Del Webb Bexley require approval 
+from the Lifestyle Director, to
+review insurance/liability compliance as necessary and verify that proper 
+parking procedures are being
 observed.
  Overnight parking for off-site trips is prohibited.
- It is the responsibility of the Club/Interest Group to inform all trip participants in advance as to proper
+ It is the responsibility of the Club/Interest Group to inform all trip 
+participants in advance as to proper
 parking, pick up and drop off procedures for the trip.
 MEETINGS, RESERVATIONS AND ROOM USAGE
 Reservation policies are subject to change at any time.
- All sanctioned clubs and interest groups must submit the Club/Group Event Request for any meeting,
-event, and/or room reservation. All requests must be submitted to Lifestyle Office at least one month in
+ All sanctioned clubs and interest groups must submit the Club/Group 
+Event Request for any meeting,
+event, and/or room reservation. All requests must be submitted to 
+Lifestyle Office at least one month in
 advance.
 Page 7 of 10
 8/16/24
-This includes off-site activities which Del Webb is represented in any capacity. The Lifestyle Director
-and/or Community Manager will review the Club Event Request to ensure there are no conflicts with other
-group activities or Lifestyle Events and adheres to all Del Webb policies and regulations. Any room
-requests require lead time to be approved. Please build in time for your submission to be reviewed.
- The club leader is responsible for completing the Club/Group Event Request Form. Changes of the event
+This includes off-site activities which Del Webb is represented in any 
+capacity. The Lifestyle Director
+and/or Community Manager will review the Club Event Request to ensure 
+there are no conflicts with other
+group activities or Lifestyle Events and adheres to all Del Webb 
+policies and regulations. Any room
+requests require lead time to be approved. Please build in time for 
+your submission to be reviewed.
+ The club leader is responsible for completing the Club/Group Event 
+Request Form. Changes of the event
 can only be completed by club leader.
- Please be sure to cancel a room reservation with the Lifestyle Director if the event has been cancelled.
-Failure to cancel within 24 hours may result in the loss or limitations on future room reservation
+ Please be sure to cancel a room reservation with the Lifestyle 
+Director if the event has been cancelled.
+Failure to cancel within 24 hours may result in the loss or 
+limitations on future room reservation
 privileges.
- A social function sponsored by a club/group cannot be for the sole purpose of celebrating an individual’s
+ A social function sponsored by a club/group cannot be for the 
+sole purpose of celebrating an individual’s
 birthday, wedding, anniversary, etc.
- Reservations are not transferable to another club and are not cumulative from year to year.
+ Reservations are not transferable to another club and are not 
+cumulative from year to year.
 For Sanctioned Clubs
- Clubs must meet at least quarterly (every three months) to maintain an active Club status.
+ Clubs must meet at least quarterly (every three months) to 
+maintain an active Club status.
  Clubs may reserve a space up to once per week for their regular meeting.
- Some spaces and common areas are not available for reservations including the pools and pool deck,
+ Some spaces and common areas are not available for reservations 
+including the pools and pool deck,
 lobby, bistro, fitness center and movement studio.
- Clubs may reserve space on a recurring basis, not exceeding 12 months. Reservation requests for regular
-meetings should be given to the Lifestyle Office for the following year by December 1st each year, but not
+ Clubs may reserve space on a recurring basis, not exceeding 12 months. 
+Reservation requests for regular
+meetings should be given to the Lifestyle Office for the following year 
+by December 1st each year, but not
 before October 1st.
- Reservation request approval will be subject to factors such as the size of the Club making the request,
-the number of times requested and the number of requests from other Clubs to use the facility involved.
- No Club meeting or event is permitted to be open to or advertised to the general public. Guests of
-residents may attend within the guest policy laid out by the HOA. No Club may market or advertise
-their meetings or events in a manner which indicates or implies that tickets for the event will be available
+ Reservation request approval will be subject to factors such as the 
+size of the Club making the request,
+the number of times requested and the number of requests from other 
+Clubs to use the facility involved.
+ No Club meeting or event is permitted to be open to or advertised 
+to the general public. Guests of
+residents may attend within the guest policy laid out by the HOA. 
+No Club may market or advertise
+their meetings or events in a manner which indicates or implies 
+that tickets for the event will be available
 at the door to non-residents.
 Page 8 of 10
 8/16/24
- Reservations for the Club’s special events (up to four times per year maximum) will be approved
+ Reservations for the Club’s special events (up to four times per year maximum) 
+will be approved
 pending availability.
- A Special Event is defined as any Club meeting/event that includes any one of the following: Charging a
-fee or selling tickets, having outside entertainment, requiring a unique room setup, serving catered food,
-and/or having a potluck (not including light snacks or beverages at a regular monthly meeting).
- Clubs holding any special event must apply for space at least one month in advance and no more than
-twelve months in advance, to allow ample time for room preparation, relocation of routine activities and
+ A Special Event is defined as any Club meeting/event that includes any one 
+of the following: Charging a
+fee or selling tickets, having outside entertainment, requiring a unique room 
+setup, serving catered food,
+and/or having a potluck (not including light snacks or beverages at a regular 
+monthly meeting).
+ Clubs holding any special event must apply for space at least one month in 
+advance and no more than
+twelve months in advance, to allow ample time for room preparation, relocation 
+of routine activities and
 time to do appropriate advertisement of the event.
- Special events can only utilize one room in the Clubhouse and will not affect the daily routine of the
-Clubhouse. Setup is not permitted in the lobby, bistro, pool deck or any other common area/nonreservable
+ Special events can only utilize one room in the Clubhouse and will not affect 
+the daily routine of the
+Clubhouse. Setup is not permitted in the lobby, bistro, pool deck or any other 
+common area/nonreservable
 space.
- All vendors hired by Clubs must be approved by the Lifestyle Office and HOA, as well as provide a
+ All vendors hired by Clubs must be approved by the Lifestyle Office and HOA, 
+as well as provide a
 Certificate of Insurance and add the HOA as additionally insured.
- Any third-party staffing for events, including, but not limited to pre-event set-up, service during event
-and post-event clean-up, is subject to the same criteria for licensing and insurance as all outside vendors.
+ Any third-party staffing for events, including, but not limited to pre-event 
+set-up, service during event
+and post-event clean-up, is subject to the same criteria for licensing and 
+insurance as all outside vendors.
 There are no exceptions to this policy.
- Vendors brought in during an event must be for informational or entertainment purposes only and
+ Vendors brought in during an event must be for informational or entertainment 
+purposes only and
 are prohibited from soliciting business.
- Any Club that invites a guest speaker/performer must give the Lifestyle Director, in writing, the name,
-contact information and topic of that speaker before booking said speaker. It will then be the duty of the
-Lifestyle Director to determine whether that performer/speaker/presentation conflicts with any Del Webb
+ Any Club that invites a guest speaker/performer must give the Lifestyle 
+Director, in writing, the name,
+contact information and topic of that speaker before booking said speaker. 
+It will then be the duty of the
+Lifestyle Director to determine whether that performer/speaker/presentation 
+conflicts with any Del Webb
 Bexley event. The HOA must approve the guest speaker/performer.
- Clubs shall not duplicate other Clubs’ events or events sponsored by the Lifestyle Office within six
+ Clubs shall not duplicate other Clubs’ events or events sponsored by the 
+Lifestyle Office within six
 months prior or six months after the same event.
- Any additional equipment needed should be listed on the reservation request form (i.e., projector,
+ Any additional equipment needed should be listed on the reservation 
+request form (i.e., projector,
 DVD player, microphone, etc.)
- It is the responsibility of the Club to ensure that the room(s) or area(s) utilized during an event are
+ It is the responsibility of the Club to ensure that the room(s) or area(s) 
+utilized during an event are
 returned to the clean, standard condition and floor plan for the room.
- This includes clean up and removal of all items associated with the event, including, but not limited to
-rental equipment, decorations, table coverings, unused food and/or beverages, paper supplies, all trash
+ This includes clean up and removal of all items associated with the event, 
+including, but not limited to
+rental equipment, decorations, table coverings, unused food and/or beverages, 
+paper supplies, all trash
 and debris.
 Page 9 of 10
 8/16/24
- Table surfaces and any areas used to facilitate the event must be thoroughly cleaned and wiped.
- All clean-up is to be completed immediately after the event has concluded and Clubs/Interest Groups are
+ Table surfaces and any areas used to facilitate the event must be thoroughly 
+cleaned and wiped.
+ All clean-up is to be completed immediately after the event has concluded and 
+Clubs/Interest Groups are
 responsible for clean-up of their events.
- For all special events, a Room Inspection Check List must be completed after every event by an
-authorized member of the Del Webb Bexley Staff to verify the condition of the rooms or areas being
+ For all special events, a Room Inspection Check List must be completed after 
+every event by an
+authorized member of the Del Webb Bexley Staff to verify the condition of the 
+rooms or areas being
 utilized and confirm proper clean-up has been completed.
- Sanctioned Clubs may have their sanctioned revoked for the following reasons: when clubs violate
-Association policies or rules; when an irreconcilable conflict occurs within the membership; when a
-situation occurs which projects the club, or the Association, in an undesirable or embarrassing position;
-or when a club violates Federal, state, or local government laws or ordinances. The decision to revoke a
-sanction occurs following a recommendation by Association Management and approval by the Board of
-Directors (BOD). The decision may be appealed by providing written justification to the BOD within 14
-days of the written notice. The BOD will provide final notice of decision within 30 days of receiving the
+ Sanctioned Clubs may have their sanctioned revoked for the following reasons: 
+when clubs violate
+Association policies or rules; when an irreconcilable conflict occurs within 
+the membership; when a
+situation occurs which projects the club, or the Association, in an undesirable 
+or embarrassing position;
+or when a club violates Federal, state, or local government laws or ordinances. 
+The decision to revoke a
+sanction occurs following a recommendation by Association Management and 
+approval by the Board of
+Directors (BOD). The decision may be appealed by providing written j
+ustification to the BOD within 14
+days of the written notice. The BOD will provide final notice of decision 
+within 30 days of receiving the
 written appeal.
  Violations will be on file for 2 years.
 For Interest Groups
- More than one Interest Group may be scheduled in the same room based on room availability and/or
+ More than one Interest Group may be scheduled in the same room based on 
+room availability and/or
 Interest Group size.
  Interest Groups are not permitted additional special event reservations.
- Some spaces and common areas are not available for reservations including the pools and pool deck,
+ Some spaces and common areas are not available for reservations including 
+the pools and pool deck,
 lobby, bistro, fitness center and movement studio.
- Reservation request approval will be subject to factors such as the size of the Interest Group making the
-request, the number of times requested, and the number of requests from other Interest Groups to use the
+ Reservation request approval will be subject to factors such as the size of 
+the Interest Group making the
+request, the number of times requested, and the number of requests from other 
+Interest Groups to use the
 facility involved.
- No Interest Group meeting or event is permitted to be open to or advertised to the general public. Guests
+ No Interest Group meeting or event is permitted to be open to or advertised 
+to the general public. Guests
 of residents may attend within the guest policy laid out by the HOA.
- Any Interest Group that invites a guest speaker/performer must give the Lifestyle Director, in writing, the
-name, contact information and topic of that speaker before booking said speaker. It will then be the duty
-of the Lifestyle Director to determine whether that performer/speaker/presentation conflicts with any Del
+ Any Interest Group that invites a guest speaker/performer must give the 
+Lifestyle Director, in writing, the
+name, contact information and topic of that speaker before booking said speaker. 
+It will then be the duty
+of the Lifestyle Director to determine whether that performer/speaker/presentation 
+conflicts with any Del
 Webb Bexley event. The HOA must approve the guest speaker/performer.
 Page 10 of 10
 8/16/24
- Any additional equipment needed should be listed on the reservation request form (i.e., projector,
+ Any additional equipment needed should be listed on the reservation request 
+form (i.e., projector,
 DVD player, microphone, etc.)
- It is the responsibility of the Interest Group to ensure that the room(s) or area(s) utilized during a meeting
+ It is the responsibility of the Interest Group to ensure that the room(s) 
+or area(s) utilized during a meeting
 are returned to the clean, standard condition and floor plan for the room.
- This includes clean-up and removal of all items associated with the event, including, but not limited to
-rental equipment, decorations, table coverings, unused food and/or beverages, paper supplies, all trash
+ This includes clean-up and removal of all items associated with the event, 
+including, but not limited to
+rental equipment, decorations, table coverings, unused food and/or beverages, 
+paper supplies, all trash
 and debris.
- The cleaning of all table surfaces and any areas used to facilitate the event must also be thoroughly
+ The cleaning of all table surfaces and any areas used to facilitate the 
+event must also be thoroughly
 cleaned and wiped.
- All clean-up is to be completed immediately after the event has concluded and Interest Groups are
+ All clean-up is to be completed immediately after the event has concluded 
+and Interest Groups are
 responsible for clean-up of their events.
 AVAILABLE CLUB FORMS:
 1) Club Application
