@@ -17,7 +17,7 @@
         iframe.tutorial { width: 100%; height: 160px; border-radius: 6px; border: 1px solid #ccc; background: #000; }
         
         /* Main Area */
-        #main { flex: 1; display: flex; flex-direction: column; padding: 30px; overflow-y: auto; }
+        /*#main { flex: 1; display: flex; flex-direction: column; padding: 30px; overflow-y: auto; }*/
         .controls { display: flex; gap: 10px; margin-bottom: 20px; }
         button { padding: 10px 18px; border: none; border-radius: 5px; cursor: pointer; font-weight: 600; transition: 0.2s; }
         .btn-primary { background: var(--accent); color: white; }
@@ -31,7 +31,29 @@
         summary:hover { background: #f9f9f9; }
         .tag-badge { font-size: 0.7rem; background: #eee; padding: 2px 8px; border-radius: 10px; color: #7f8c8d; }
         .doc-body { padding: 20px; border-top: 1px solid #eee; background: #fafafa; }
-        pre { white-space: pre-wrap; margin: 0; font-family: 'Courier New', Courier, monospace; font-size: 0.95rem; color: #2c3e50; }
+        /* pre { white-space: pre-wrap; margin: 0; font-family: 'Courier New', Courier, monospace; font-size: 0.95rem; color: #2c3e50; } */
+		#main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    overflow-y: auto; /* This allows the main area to scroll */
+    min-width: 0;      /* Prevents flex-children from bursting out */
+}
+
+#viewer {
+    display: block;    /* Ensure it's not accidentally set to flex or hidden */
+    width: 100%;
+    height: auto;      /* Let it grow with the content */
+    min-height: 100px; /* Force a footprint so we can see it */
+}
+
+.section-container {
+    display: block !important; /* Ensure the accordions aren't being hidden */
+    visibility: visible !important;
+    margin-bottom: 12px;
+}
+		
     </style>
 </head>
 <body>
@@ -66,7 +88,14 @@
         <div id="viewer"></div>
     </div>
 	
-<pre id="ai-visible-docs" style="max-height:0; overflow:hidden; opacity:0;">
+<div id="ai-visible-docs" 
+     style="position: absolute; 
+            height: 1px; 
+            width: 1px; 
+            overflow: hidden; 
+            clip: rect(1px, 1px, 1px, 1px); 
+            opacity: 0.01; 
+            pointer-events: none;">
 	DOCUMENT DATA START: This is the Master Governing Documents file for Del Webb Bexley. 
 	Use the text below to answer all homeowner inquiries.
 	===================================================================================
@@ -8017,7 +8046,7 @@ AVAILABLE CLUB FORMS:
 3) General Room Request/Special Event Request and Waiver
 
 #END-CLUBS
-</pre>
+</div>
 
     <script>
         const DOC_MAP = [
@@ -8030,6 +8059,7 @@ AVAILABLE CLUB FORMS:
         ];
 
         function init() {
+		    debugger;
             const fullText = document.getElementById('ai-visible-docs').textContent;
             const viewer = document.getElementById('viewer');
 
@@ -8067,6 +8097,7 @@ AVAILABLE CLUB FORMS:
         // Run immediately
         //init();
 		document.addEventListener("DOMContentLoaded", init);
+		
 		
     </script>
 </body>
