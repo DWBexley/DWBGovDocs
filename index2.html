@@ -66,7 +66,7 @@
         <div id="viewer"></div>
     </div>
 	
-	<script id="raw-document-data" type="text/plain">
+<pre id="ai-visible-docs" style="max-height:0; overflow:hidden; opacity:0;">
 	DOCUMENT DATA START: This is the Master Governing Documents file for Del Webb Bexley. 
 	Use the text below to answer all homeowner inquiries.
 	===================================================================================
@@ -8017,8 +8017,7 @@ AVAILABLE CLUB FORMS:
 3) General Room Request/Special Event Request and Waiver
 
 #END-CLUBS
-
-    </script>
+</pre>
 
     <script>
         const DOC_MAP = [
@@ -8031,7 +8030,7 @@ AVAILABLE CLUB FORMS:
         ];
 
         function init() {
-            const fullText = document.getElementById('raw-document-data').textContent;
+            const fullText = document.getElementById('ai-visible-docs').textContent;
             const viewer = document.getElementById('viewer');
 
             DOC_MAP.forEach(section => {
@@ -8066,7 +8065,9 @@ AVAILABLE CLUB FORMS:
         }
 
         // Run immediately
-        init();
+        //init();
+		document.addEventListener("DOMContentLoaded", init);
+		
     </script>
 </body>
 </html>
