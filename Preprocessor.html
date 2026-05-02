@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HOA Doc AI Pre-Processor</title>
+    <style>
+        body { font-family: -apple-system, sans-serif; padding: 40px; background: #f9f9f9; color: #333; line-height: 1.6; }
+        .container { max-width: 900px; margin: auto; background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); }
+        h2 { color: #0078d4; margin-top: 0; }
+        .controls { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; background: #f0f7ff; padding: 20px; border-radius: 8px; margin-bottom: 20px; border: 1px solid #cce4ff; }
+        label { font-weight: bold; display: block; margin-bottom: 5px; font-size: 0.9em; }
+        input { width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; }
+        textarea { width: 100%; height: 350px; font-family: 'Courier New', monospace; font-size: 13px; margin-top: 10px; border: 1px solid #ddd; border-radius: 4px; padding: 15px; background: #fff; }
+        .btn-group { margin-top: 20px; display: flex; gap: 10px; }
+        button { flex: 1; padding: 12px; font-weight: bold; cursor: pointer; border: none; border-radius: 6px; transition: 0.2s; }
+        .btn-primary { background: #0078d4; color: white; }
+        .btn-primary:hover { background: #005a9e; }
+        .btn-copy { background: #28a745; color: white; }
+        .btn-copy:hover { background: #218838; }
+        .stats { margin-top: 10px; font-size: 0.85em; color: #666; font-style: italic; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>HOA Data Pre-Processor</h2>
+    <p>Standardizes word-wrap and chunks text into AI-digestible nodes for your portal.</p>
+
+    <div class="controls">
+        <div>
+            <label for="colWidth">Wrap Column Width</label>
+            <input type="number" id="colWidth" value="80">
+        </div>
+        <div>
+            <label for="chunkLimit">Chunk Size (Chars)</label>
+            <input type="number" id="chunkLimit" value="80000">
+        </div>
+    </div>
+
+    <button class="btn-primary" onclick="processRemoteFile()">Fetch & Transform HOADocs.txt</button>
+
+    <textarea id="output" placeholder="Transformed HTML will appear here..."></textarea>
+    <div id="stats" class="stats"></div>
+
+    <div class="btn-group">
+        <button class="btn-copy" onclick="copyToClipboard()">Copy to Clipboard</button>
+    </div>
+</div>
+
+<script>
+    async function processRemoteFile() {
+        const url = 'https://dwbexley.github.io/DWBGovDocs/Formatted/HOADocs.txt';
+        const colWidth = parseInt(document.getElementById('colWidth').value);
+        const chunkLimit = parseInt(document.getElementById('chunkLimit').value);
+        const status = document.getElementById('stats');
+
+        try {
+            status.innerText = "Fetching document...";
+            const response = await fetch(url);
+            if (!response.ok) throw new Error("Failed to fetch file.");
+            let text = await response.text();
+
+            // 1. Standardize Word Wrap
+            text = wordWrap(text, colWidth);
+
+            // 2. Chunk into AI-safe nodes
+            let finalHtml = `<div id="ai-visible-docs" aria-hidden="false" \n` +
+                `     style="position: absolute; top: 0; left: 0; width: 1px; height: 1px; \n` +
+                `            overflow: hidden; color: transparent; pointer-events: none; user-select: none;">\n`;
+
+            const chunks = [];
+            for (let i = 0; i < text.length; i += chunkLimit) {
+                chunks.push(text.substring(i, i + chunkLimit));
+            }
+
+            chunks.forEach((content, index) => {
+                finalHtml += `    <div id="ai-node-${index + 1}">\n${content}\n    </div>\n`;
+            });
+
+            finalHtml += `</div>`;
+
+            document.getElementById('output').value = finalHtml;
+            status.innerText = `Success! Processed ${text.length.toLocaleString()} characters into ${chunks.length} chunks.`;
+            
+        } catch (err) {
+            alert("Error: " + err.message);
+            status.innerText = "Error encountered.";
+        }
+    }
+
+    function wordWrap(str, width) {
+        // Regex to wrap at word boundaries for a specific column width
+        const regex = new RegExp(`(?![^\\n]{1,${width}}$)([^\\n]{1,${width}})\\s`, 'g');
+        return str.replace(regex, '$1\n');
+    }
+
+    function copyToClipboard() {
+        const textarea = document.getElementById("output");
+        textarea.select();
+        document.execCommand("copy");
+        alert("Formatted DIV copied to clipboard!");
+    }
+</script>
+
+</body>
+</html>
