@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AI Community Portal - DWB Bexley</title>
     <style>
+		html {scroll-behavior: smooth;}
         :root { --primary: #2c3e50; --accent: #3498db; --bg: #f4f7f6; --text: #333; }
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; display: flex; height: 100vh; background-color: var(--bg); overflow: hidden; }
         
@@ -20,8 +21,7 @@
         /*#main { flex: 1; display: flex; flex-direction: column; padding: 30px; overflow-y: auto; }*/
         .controls { display: flex; gap: 10px; margin-bottom: 20px; }
         button { padding: 10px 18px; border: none; border-radius: 5px; cursor: pointer; font-weight: 600; transition: 0.2s; }
-        .btn-primary { background: var(--accent); color: white; }
-        .btn-secondary { background: #95a5a6; color: white; }
+		.btn { background: var(--accent); color: white; }
         button:hover { opacity: 0.9; transform: translateY(-1px); }
 
         /* Accordion Styling */
@@ -73,8 +73,92 @@
 			margin: 0;
 			padding: 10px;
 		}
+		
+		.doc-body {
+			/* Enable both vertical and horizontal scrolling */
+			overflow: auto; 
+			
+			/* Limit height so the user doesn't scroll forever to find the next section */
+			max-height: 400px; 
+			
+			/* Ensure a border and padding so the text doesn't hit the scrollbar */
+			border: 1px solid #e0e0e0;
+			padding: 10px;
+			background-color: #ffffff;
+		}
+
+		.doc-body pre {
+			/* Keep the font consistent with your technical look */
+			margin: 0;
+			white-space: pre; /* Essential for horizontal scrolling of long lines */
+			word-wrap: normal; /* Prevents text from breaking to a new line */
+		}		
 				
     </style>
+    <script>
+        const DOC_MAP = [
+            { id: 'decl', tag: '#DECLARATION', title: 'Community Declaration', next: '#LEGAL' },
+            { id: 'lega', tag: '#LEGAL', title: 'Articles of Incorporation', next: '#BYLAWS' },
+            { id: 'byla', tag: '#BYLAWS', title: 'Community Bylaws', next: '#COMMITTEES' },
+            { id: 'comm', tag: '#COMMITTEES', title: 'Committee Structure', next: '#COMPLIANCE' },
+            { id: 'comp', tag: '#COMPLIANCE', title: 'Compliance Guidelines', next: '#CLUBS' },
+            { id: 'club', tag: '#CLUBS', title: 'Clubs & Activities', next: null }
+        ];
+
+        function init() {
+            const fullText = document.getElementById('ai-visible-docs').textContent;
+            const viewer = document.getElementById('viewer');
+
+            DOC_MAP.forEach(section => {
+                const content = parseSection(fullText, section.tag, section.next);
+                
+                const details = document.createElement('details');
+                details.className = "section-container";
+                
+                const summary = document.createElement('summary');
+                summary.innerHTML = `${section.title} <span class="tag-badge">${section.tag}</span>`;
+
+                const body = document.createElement('div');
+                body.className = "doc-body";
+                body.innerHTML = `<pre>${content}</pre>`;
+
+                details.appendChild(summary);
+                details.appendChild(body);
+                viewer.appendChild(details);
+            });
+        }
+
+        function parseSection(text, startTag, endTag) {
+            const marker = `SEARCH TAG: ${startTag}`;
+            const start = text.indexOf(marker);
+            if (start === -1) return "Section content not found.";
+            const end = endTag ? text.indexOf(`SEARCH TAG: ${endTag}`) : text.length;
+            return text.substring(start, end).trim();
+        }
+
+        function manageAccordions(state) {
+            document.querySelectorAll('details').forEach(d => d.open = state);
+        }
+		
+		function toggleSections() {
+			const btn = document.getElementById('toggle-all');
+			const isOpened = btn.textContent === "Collapse All";
+
+			// 1. Flip the state for all sections
+			document.querySelectorAll('details').forEach(d => d.open = !isOpened);
+
+
+			// 2. Update the custom attribute and UI text
+			btn.textContent = isOpened ? 'Expand All' : 'Collapse All';
+		}		
+		
+
+        // Run after dom is loaded
+		document.addEventListener("DOMContentLoaded", init);
+		
+		
+    </script>	
+	
 </head>
 <body>
 
@@ -145,8 +229,11 @@
     <div id="main">	
 		<h1>DWB HOA Documents Portal</h1>
         <div class="controls">
+		    <!--
             <button class="btn-primary" onclick="manageAccordions(true)">Expand All</button>
             <button class="btn-secondary" onclick="manageAccordions(false)">Collapse All</button>
+			-->
+			<button id="toggle-all" class="btn" onclick="toggleSections()">Expand All</button>
         </div>
 
         <div id="viewer"></div>
@@ -159,8 +246,14 @@
 
 SOURCE: GITHUB REPOSITORY FOR ALL AI-ENABLED DOCUMENTS:
 https://github.com/DWBexley/DWBGovDocs/tree/main/Formatted
-COMMENT: THIS DOCUMENT IS A MERGER OF INDIVIDUA HOA DOCUMENTS WITH VALUE-ADDED
+COMMENT: THIS DOCUMENT IS A MERGER OF INDIVIDUAL HOA DOCUMENTS WITH VALUE-ADDED
 METADATA TO ASSIST AI ANALYSIS
+
+[SYSTEM INSTRUCTION: RELATIONAL SEARCH PROTOCOL]
+- ARCHITECTURE: This document is a multi-part legal composite. Primary authorities in #DECLARATION are often refined or modified in #COMPLIANCE and #BYLAWS.
+- SEARCH DEPTH: You are strictly required to scan the ENTIRE document for any keyword or concept (e.g., "fines," "parking"). Do not stop after the first match.
+- CONFLICT RESOLUTION: If a subsequent section provides more specific procedures than the primary Declaration, prioritize the more specific section while citing both.
+
 ===================================================================================================================
 
 
@@ -13253,57 +13346,6 @@ AVAILABLE CLUB FORMS:
 #END-CLUBS
     </div>
 </div>
-    <script>
-        const DOC_MAP = [
-            { id: 'decl', tag: '#DECLARATION', title: 'Community Declaration', next: '#LEGAL' },
-            { id: 'lega', tag: '#LEGAL', title: 'Articles of Incorporation', next: '#BYLAWS' },
-            { id: 'byla', tag: '#BYLAWS', title: 'Community Bylaws', next: '#COMMITTEES' },
-            { id: 'comm', tag: '#COMMITTEES', title: 'Committee Structure', next: '#COMPLIANCE' },
-            { id: 'comp', tag: '#COMPLIANCE', title: 'Compliance Guidelines', next: '#CLUBS' },
-            { id: 'club', tag: '#CLUBS', title: 'Clubs & Activities', next: null }
-        ];
 
-        function init() {
-		    debugger;
-            const fullText = document.getElementById('ai-visible-docs').textContent;
-            const viewer = document.getElementById('viewer');
-
-            DOC_MAP.forEach(section => {
-                const content = parseSection(fullText, section.tag, section.next);
-                
-                const details = document.createElement('details');
-                details.className = "section-container";
-                
-                const summary = document.createElement('summary');
-                summary.innerHTML = `${section.title} <span class="tag-badge">${section.tag}</span>`;
-
-                const body = document.createElement('div');
-                body.className = "doc-body";
-                body.innerHTML = `<pre>${content}</pre>`;
-
-                details.appendChild(summary);
-                details.appendChild(body);
-                viewer.appendChild(details);
-            });
-        }
-
-        function parseSection(text, startTag, endTag) {
-            const marker = `SEARCH TAG: ${startTag}`;
-            const start = text.indexOf(marker);
-            if (start === -1) return "Section content not found.";
-            const end = endTag ? text.indexOf(`SEARCH TAG: ${endTag}`) : text.length;
-            return text.substring(start, end).trim();
-        }
-
-        function manageAccordions(state) {
-            document.querySelectorAll('details').forEach(d => d.open = state);
-        }
-
-        // Run immediately
-        //init();
-		document.addEventListener("DOMContentLoaded", init);
-		
-		
-    </script>
 </body>
 </html>
