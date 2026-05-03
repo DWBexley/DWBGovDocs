@@ -9,6 +9,8 @@ METADATA TO ASSIST AI ANALYSIS
 - ARCHITECTURE: This document is a multi-part legal composite. Primary authorities in #DECLARATION are often refined or modified in #COMPLIANCE and #BYLAWS.
 - SEARCH DEPTH: You are strictly required to scan the ENTIRE document for any keyword or concept (e.g., "fines," "parking"). Do not stop after the first match.
 - CONFLICT RESOLUTION: If a subsequent section provides more specific procedures than the primary Declaration, prioritize the more specific section while citing both.
+- When a #DECLARATION-AMENDMENT tag is present, its contents supersede any conflicting rules found in the original #DECLARATION or #COMPLIANCE sections.
+- Metadata with 'Source:' is internal documentation on the original .txt file located on the repository.  The actual text is included in this document as well immediately following its respective metadata header.
 
 ===================================================================================================================
 
@@ -4783,7 +4785,7 @@ EXHIBIT 5
 ADDITIONAL PROPERTY 
 
 
-================================================T===========================
+===========================================================================
 SEARCH TAG: #DECLARATION-AMENDMENT
 FORMAL TITLE: FIRST AMENDMENT TO COMMUNITY DECLARATION 
 SOURCE FILE: Declaration Amendment 11.07.2018.txt
@@ -5083,7 +5085,7 @@ as of the date and year first above written.
 The foregoing instrument was acknowledged before me this 7th day of November, 2018, by Rob Barber, as Vice President of 
 PULTE HOME COMPANY, LLC, a Michigan limited liability company, on behalf of the company.
 
-================================================T===========================
+===========================================================================
 SEARCH TAG: #DECLARATION-AMENDMENT
 FORMAL TITLE: SECOND AMENDMENT TO COMMUNITY DECLARATION 
 SOURCE FILE: Declaration Amendment 11.16.2018.txt
@@ -5191,7 +5193,7 @@ IN WITNESS WHEREOF, Declarant has caused this Second Amendment to be executed
 
 as of the date and year first above written. 
 
-================================================T===========================
+===========================================================================
 SEARCH TAG: #DECLARATION-AMENDMENT
 FORMAL TITLE: THIRD AMENDMENT TO COMMUNITY DECLARATION  
 SOURCE FILE: Declaration Amendment 02.15.2019.txt
@@ -5298,7 +5300,7 @@ personal representatives, successors and assigns.
 IN WITNESS WHEREOF, Declarant has caused this Third Amendment to be executed 
 as of the date and year first above written.
 
-================================================T===========================
+===========================================================================
 SEARCH TAG: #DECLARATION-AMENDMENT
 FORMAL TITLE: SUPPLEMENTAL DECLARATION AND FOURTH AMENDMENT  
 SOURCE FILE: Declaration Amendment 06.20.2019.txt
@@ -5539,7 +5541,7 @@ EXHIBIT "1"
 
 DEL WEBB BEXLEY PHASE 2 
 
-================================================T===========================
+===========================================================================
 SEARCH TAG: #DECLARATION-AMENDMENT
 FORMAL TITLE: SUPPLEMENTAL DECLARATION AND FIFTH AMENDMENT  
 SOURCE FILE: Declaration Amendment 02.20.2020.txt
@@ -5723,7 +5725,7 @@ EXHIBIT 1
 
 (Legal Description of the Phase 3 Property) 
 
-================================================T===========================
+===========================================================================
 SEARCH TAG: #DECLARATION-AMENDMENT
 FORMAL TITLE: SUPPLEMENTAL DECLARATION AND SIXTH AMENDMENT  
 SOURCE FILE: Declaration Amendment 02.27.2020.txt
@@ -5910,7 +5912,7 @@ their respective heirs, administrators, personal representatives, successors and
 IN WITNESS WHEREOF, Declarant has caused this Sixth Amendment to be executed 
 as Of the date and year first above written. 
 
-================================================T===========================
+===========================================================================
 SEARCH TAG: #DECLARATION-AMENDMENT
 FORMAL TITLE: SUPPLEMENTAL DECLARATION AND SEVENTH AMENDMENT  
 SOURCE FILE: Declaration Amendment 01.12.2022.txt
@@ -6110,7 +6112,7 @@ administrators, personal representatives, successors and assigns.
 IN WITNESS WHEREOF, Declarant has caused this Supplemental Declaration to be 
 executed as of the date and year first above written. 
 
-================================================T===========================
+===========================================================================
 SEARCH TAG: #DECLARATION-AMENDMENT
 FORMAL TITLE: BOARD VOTE TO ADOPT REVISED GUIDELINES  
 SOURCE FILE: Declaration Amendment 02.09.2023.txt
@@ -6145,7 +6147,7 @@ Print Name: Richard Paolini
 Signature: [Signature]
 Email: richxtlc@verizon.net
 
-================================================T===========================
+===========================================================================
 SEARCH TAG: #DECLARATION-AMENDMENT
 FORMAL TITLE: WALLS/FENCES/SCREENS REVISED POLICIES 
 SOURCE FILE: Declaration Amendment 10.24.2024.txt
@@ -6195,7 +6197,7 @@ Amendments to the Community Declaration for Del Webb Bexley
 12.14 Fences/Walls/Screens. After the recording of this Amendment, no ~~No~~ walls or fences shall be erected or installed on any Lot other than Perimeter Walls/Fences ~~and Pool Enclosures~~ installed by the Association or CDD. ~~Declarant in connection with the original construction of the Home or by an Owner with ARC approval.~~ No walls or fences shall be erected or installed by any Owner of a Lot within any Conservation Easement Property, including upland buffer areas, or any Perimeter-Buffer Easement. No chain link or wooden fencing of any kind shall be allowed, and unless otherwise approved by Declarant (or the Association following the Turnover Date). Fences, to the extent permitted by this Section 12.14, shall not be installed flush to the ground so that drainage-will-be blocked in any way. All such fences must be in compliance with the Architectural Guidelines. Due to the CDD's maintenance requirements and responsibilities, the installation of such fences within a drainage easement area is not expected to be approved by the ARC. ~~However, in~~ In the event a fence is installed within a drainage easement area, with or without prior written ARC approval, the Owner is solely responsible for fence repair or replacement if the drainage easement area needs to be accessed for repairs or maintenance. As a condition to ARC approval of any fences in drainage easement areas, the ARC may require the Owner to obtain, at his or her own cost and expense, an agreement in writing executed by the CDD approving such fence, which agreement may be recorded in the Public Records by the Association in its sole and absolute discretion. To the extent any fence or wall installed prior to the recording of this Amendment requires substantial repair (over 50% of the fence or wall) or replacement, such fence or wall must be removed. All screening and screened enclosures shall have the prior written approval of the ARC and shall be in compliance with the Architectural Guidelines. All enclosures of balconies or patios, including addition of vinyl windows, shall be approved by the ARC and all decks shall have the prior written approval of the ARC.
 
 
-================================================T===========================
+===========================================================================
 SEARCH TAG: #DECLARATION-AMENDMENT
 FORMAL TITLE: AMENDMENTS TO DECLARATION/HURRICANE SHUTTERS/PARKING 
 SOURCE FILE: Declaration Amendment 08.01.2025.txt
@@ -6239,9 +6241,39 @@ EXHIBIT "A": Amendments to the Community Declaration
 
 4.4 Amendments From and After the Turnover. After the Turnover, but subject to the general restrictions on amendments set forth herein, this Declaration may be amended with the approval of (i) a majority of the Board; and (ii) fifty-one percent (51%) of the Voting Interests present who voted (in person, or by proxy, or electronically) at or in advance of, within the time set forth by the Board, if any, a duly called meeting of the members of the Association at which there is a quorum. Nevertheless, no vote shall be valid unless at least ten percent (10%) of the Voting Interests cast a vote (in person, by proxy, or electronically).
 
-12.19 Hurricane Shutters. Any hurricane shutters or other protective devices visible from outside a Home shall be of a type as approved in writing by the ARC and shall match the color or trim of the Home ~~and be of a neutral color~~. The Board or the ARC is authorized to create Rules and Regulations regarding the type or color of the shutters or other protective devices to be used. Panel, accordion and roll-up style hurricane shutters may not be left closed during hurricane season (or at any other time). Any such approved hurricane shutters may be installed or closed up to forty-eight (48) hours prior to the expected arrival of a hurricane and must be removed or opened within seventy-two (72) hours after the end of a hurricane watch or warning or as the Board may determine otherwise. Except as the Board may otherwise decide, shutters may not be closed at any time other than up to forty-eight (48) hours prior to the expected arrival of a hurricane and must be removed or opened within seventy-two (72) hours after the end of a hurricane watch or warning. Any approval by the ARC shall not be deemed an endorsement of the effectiveness of hurricane shutters.
+[Ref: Amending 12.19 Hurricane Shutters]
+12.19 Hurricane Shutters. Any hurricane shutters or other protective devices
+visible from outside a Home shall be of a type as approved in writing by the ARC
+and shall match the color or trim of the Home ~~and be of a neutral color~~. The
+Board or the ARC is authorized to create Rules and Regulations regarding the
+type or color of the shutters or other protective devices to be used. Panel,
+accordion and roll-up style hurricane shutters may not be left closed during
+hurricane season (or at any other time). Any such approved hurricane shutters
+may be installed or closed up to forty-eight (48) hours prior to the expected
+arrival of a hurricane and must be removed or opened within seventy-two (72)
+hours after the end of a hurricane watch or warning or as the Board may
+determine otherwise. Except as the Board may otherwise decide, shutters may not
+be closed at any time other than up to forty-eight (48) hours prior to the
+expected arrival of a hurricane and must be removed or opened within seventy-two
+(72) hours after the end of a hurricane watch or warning. Any approval by the
+ARC shall not be deemed an endorsement of the effectiveness of hurricane
+shutters.
 
-12.4.1 Parking. Owners', Lessees' and Immediate Family Members' vehicles shall not be parked in streets, private roadways or alleyways within DEL WEBB BEXLEY and shall only be parked in the garage or driveway of the respective Owners' Lot and shall not block the sidewalk. To the extent DEL WEBB BEXLEY has any guest parking, Owners, Lessees and Immediate Family Members ~~are prohibited from parking in such guest parking spaces~~. No vehicles used in business for the purpose of transporting goods, equipment and the like, shall be parked in DEL WEBB BEXLEY except during the period of a delivery. No parking of vehicles of any kind, including vehicles of visitors, guests or invitees, shall be permitted in streets or private roadways within DEL WEBB BEXLEY. Any vehicles parked within the streets or private roadways of DEL WEBB BEXLEY shall be subject to towing without further notice ~~other than such notice or notices, if any, required by law~~. The Board is authorized to create Rules and Regulations related to or regarding parking of vehicles of any kind within DEL WEBB BEXLEY.
+[Ref: Amending 12.4.1 Parking]
+12.4.1 Parking. Owners', Lessees' and Immediate Family Members' vehicles shall
+not be parked in streets, private roadways or alleyways within DEL WEBB BEXLEY
+and shall only be parked in the garage or driveway of the respective Owners' Lot
+and shall not block the sidewalk. To the extent DEL WEBB BEXLEY has any guest
+parking, Owners, Lessees and Immediate Family Members ~~are prohibited from
+parking in such guest parking spaces~~. No vehicles used in business for the
+purpose of transporting goods, equipment and the like, shall be parked in DEL
+WEBB BEXLEY except during the period of a delivery. No parking of vehicles of
+any kind, including vehicles of visitors, guests or invitees, shall be permitted
+in streets or private roadways within DEL WEBB BEXLEY. Any vehicles parked
+within the streets or private roadways of DEL WEBB BEXLEY shall be subject to
+towing without further notice ~~other than such notice or notices, if any,
+required by law~~. The Board is authorized to create Rules and Regulations
+related to or regarding parking of vehicles of any kind within DEL WEBB BEXLEY.
 SIGNATURES (Pages 3-5)
 
 IN WITNESS WHEREOF, the undersigned has hereunto set its hand and seal.
@@ -6271,7 +6303,7 @@ EXHIBIT "A": Amendments to the Bylaws
 
 12.3 Amendments From and After the Turnover. After the Turnover, but subject to the general restrictions on amendments set forth above, these Bylaws may be amended with the approval of (i) a majority of the Board; and (ii) fifty-one percent (51%) of the Voting Interests present who voted (in person, or by proxy, or electronically) at or in advance of, within the time set forth by the Board, if any, a duly called meeting of the members. Nevertheless, no vote shall be valid unless at least ten percent (10%) of the Voting Interests cast a vote (in person, by proxy, or electronically). Notwithstanding the foregoing, these Bylaws may be amended after the Turnover by a majority of the Board acting alone to change the number of directors on the Board and their respective terms. Such change shall not require the approval of the members. Any change in the number of directors shall not take effect until the next Annual Members Meeting.
 
-================================================T===========================
+===========================================================================
 SEARCH TAG: #DECLARATION-AMENDMENT
 FORMAL TITLE: REVISED LEASING PROCEDURES 
 SOURCE FILE: Declaration Amendment 09.15.2025.txt
