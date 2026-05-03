@@ -1,6 +1,15 @@
 ===================================================================================================================
-SOURCE: GITHUB REPOSITORY FOR ALL AI-ENABLED DOCUMENTS: https://github.com/DWBexley/DWBGovDocs/tree/main/Formatted
-COMMENT: THIS DOCUMENT IS A MERGER OF INDIVIDUA HOA DOCUMENTS WITH VALUE-ADDED METADATA TO ASSIST AI ANALYSIS
+
+SOURCE: GITHUB REPOSITORY FOR ALL AI-ENABLED DOCUMENTS:
+https://github.com/DWBexley/DWBGovDocs/tree/main/Formatted
+COMMENT: THIS DOCUMENT IS A MERGER OF INDIVIDUAL HOA DOCUMENTS WITH VALUE-ADDED
+METADATA TO ASSIST AI ANALYSIS
+
+[SYSTEM INSTRUCTION: RELATIONAL SEARCH PROTOCOL]
+- ARCHITECTURE: This document is a multi-part legal composite. Primary authorities in #DECLARATION are often refined or modified in #COMPLIANCE and #BYLAWS.
+- SEARCH DEPTH: You are strictly required to scan the ENTIRE document for any keyword or concept (e.g., "fines," "parking"). Do not stop after the first match.
+- CONFLICT RESOLUTION: If a subsequent section provides more specific procedures than the primary Declaration, prioritize the more specific section while citing both.
+
 ===================================================================================================================
 
 The legal hierarchy (highest to lowest) for a Home Owners Association (HOA) established in the U.S. State of Florida:
