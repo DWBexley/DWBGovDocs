@@ -61,7 +61,7 @@
             let text = await response.text();
 
             // 1. Standardize Word Wrap
-            text = wordWrap(text, colWidth);
+            //text = wordWrap(text, colWidth);
 
             // 2. Chunk into AI-safe nodes
             let finalHtml = `<div id="ai-visible-docs" aria-hidden="false" \n` +
