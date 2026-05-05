@@ -5851,7 +5851,7 @@ sole discretion, and controlling disease and insects), of all lawns and
 landscaping installed on the Lots as part of the initial construction on 
 the Lots, specifically excluding landscaping located within any fenced 
 in or enclosed area containing a pool or screened in patio installed on 
-the Int by Declarant in connection with the initial construction of a 
+the Lot by Declarant in connection with the initial construction of a 
 Home or by any Owner with ARC approval (each a "Pool/Patio Enclosure" 
 and such landscaping "Pol/Patio Enclosure Landscaping"). Pool/Patio 
 Enclosure Landscaping must be approved by the ARC and shall be irrigated 
@@ -7721,11 +7721,11 @@ or by proxy, at a duly noticed meeting, or by electronic voting. All
 Board elections shall be determined by a plurality of the votes cast by 
 eligible voters. 
 
-4.7.1–4.7.6: Detailed procedures for notices (60-day first notice, 14–34 
+4.7.1-4.7.6: Detailed procedures for notices (60-day first notice, 14-34 
 day second notice), candidate intent (40 days prior), and information 
 sheets. 
 
-4.7.9–4.7.12: Procedures for inner/outer envelopes and ballot 
+4.7.9-4.7.12: Procedures for inner/outer envelopes and ballot 
 collection. 
 
 4.7.14 (formerly 4.7.9): Allows for mail-in or electronic only voting 
