@@ -93,7 +93,10 @@
 			white-space: pre; /* Essential for horizontal scrolling of long lines */
 			word-wrap: normal; /* Prevents text from breaking to a new line */
 		}		
-				
+		.strike {
+			text-decoration: line-through;
+			opacity: 0.6;
+		}				
     </style>
     <script>
         const DOC_MAP = [
@@ -106,7 +109,7 @@
         ];
 
         function init() {
-            const fullText = document.getElementById('ai-visible-docs').textContent;
+            const fullText = document.getElementById('ai-visible-docs').innerHTML;
             const viewer = document.getElementById('viewer');
 
             DOC_MAP.forEach(section => {
@@ -128,13 +131,17 @@
             });
         }
 
-        function parseSection(text, startTag, endTag) {
-            const marker = `SEARCH TAG: ${startTag}`;
-            const start = text.indexOf(marker);
-            if (start === -1) return "Section content not found.";
-            const end = endTag ? text.indexOf(`SEARCH TAG: ${endTag}`) : text.length;
-            return text.substring(start, end).trim();
-        }
+		function parseSection(text, startTag, endTag) {
+			const marker = `SEARCH TAG: ${startTag}`;
+			const start = text.indexOf(marker);
+			if (start === -1) return "Section content not found.";
+
+			const end = endTag ? text.indexOf(`SEARCH TAG: ${endTag}`) : text.length;
+			//const raw = text.substring(start, end).trim().replace(/<DEPRECATED>[\s\S]*?<\/DEPRECATED>/gi, '').trim();
+			//Remove depracations for display
+			return text.substring(start, end).trim().replace(/<DEPRECATED>[\s\S]*?<\/DEPRECATED>/gi, '').trim();
+					
+		}
 
         function manageAccordions(state) {
             document.querySelectorAll('details').forEach(d => d.open = state);
@@ -270,7 +277,7 @@ more specific section while citing both.
 
 - When a <AMENDED DATE="MM.DD.YYYY" AMENDMENT="identifier">...</AMENDED> 
 section is noted, it supercedes the <DEPRECATED>...</DEPRECATED> 
-section that immediately follows.  <STRIKE>...</STRIKE> sections withing 
+section that immediately follows.  <STRIKE>...</STRIKE> sections within 
 AMENDED tags denote original language that has been removed/striked-out.
 AMENDED and DEPRICATED sections maybe nested.
 
@@ -2586,7 +2593,7 @@ recreational vehicle, boat, trailer, including without limitation, boat
 trailers, house trailers, mobile homes, and trailers of every other 
 type, kind or description, or camper, may be kept within DEL WEBB BEXLEY 
 <STRIKE>No commercial vehicle or limousine may be kept within DEL WEBB 
-BEXLEY<STRIKE> except in the garage of a Home. The term "commercial 
+BEXLEY</STRIKE> except in the garage of a Home. The term "commercial 
 vehicle" shall not be deemed to include law enforcement vehicles or 
 recreational or sport utility vehicles (i. e. , Broncos, Blazers, 
 Explorers, Navigators, etc. ) Or clean "non-working" vehicles such as 
