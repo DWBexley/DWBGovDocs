@@ -199,7 +199,7 @@ following meanings:
 "Act's Age-Restricted Exemption Requirement" shall mean that at least 
 eighty percent (80%) of the Homes in DEL WEBB BEXLEY are occupied by at 
 least one (1) person fifty-five (55) years of age or older and DEL WEBB 
-BEXLEY complies with the requirements of the Act and 24 C.F.R. § 
+BEXLEY complies with the requirements of the Act and 24 C.F.R. Â§ 
 100.305, 100.306 and 100.307, as amended. 
 
 "Activity Card" means a card the Association issues in accordance with 
@@ -9208,11 +9208,11 @@ for Del Webb Bexley, as recorded in Official Records Book 9774, Page
 amended from time to time (the "Declaration") in addition to other 
 governing documents; 
 
-WHEREAS, § 720.305, Florida Statutes, authorizes the Association to levy 
+WHEREAS, Â§ 720.305, Florida Statutes, authorizes the Association to levy 
 fines and suspend common element use rights for violations of the 
 Association's governing documents; 
 
-WHEREAS, Article 7 § (9) of the Articles of Incorporation also 
+WHEREAS, Article 7 Â§ (9) of the Articles of Incorporation also 
 authorizes the Association to make and enforce rules and regulations 
 governing the Association, the Common Areas, Lots, and Parcels and 
 Homes; 
@@ -9520,12 +9520,12 @@ does so at their own risk. The neighborhood assumes no liability for
 permitting golf carts to be operated on the streets of Del Webb Bexley. 
 
 REGISTRATION 1. A registration form and a release of liability and 
-indemnification agreement (the “Registration Form”) must be completed by 
+indemnification agreement (the Â“Registration FormÂ”) must be completed by 
 each owner(s)/lessee(s) who intends to use a golf cart on the private 
 streets within the Association's community. Only owner(s)/lessee(s) of 
 record of property within the Association's community shall be entitled 
 to register golf carts in accordance with this Policy. The applying 
-owner(s)/lessee(s) shall become the “Registered Owner(s).” 2. Upon 
+owner(s)/lessee(s) shall become the Â“Registered Owner(s).Â” 2. Upon 
 receipt of the completed Registration Form and compliance with the 
 requirements of this Policy, each registered cart will be issued one 
 reflective numbered sticker w hich must be permanently affixed to 
@@ -9606,8 +9606,8 @@ FILE: Drone Policy 04.24.2025.txt
 
 
 The Board of Directors of Del Webb Bexley Community Association, Inc. 
-(the “Association”), pursuant Section 12.46 of the Community Declaration 
-for Del Webb Bexley (the Declaration”), hereby adopts this Commercial 
+(the Â“AssociationÂ”), pursuant Section 12.46 of the Community Declaration 
+for Del Webb Bexley (the DeclarationÂ”), hereby adopts this Commercial 
 Drone Policy, effective April 24, 2025 This Policy shall be part of the 
 Association's Rules and Regulations. In the event of a conflict between 
 the terms of this Policy and the terms of other Association Rules and 
@@ -9751,7 +9751,7 @@ Community Manager (CM), and/or board of Directors (BOD). Notification of
 any changes will be provided within 15 days to club/group leader or 
 President. All incidents or accidents occurring on Association property* 
 (whether requiring medical attention or not) will be immediately 
-reported to the LD or CM. DEFINITIONS • SANCTIONED CLUB: Any group of 
+reported to the LD or CM. DEFINITIONS Â• SANCTIONED CLUB: Any group of 
 Association members who are interested in pursuing a specific hobby, 
 recreational, social, or cultural interest, subject to the policies and 
 procedures outlined within the Del Webb Sanctioned Club Operating Manual 
@@ -9837,7 +9837,7 @@ sanctioned club, i.e., President, Vice-President, and Secretary or two
 Co-chairs and a Treasurer. If the club anticipates dues or other 
 financial considerations, a Treasurer must be appointed (Note: If 
 desired, clubs may combine the position of Secretary and Treasurer). As 
-new officers are elected annually, clubs will complete a new “Club 
+new officers are elected annually, clubs will complete a new Â“Club 
 Officers" form and email it to the Lifestyle Director within 30 days 
 following the annual election. Individuals wishing to start a 
 Club/Interest Group must complete an* application, which must be 
@@ -9903,11 +9903,11 @@ information, club name, event, time, date, cost, location and contact
 information. All flyers must be pre-approved by the Lifestyles Director 
 before* being sent out via email. All flyers must be saved in a JPEG or 
 PDF format to be emailed. Do not place flyers on doors, walls, or tables 
-in the Clubhouse.* Page 6 of 10 8/16/24 • Fundraising, Dues & Financial 
+in the Clubhouse.* Page 6 of 10 8/16/24 Â• Fundraising, Dues & Financial 
 Management Collecting dues is the sole dis*cretion of each Club or 
 Interest Group. Clubs and Interest Groups are responsible for their own 
 fiscal management.* All Clubs and Interest Groups must be either 
-“non-profit” or* “not for profit” and each Club and Interest Group will 
+Â“non-profitÂ” or* Â“not for profitÂ” and each Club and Interest Group will 
 be individually responsible for maintaining documentation as applicable 
 for the same. The facility, staff and HOA assume no responsibility for 
 the fiscal* management of the recognized Clubs and Interest Groups. 
