@@ -138,8 +138,8 @@
 
 			const end = endTag ? text.indexOf(`SEARCH TAG: ${endTag}`) : text.length;
 			//const raw = text.substring(start, end).trim().replace(/<DEPRECATED>[\s\S]*?<\/DEPRECATED>/gi, '').trim();
-			//Remove depracations for display
-			return text.substring(start, end).trim().replace(/<DEPRECATED>[\s\S]*?<\/DEPRECATED>/gi, '').trim();
+			//Remove depracations and strikes for display
+			return text.substring(start, end).trim().replace(/<DEPRECATED>[\s\S]*?<\/DEPRECATED>/gi, '').replace(/<STRIKE>[\s\S]*?<\/STRIKE>/gi, '').trim();
 					
 		}
 
